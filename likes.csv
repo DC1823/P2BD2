@@ -1,0 +1,3 @@
+start_node_id,end_node_id,properties.InterestLevel,properties.Date_Liked,properties.Comment
+johndoe,actor1,5,2022-01-15,"Great performance!"
+janesmith,director1,4,2021-12-20,"Interesting direction"

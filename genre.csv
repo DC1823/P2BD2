@@ -1,0 +1,3 @@
+name,topics,description,elements,endingType
+Action,"['Action', 'Adventure']",Action genre description,"['Explosions', 'Fight scenes']",["Happy ending", "Tragic ending"]
+Drama,"['Drama', 'Romance']",Drama genre description,"['Emotional scenes', 'Dialogue']",["Open ending"]

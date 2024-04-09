@@ -1,0 +1,3 @@
+start_node_id,end_node_id,properties.Role,properties.Since,properties.Until
+actor1,Film1,Lead Actor,2020-01-01,2020-12-31
+director1,Film2,Director,2019-10-15,

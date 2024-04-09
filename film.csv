@@ -1,0 +1,3 @@
+title,classification,plot,duration,genres,revenue (M),budget (M),languages
+Film1,PG-13,Plot summary here,120,"['Action', 'Drama']",50,30,["English", "Spanish"]
+Film2,R,Another plot summary,150,"['Drama']",20,15,["English"]

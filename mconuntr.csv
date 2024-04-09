@@ -1,0 +1,3 @@
+start_node_id,end_node_id,properties.Role,properties.DateReleased,properties.ContributionType
+actor1,song1,Singer,2020-06-01,Vocal contribution
+director1,song2,Composer,2021-09-15,Music composition
