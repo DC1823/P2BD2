@@ -1,3 +1,3 @@
 start_node_id,end_node_id,properties.Rating,properties.DateRated,properties.Recommended
-johndoe,Film1,4,2022-12-10,True
-janesmith,Film2,5,2023-01-05,True
+"John Doe",Film1,4,2022-12-10,True
+"Jane Smith",Film2,5,2023-01-05,True
