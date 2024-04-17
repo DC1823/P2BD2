@@ -393,7 +393,7 @@ else:
                     since = input("Ingrese la fecha de inicio del miembro: ")
                     until = input("Ingrese la fecha de finalización del miembro: ")
                     propiedades = "{Role:'"+role+"',Since:'"+since+"',Until:'"+until+"'}"
-                    relationship(driver.session(), idpeli, idmiembro, "PARTICIPATED_IN", propiedades)
+                    relationship(driver.session(), idmiembro, idpeli, "PARTICIPATED_IN", propiedades)
             elif subopcion == "2":
                 with driver.session() as session:
                     #properties.Year,properties.Percentage,properties.VotesReceived
@@ -409,15 +409,15 @@ else:
             elif subopcion == "3":
                 with driver.session() as session:
                     #properties.Year,properties.TimesWon,properties.WasInGala
-                    nombrepelicula = input("Ingrese el nombre de la película: ")
+                    nombrepremio = input("Ingrese el nombre de la película: ")
                     nombremiembro = input("Ingrese el nombre del miembro del equipo: ")
-                    idpeli=get_node_id(driver.session(), "Film", "name", nombrepelicula)
+                    idpremio=get_node_id(driver.session(), "Film", "name", nombrepremio)
                     idmiembro=get_node_id(driver.session(), "MovieTeam", "name", nombremiembro)
                     year = input("Ingrese el año del premio: ")
                     times = input("Ingrese las veces que ha ganado el premio: ")
                     gala = 1 if input("Ingrese si estuvo en la gala del premio y/n") == "y" else 0
                     propiedades = "{Year:"+year+",TimesWon:"+times+",WasInGala:"+gala+"}"
-                    relationship(driver.session(), idmiembro, idpeli, "WON", propiedades) 
+                    relationship(driver.session(), idmiembro, idpremio, "OBTAINED", propiedades) 
             elif subopcion == "4":
                 #properties.SelectionDate,properties.MomentShowed,properties.SceneDescription
                 with driver.session() as session:
@@ -429,7 +429,7 @@ else:
                     moment = input("Ingrese el momento de la canción: ")
                     scene = input("Ingrese la descripción de la escena de la canción: ")
                     propiedades = "{SelectionDate:'"+selection+"',MomentShowed:'"+moment+"',SceneDescription:'"+scene+"'}"
-                    relationship(driver.session(), idpeli, idsong, "SOUNDED_IN", propiedades)
+                    relationship(driver.session(),idsong, idpeli,"SOUNDTRACK_OF", propiedades)
             elif subopcion == "5":
                 #properties.PrimaryGenre,properties.SubGenre,properties.Description
                 with driver.session() as session:
@@ -441,7 +441,7 @@ else:
                     sub = input("Ingrese el subgénero de la película: ")
                     description = input("Ingrese la descripción del género de la película: ")
                     propiedades = "{PrimaryGenre:'"+primary+"',SubGenre:'"+sub+"',Description:'"+description+"'}"
-                    relationship(driver.session(), idpeli, idgenero, "BELONGS_TO", propiedades)
+                    relationship(driver.session(), idpeli, idgenero, "HAS_GENRE", propiedades)
             elif subopcion == "6":
                 #properties.Role,properties.DateReleased,properties.ContributionType
                 with driver.session() as session:
@@ -453,7 +453,7 @@ else:
                     date = input("Ingrese la fecha de lanzamiento de la canción: ")
                     contribution = input("Ingrese el tipo de contribución del miembro: ")
                     propiedades = "{Role:'"+role+"',DateReleased:'"+date+"',ContributionType:'"+contribution+"'}"
-                    relationship(driver.session(), idmiembro, idcancion, "PARTICIPATED_IN", propiedades)
+                    relationship(driver.session(), idmiembro, idcancion, "MUSIC_CONTRIBUTION", propiedades)
         elif opcion == "3":
             print("Seleccione una opción:")
             print("1. Modificar Película")
