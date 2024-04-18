@@ -1,3 +1,1001 @@
 start_node_id,end_node_id,properties.Year,properties.TimesWon,properties.WasInGala
-Actor1,Award1,2022,1,True
-Director1,Award2,2023,2,False
+Nancy Thompson,Best International Feature,2002,0,False
+Charles Anderson,Best Animated Feature,2013,3,True
+Anthony Taylor,Best Picture,2013,3,True
+William Clark,Best International Feature,2010,0,False
+Barbara Allen,Best Adapted Screenplay,2014,3,False
+Elizabeth Miller,Best Documentary Feature,2006,2,False
+Margaret Johnson,Best Cinematography,2004,3,False
+Robert Taylor,Best Adapted Screenplay,2017,2,True
+Ashley Hall,Best Cinematography,2005,2,True
+Patricia Davis,Best Director,2001,1,False
+Matthew Jones,Best Adapted Screenplay,2005,0,False
+Jennifer Jackson,Best Picture,2009,2,True
+Linda Allen,Best Supporting Actor,2010,1,True
+Mark Thomas,Best Documentary Feature,2008,1,True
+John Hernandez,Best Original Screenplay,2020,3,False
+Anthony Garcia,Best Director,2005,3,False
+Thomas Anderson,Best Adapted Screenplay,2010,2,False
+Ashley Martinez,Best Cinematography,2007,1,False
+Matthew Hall,Best Supporting Actress,2018,0,True
+Ashley Young,Best Adapted Screenplay,2012,2,False
+David Rodriguez,Best Supporting Actor,2020,1,False
+Matthew Allen,Best Actress,2007,2,False
+Sarah Walker,Best Documentary Feature,2011,3,False
+Jennifer White,Best Original Screenplay,2012,1,False
+Richard White,Best Supporting Actor,2010,0,False
+Ashley Johnson,Best Animated Feature,2015,1,False
+Sandra Thompson,Best Cinematography,2011,3,True
+Karen Davis,Best Original Screenplay,2012,1,False
+Christopher Jones,Best Actor,2020,0,True
+Michael Smith,Best Supporting Actor,2000,1,False
+Margaret Wilson,Best International Feature,2013,1,False
+David Thomas,Best Adapted Screenplay,2009,1,False
+David Davis,Best Documentary Feature,2016,1,False
+Richard Davis,Best Adapted Screenplay,2003,3,True
+Charles Harris,Best International Feature,2001,2,True
+Sandra Garcia,Best International Feature,2012,1,False
+Anthony Miller,Best Animated Feature,2011,2,True
+Lisa Martin,Best Actor,2015,3,False
+Jessica Williams,Best Actor,2015,2,True
+Karen Miller,Best Adapted Screenplay,2020,2,False
+Elizabeth Thompson,Best Animated Feature,2007,3,True
+Jessica Thomas,Best Original Screenplay,2001,1,False
+Michael Jones,Best Picture,2009,2,False
+Jennifer Jones,Best Supporting Actress,2010,0,True
+Karen Garcia,Best Adapted Screenplay,2013,3,True
+Karen Harris,Best Actor,2006,1,False
+Karen Lee,Best Adapted Screenplay,2004,0,True
+Sandra White,Best Director,2018,0,False
+Ashley Lee,Best Supporting Actress,2008,0,True
+Susan Rodriguez,Best Actress,2002,0,False
+Patricia Robinson,Best Adapted Screenplay,2003,1,False
+Daniel Johnson,Best Animated Feature,2000,1,False
+Jessica Brown,Best Adapted Screenplay,2009,1,True
+Daniel Harris,Best Animated Feature,2014,1,False
+William Martin,Best Actor,2013,3,True
+Barbara White,Best Actor,2005,2,False
+Mary Harris,Best Original Screenplay,2010,0,True
+James Anderson,Best Supporting Actor,2020,3,True
+Linda Lee,Best Actor,2016,2,False
+Mark Davis,Best Actor,2012,3,False
+Robert Miller,Best Animated Feature,2012,3,False
+Margaret Miller,Best Supporting Actor,2003,2,False
+Robert Davis,Best Actress,2006,1,False
+Linda Clark,Best Animated Feature,2006,2,True
+Anthony Harris,Best Supporting Actress,2019,1,True
+Mark Wilson,Best Cinematography,2018,1,True
+John Hernandez,Best Director,2013,1,True
+David Thompson,Best Director,2012,2,False
+Jennifer Rodriguez,Best Adapted Screenplay,2019,1,True
+Mary Thompson,Best Supporting Actor,2007,3,False
+Ashley Martinez,Best Animated Feature,2006,0,True
+John Martinez,Best International Feature,2004,3,False
+Michael White,Best Supporting Actor,2004,2,False
+Christopher Johnson,Best Supporting Actor,2001,0,True
+Ashley Clark,Best International Feature,2014,1,True
+Margaret Martinez,Best Director,2006,2,False
+Thomas White,Best Documentary Feature,2005,1,True
+Ashley Smith,Best Director,2007,3,False
+Matthew Young,Best Animated Feature,2009,3,False
+Jennifer Martin,Best Documentary Feature,2002,3,True
+David Martin,Best Documentary Feature,2011,0,True
+Ashley Williams,Best Picture,2002,3,False
+John Young,Best Supporting Actress,2007,1,True
+Christopher Martin,Best Supporting Actress,2020,3,False
+Daniel Martin,Best Animated Feature,2007,1,True
+Jessica Harris,Best Actress,2018,2,False
+Linda Anderson,Best Original Screenplay,2007,1,False
+Joseph Jackson,Best Documentary Feature,2005,3,False
+Anthony Moore,Best Director,2007,3,True
+Sandra Walker,Best Actress,2018,0,True
+Mark Anderson,Best Actor,2005,1,False
+James Hall,Best Adapted Screenplay,2012,1,True
+Mary Martin,Best Director,2016,1,False
+Joseph White,Best Supporting Actor,2020,0,True
+Michael Thomas,Best Supporting Actress,2013,0,True
+Richard Moore,Best Director,2015,2,False
+Susan Williams,Best Original Screenplay,2008,2,True
+Daniel Miller,Best Cinematography,2010,3,False
+Susan Robinson,Best Director,2002,0,True
+David Williams,Best Documentary Feature,2004,1,False
+Barbara Robinson,Best Animated Feature,2004,2,False
+David Moore,Best Documentary Feature,2011,1,False
+Sarah Davis,Best Animated Feature,2016,3,True
+Daniel Taylor,Best Picture,2017,3,False
+Charles Walker,Best Supporting Actor,2014,1,False
+James Miller,Best Cinematography,2012,3,True
+Robert Walker,Best Actress,2020,1,False
+Thomas Walker,Best Actress,2018,2,True
+Mark Martin,Best Cinematography,2001,2,True
+Karen Anderson,Best Actor,2019,2,True
+Patricia Lee,Best Supporting Actor,2004,2,False
+John Lewis,Best Adapted Screenplay,2020,2,True
+Susan Rodriguez,Best International Feature,2006,0,False
+Daniel Lee,Best Actress,2012,2,True
+Margaret Johnson,Best Animated Feature,2007,2,False
+Sandra Anderson,Best Cinematography,2001,1,True
+Thomas Young,Best Animated Feature,2007,2,True
+Lisa Moore,Best Cinematography,2000,1,False
+Matthew Taylor,Best Actress,2003,3,True
+Christopher Jones,Best Supporting Actress,2002,0,False
+Susan Jackson,Best International Feature,2005,2,True
+Mary Young,Best International Feature,2009,2,True
+Susan Rodriguez,Best Director,2017,1,True
+Sarah Johnson,Best Supporting Actress,2012,0,False
+Joseph Thompson,Best Adapted Screenplay,2016,0,False
+David Allen,Best International Feature,2008,2,False
+Elizabeth Martinez,Best Actor,2014,3,True
+William Young,Best Picture,2006,1,False
+Joseph Williams,Best Picture,2006,3,True
+Ashley Martinez,Best Actor,2005,3,False
+James Thomas,Best Actress,2016,1,False
+Mary Harris,Best Supporting Actress,2002,2,False
+Charles Robinson,Best Cinematography,2018,1,True
+Barbara Allen,Best Cinematography,2019,3,True
+Mary Miller,Best Original Screenplay,2010,3,False
+Robert Walker,Best Original Screenplay,2016,2,True
+Linda Davis,Best Adapted Screenplay,2001,2,True
+Linda Lewis,Best Adapted Screenplay,2002,2,False
+Christopher White,Best Actress,2009,3,False
+Anthony Allen,Best Animated Feature,2010,3,True
+Ashley Rodriguez,Best International Feature,2017,2,True
+Margaret Thomas,Best Actor,2007,0,False
+Anthony Martin,Best Documentary Feature,2003,2,False
+John Young,Best Director,2020,0,True
+Jennifer Allen,Best Adapted Screenplay,2011,2,False
+Margaret Young,Best International Feature,2008,1,True
+Michael Thomas,Best Animated Feature,2019,1,False
+Michael Thompson,Best Original Screenplay,2005,0,False
+Barbara Miller,Best Supporting Actor,2020,3,True
+Christopher Robinson,Best Actress,2009,1,True
+Mark Jones,Best Actress,2015,3,True
+William Thompson,Best Cinematography,2007,0,True
+Robert Anderson,Best Director,2012,0,False
+Christopher Young,Best Supporting Actress,2020,2,True
+William Johnson,Best Actress,2007,0,False
+Sandra Williams,Best Original Screenplay,2010,1,True
+Jennifer Harris,Best Original Screenplay,2014,3,False
+Richard Lewis,Best Original Screenplay,2020,2,False
+James Martinez,Best Supporting Actress,2011,0,True
+Mary Anderson,Best International Feature,2012,0,True
+Barbara Martinez,Best Director,2005,0,True
+Jennifer Martin,Best Documentary Feature,2009,3,True
+Barbara Robinson,Best Supporting Actor,2000,0,False
+Susan Williams,Best International Feature,2008,3,True
+Lisa Lee,Best Actor,2000,0,True
+Joseph Hall,Best Director,2015,2,True
+Mark Hall,Best Director,2001,0,False
+Ashley Allen,Best Original Screenplay,2002,1,False
+Jessica Lee,Best Actress,2002,3,True
+David Clark,Best Original Screenplay,2013,2,False
+Patricia Smith,Best Original Screenplay,2015,3,True
+David Jackson,Best Picture,2020,0,False
+Thomas Hernandez,Best Picture,2003,0,True
+Richard Lewis,Best Adapted Screenplay,2002,0,False
+Christopher Martin,Best Animated Feature,2013,2,True
+Michael Thomas,Best Original Screenplay,2006,0,False
+Barbara Thompson,Best Actress,2012,2,False
+Daniel Jones,Best Actress,2005,0,True
+Matthew Clark,Best Supporting Actor,2006,1,False
+Elizabeth Robinson,Best Supporting Actor,2009,2,True
+Anthony Jackson,Best International Feature,2006,2,True
+Mary Smith,Best Picture,2007,2,True
+Sandra Thompson,Best International Feature,2006,1,False
+Robert Anderson,Best Actor,2011,2,True
+David Clark,Best International Feature,2003,1,True
+Susan Clark,Best Animated Feature,2010,0,True
+Thomas Wilson,Best Actor,2014,0,True
+Richard Robinson,Best Adapted Screenplay,2002,2,False
+Christopher Hernandez,Best Adapted Screenplay,2007,1,False
+Robert Miller,Best Director,2013,1,True
+Elizabeth Hernandez,Best International Feature,2012,3,True
+Jennifer White,Best Cinematography,2010,3,True
+Patricia Clark,Best Actress,2009,1,True
+Daniel Walker,Best Adapted Screenplay,2017,2,True
+Sandra White,Best Cinematography,2020,2,False
+Michael Brown,Best Picture,2017,1,True
+Karen Jones,Best Picture,2006,2,True
+Barbara Rodriguez,Best Actress,2006,2,False
+Richard Garcia,Best Supporting Actress,2015,3,True
+Karen Hernandez,Best International Feature,2020,2,False
+Christopher Robinson,Best Supporting Actor,2005,3,True
+Margaret Robinson,Best Cinematography,2005,1,False
+Sandra Harris,Best Animated Feature,2002,3,False
+Margaret Allen,Best Actor,2007,3,True
+Elizabeth Thomas,Best Picture,2005,3,True
+Anthony Taylor,Best Adapted Screenplay,2010,1,False
+Lisa Thomas,Best Documentary Feature,2020,1,True
+Susan Garcia,Best Director,2013,2,True
+Sandra Harris,Best Animated Feature,2016,2,True
+Susan Lewis,Best Director,2004,2,False
+Ashley Lewis,Best Supporting Actor,2006,2,False
+Robert Smith,Best Documentary Feature,2006,1,True
+Jessica Moore,Best Animated Feature,2005,3,True
+Nancy Young,Best Actress,2000,1,False
+Karen Garcia,Best Director,2017,3,True
+Lisa Taylor,Best Director,2007,2,False
+Lisa Robinson,Best Supporting Actress,2001,3,True
+Michael Martin,Best International Feature,2007,3,False
+Jennifer Walker,Best Actress,2014,1,False
+Mark Johnson,Best Supporting Actor,2017,3,False
+Margaret Harris,Best Documentary Feature,2013,0,True
+Robert Davis,Best Actor,2012,0,False
+Sarah Clark,Best Picture,2017,3,False
+Jennifer Thomas,Best Documentary Feature,2018,0,False
+Richard Clark,Best Animated Feature,2014,3,True
+Elizabeth Martin,Best Cinematography,2006,2,False
+Patricia Martin,Best Picture,2002,1,True
+Elizabeth Young,Best Supporting Actress,2012,3,False
+Nancy Robinson,Best Original Screenplay,2003,0,True
+Sarah Clark,Best International Feature,2007,3,False
+Christopher Moore,Best Supporting Actor,2012,2,False
+Jessica Robinson,Best Original Screenplay,2011,0,False
+Ashley Jones,Best Director,2017,1,True
+David Martin,Best Documentary Feature,2000,3,False
+Ashley Rodriguez,Best Cinematography,2019,2,False
+John Harris,Best Cinematography,2002,2,False
+John Jackson,Best International Feature,2014,3,False
+Susan Johnson,Best Director,2008,1,False
+William Martin,Best Director,2002,3,False
+Michael Davis,Best International Feature,2006,1,True
+Mary Martin,Best Documentary Feature,2018,3,True
+Mark Thomas,Best Picture,2019,2,True
+Barbara Hall,Best Actor,2015,0,True
+Mary Jackson,Best Animated Feature,2020,3,True
+Elizabeth Lewis,Best Director,2015,1,True
+Richard Moore,Best Adapted Screenplay,2013,0,True
+Anthony Taylor,Best International Feature,2004,3,True
+Michael Martin,Best International Feature,2020,2,True
+John Clark,Best Picture,2007,3,False
+Barbara Jackson,Best Picture,2008,1,True
+Daniel Miller,Best Supporting Actress,2014,1,False
+Linda Jones,Best International Feature,2005,1,False
+Sandra Martin,Best Documentary Feature,2009,2,False
+David Jackson,Best Actress,2005,3,True
+Lisa Harris,Best Documentary Feature,2012,3,True
+Richard Miller,Best International Feature,2012,1,False
+Anthony Johnson,Best Actress,2007,1,False
+David Thompson,Best Supporting Actress,2005,2,True
+Anthony Jones,Best Original Screenplay,2019,2,False
+Susan Smith,Best Director,2007,3,True
+Mark Miller,Best International Feature,2010,0,True
+Thomas Miller,Best Cinematography,2018,1,True
+John Thomas,Best Picture,2014,3,True
+Sarah Thomas,Best Supporting Actor,2018,0,True
+Ashley Hall,Best International Feature,2000,2,False
+Sarah Harris,Best Director,2008,3,False
+Karen Hernandez,Best Supporting Actor,2006,3,True
+Lisa Rodriguez,Best Adapted Screenplay,2009,0,True
+Sandra Taylor,Best Supporting Actress,2003,0,True
+Sarah Young,Best Supporting Actor,2006,2,False
+Jessica Anderson,Best Documentary Feature,2009,0,True
+Sarah Jackson,Best Actress,2001,0,True
+Karen Williams,Best Supporting Actor,2014,3,False
+James White,Best Actress,2006,2,True
+Michael Allen,Best International Feature,2010,3,True
+John Martin,Best Picture,2008,2,False
+Jennifer Anderson,Best Actor,2015,3,False
+Mary Davis,Best Actor,2000,2,True
+Anthony Johnson,Best International Feature,2017,0,False
+Mary Miller,Best Supporting Actor,2019,2,True
+Christopher Martin,Best Adapted Screenplay,2012,2,False
+Patricia White,Best Cinematography,2001,0,True
+Christopher Jones,Best Supporting Actress,2014,2,False
+Matthew Anderson,Best Original Screenplay,2008,0,True
+Charles Miller,Best Animated Feature,2000,0,False
+Sarah Lewis,Best Animated Feature,2007,0,True
+Susan Lewis,Best Actress,2017,2,True
+William Anderson,Best Animated Feature,2015,2,False
+Thomas Young,Best Documentary Feature,2012,3,True
+Sarah Lewis,Best Actress,2010,2,False
+Mary Johnson,Best Supporting Actress,2009,1,True
+Jessica Hall,Best Actress,2007,0,False
+William Anderson,Best Cinematography,2010,1,False
+Robert Harris,Best Original Screenplay,2000,3,False
+Sandra Garcia,Best Supporting Actor,2016,2,False
+Mark Hall,Best Actress,2001,1,False
+Jessica Wilson,Best Actor,2004,2,True
+Susan Thompson,Best Actress,2018,1,True
+Michael Jones,Best Director,2003,0,True
+Anthony Wilson,Best Animated Feature,2010,2,True
+Michael Jones,Best Picture,2000,1,True
+Sarah Martin,Best Animated Feature,2001,3,True
+William Jones,Best Actor,2000,3,True
+Barbara Allen,Best Supporting Actress,2000,2,True
+James Johnson,Best Actress,2018,3,False
+Richard Harris,Best Actress,2005,0,True
+Elizabeth Thomas,Best Cinematography,2000,3,False
+Jessica Williams,Best Director,2013,0,False
+Daniel Walker,Best Documentary Feature,2015,3,True
+Matthew Robinson,Best Director,2012,1,True
+Anthony Hall,Best Supporting Actor,2013,0,False
+Barbara Walker,Best Actor,2002,2,False
+Robert Miller,Best International Feature,2005,3,True
+Jennifer Clark,Best Animated Feature,2008,2,False
+Michael Miller,Best Cinematography,2019,0,True
+Susan Allen,Best Cinematography,2015,1,True
+Matthew Smith,Best Director,2011,2,False
+Margaret Anderson,Best Actress,2004,0,True
+Jessica Lee,Best Cinematography,2003,0,False
+John Walker,Best Actor,2014,2,False
+Patricia Young,Best Actress,2010,0,True
+Sandra Miller,Best Original Screenplay,2017,2,True
+Sarah Wilson,Best Adapted Screenplay,2014,0,False
+Jessica Harris,Best Original Screenplay,2001,3,False
+John Walker,Best Picture,2020,1,False
+Linda Hernandez,Best Adapted Screenplay,2020,0,False
+Thomas Thompson,Best Documentary Feature,2006,1,False
+James Moore,Best Director,2014,2,False
+Susan Thompson,Best Cinematography,2010,2,False
+Patricia Hernandez,Best International Feature,2012,0,False
+Susan White,Best Cinematography,2008,1,True
+Jessica Young,Best Supporting Actress,2004,2,False
+Robert Davis,Best Picture,2008,0,False
+Jennifer Hernandez,Best Animated Feature,2018,3,False
+Sandra Moore,Best Director,2002,0,False
+Daniel Jones,Best International Feature,2008,0,False
+Mark Moore,Best Supporting Actor,2008,1,True
+John Miller,Best Animated Feature,2015,2,True
+Elizabeth Martinez,Best Documentary Feature,2008,2,False
+Charles Thompson,Best Actress,2015,2,True
+Jennifer Martin,Best Actor,2003,0,False
+Susan Lee,Best Original Screenplay,2018,2,True
+John Jones,Best Supporting Actress,2000,2,True
+Lisa Anderson,Best Animated Feature,2015,0,True
+Richard Allen,Best Supporting Actor,2007,2,False
+Mark Allen,Best Supporting Actor,2013,3,True
+Ashley Jackson,Best Documentary Feature,2003,3,True
+William Robinson,Best Actress,2013,3,False
+Charles Moore,Best Supporting Actor,2013,2,False
+Sandra White,Best Supporting Actress,2015,1,True
+Thomas Wilson,Best Adapted Screenplay,2006,1,False
+Lisa Johnson,Best Animated Feature,2003,0,False
+Susan Clark,Best Cinematography,2017,0,False
+Joseph Johnson,Best Supporting Actor,2018,3,False
+Barbara Young,Best Adapted Screenplay,2020,3,True
+Lisa Harris,Best Original Screenplay,2004,2,True
+Elizabeth Miller,Best Supporting Actress,2018,0,True
+Jessica Moore,Best Animated Feature,2016,0,False
+Elizabeth Garcia,Best Supporting Actor,2011,3,False
+Susan Thompson,Best Animated Feature,2001,1,True
+Ashley Lee,Best Original Screenplay,2011,1,False
+Thomas Walker,Best Animated Feature,2000,0,True
+Ashley Young,Best Supporting Actress,2006,1,False
+Sarah Johnson,Best Cinematography,2016,1,False
+Karen Allen,Best Supporting Actor,2001,2,True
+Robert Taylor,Best Adapted Screenplay,2003,2,True
+Ashley Robinson,Best Supporting Actress,2002,0,True
+Mary Martin,Best Supporting Actor,2016,2,True
+John Walker,Best Director,2003,2,False
+Thomas Clark,Best Supporting Actor,2008,2,True
+Barbara Williams,Best Supporting Actress,2007,3,False
+Linda Clark,Best Supporting Actress,2008,2,True
+Matthew Harris,Best Adapted Screenplay,2002,2,False
+Michael Lee,Best Supporting Actress,2017,0,False
+Joseph Brown,Best Adapted Screenplay,2003,2,True
+Patricia Martin,Best Director,2002,1,True
+Margaret White,Best Cinematography,2011,3,True
+Sarah Martin,Best Director,2011,2,False
+Patricia Martin,Best Cinematography,2018,0,False
+Susan Allen,Best Animated Feature,2000,1,True
+John Rodriguez,Best Picture,2004,2,False
+Susan Walker,Best Adapted Screenplay,2010,1,True
+Jennifer Jones,Best Actor,2012,0,True
+Patricia Martin,Best Documentary Feature,2012,2,False
+Lisa Martin,Best Adapted Screenplay,2014,2,False
+Thomas Robinson,Best Documentary Feature,2002,0,True
+Robert Brown,Best Supporting Actor,2011,1,True
+Richard Johnson,Best Picture,2015,2,True
+Margaret Johnson,Best Adapted Screenplay,2006,0,False
+Christopher Anderson,Best Picture,2006,3,False
+Mark Thomas,Best Animated Feature,2016,2,False
+William Garcia,Best Supporting Actress,2016,1,False
+Linda Garcia,Best Original Screenplay,2001,3,True
+Mary Young,Best Adapted Screenplay,2018,2,True
+Linda Williams,Best International Feature,2016,0,True
+Elizabeth Rodriguez,Best Picture,2001,3,True
+Nancy Lee,Best Animated Feature,2013,1,True
+Richard Moore,Best International Feature,2013,3,False
+Ashley Thomas,Best Actress,2020,0,True
+Elizabeth Smith,Best Actress,2011,2,False
+Michael Williams,Best Actor,2015,1,False
+Jennifer Martin,Best Documentary Feature,2019,1,True
+Mark Garcia,Best Adapted Screenplay,2011,0,True
+Matthew Smith,Best Supporting Actor,2018,1,True
+Elizabeth Lee,Best Original Screenplay,2016,3,False
+Mary Lewis,Best Picture,2001,1,True
+Robert Brown,Best Picture,2012,3,False
+James Lewis,Best Director,2004,1,False
+Joseph Jones,Best International Feature,2009,0,True
+Lisa Young,Best Animated Feature,2004,1,False
+Mary White,Best Actress,2003,1,False
+Christopher Rodriguez,Best Supporting Actor,2006,2,True
+Christopher Martin,Best Actor,2016,2,False
+William Thompson,Best Original Screenplay,2020,1,True
+Barbara Davis,Best Animated Feature,2006,3,False
+Sarah Johnson,Best Adapted Screenplay,2016,2,True
+Mark Walker,Best Picture,2007,0,True
+Mark Johnson,Best Adapted Screenplay,2002,0,True
+Jessica Jones,Best International Feature,2014,2,True
+Jessica Anderson,Best Original Screenplay,2001,3,False
+Mark Young,Best Documentary Feature,2001,3,False
+Thomas Jackson,Best Actor,2003,0,False
+Ashley Young,Best Picture,2000,1,True
+Christopher Thomas,Best Documentary Feature,2020,3,True
+Susan Hall,Best Original Screenplay,2000,2,False
+Mark Thomas,Best Actress,2012,1,True
+Ashley Martinez,Best Actress,2005,0,False
+David Moore,Best Documentary Feature,2009,2,True
+Patricia Harris,Best Original Screenplay,2009,1,False
+William White,Best Supporting Actress,2006,3,True
+Lisa Thompson,Best Original Screenplay,2015,3,True
+Jessica Garcia,Best Supporting Actress,2016,2,False
+Jessica Smith,Best Actress,2002,2,True
+Daniel Smith,Best Adapted Screenplay,2009,2,False
+Thomas White,Best Supporting Actor,2008,0,False
+Mary Allen,Best Actor,2004,2,True
+Richard Smith,Best International Feature,2003,3,False
+Mark Miller,Best Original Screenplay,2016,0,False
+Ashley Hall,Best Actress,2020,2,False
+Karen Brown,Best Supporting Actor,2007,3,True
+Sarah Thompson,Best Original Screenplay,2015,2,False
+Daniel Young,Best Picture,2015,3,False
+Robert Clark,Best Supporting Actor,2006,2,True
+Linda Williams,Best Documentary Feature,2019,3,False
+Nancy Brown,Best Actress,2009,2,True
+Sandra Davis,Best Supporting Actress,2018,2,False
+Michael Martin,Best Actress,2016,1,False
+Linda Clark,Best Documentary Feature,2004,1,False
+Robert Walker,Best Actress,2012,2,False
+Anthony Thompson,Best Picture,2009,0,True
+David Jones,Best Original Screenplay,2017,0,True
+Mary Johnson,Best International Feature,2009,3,True
+Christopher Davis,Best Actor,2002,1,True
+Matthew Allen,Best Picture,2019,1,True
+Margaret Hernandez,Best Actor,2001,2,True
+Michael Davis,Best Picture,2009,3,True
+Thomas Johnson,Best International Feature,2003,2,False
+Robert Robinson,Best International Feature,2011,3,False
+Robert Brown,Best Cinematography,2005,0,False
+Anthony Hernandez,Best Supporting Actress,2009,2,True
+Patricia Young,Best Picture,2004,2,True
+John Young,Best Supporting Actress,2003,2,True
+David Williams,Best Director,2005,2,True
+Christopher Lee,Best Original Screenplay,2011,2,False
+Margaret Thomas,Best Actress,2012,1,False
+Matthew Allen,Best Actress,2005,3,True
+Barbara White,Best Animated Feature,2018,2,False
+Charles Garcia,Best Director,2005,3,True
+Matthew Allen,Best Original Screenplay,2003,1,True
+Ashley Lee,Best Picture,2006,1,False
+Barbara Williams,Best Documentary Feature,2013,2,True
+James Wilson,Best Actor,2009,2,True
+Anthony Davis,Best Cinematography,2012,3,True
+Michael Clark,Best Actress,2009,2,False
+Charles Miller,Best Supporting Actor,2019,3,True
+David Moore,Best Picture,2012,0,False
+Mary Wilson,Best International Feature,2016,1,True
+Jessica Walker,Best Documentary Feature,2020,0,False
+Jessica Garcia,Best Supporting Actress,2014,1,True
+Ashley Allen,Best Animated Feature,2012,3,False
+James Walker,Best Picture,2008,3,True
+John Johnson,Best Actress,2015,3,False
+Mark Young,Best Supporting Actress,2004,0,False
+Karen Jones,Best Animated Feature,2009,3,True
+Matthew Davis,Best Supporting Actor,2004,2,False
+Joseph Johnson,Best Cinematography,2008,1,False
+Michael Brown,Best Supporting Actor,2005,2,True
+Richard Lee,Best Animated Feature,2017,0,False
+Richard Brown,Best Director,2014,3,False
+Susan Williams,Best Supporting Actress,2018,2,True
+Patricia Miller,Best Adapted Screenplay,2005,2,True
+Karen Davis,Best Animated Feature,2010,1,True
+Robert Davis,Best Picture,2006,3,True
+Linda Robinson,Best Actress,2000,0,False
+Michael Lewis,Best Picture,2001,0,True
+Robert Jones,Best Actor,2019,2,True
+Robert White,Best Supporting Actor,2005,0,True
+Margaret Harris,Best Picture,2008,1,False
+William Robinson,Best Actress,2001,3,False
+Linda Hall,Best Actor,2017,2,True
+Mark Clark,Best Actor,2018,3,False
+Robert Hernandez,Best Animated Feature,2012,2,False
+Daniel Miller,Best Supporting Actress,2016,0,True
+John Lewis,Best Actress,2003,1,True
+Mary Garcia,Best Documentary Feature,2019,1,False
+John Jackson,Best Supporting Actress,2013,2,False
+Patricia Smith,Best Actress,2009,0,False
+Robert Taylor,Best Actress,2000,3,True
+Charles Lewis,Best Director,2010,3,False
+Christopher Hernandez,Best Cinematography,2002,2,True
+Daniel Lewis,Best Cinematography,2003,2,False
+Robert Davis,Best Picture,2013,0,True
+Joseph Taylor,Best Original Screenplay,2004,3,True
+Charles Rodriguez,Best Supporting Actor,2020,3,True
+Patricia Robinson,Best Documentary Feature,2015,3,True
+John Anderson,Best Actress,2010,0,True
+Elizabeth Young,Best Actor,2003,3,False
+Joseph Jackson,Best Animated Feature,2019,0,False
+Christopher Jones,Best Director,2006,1,False
+Daniel Lewis,Best Original Screenplay,2006,2,True
+Jennifer Walker,Best Adapted Screenplay,2011,3,True
+Mary Anderson,Best Supporting Actress,2005,2,False
+Linda Lee,Best Original Screenplay,2020,3,True
+James Brown,Best Adapted Screenplay,2018,3,False
+Christopher Rodriguez,Best Picture,2017,0,True
+Linda Hernandez,Best Animated Feature,2010,2,True
+William Miller,Best Actress,2002,1,True
+Jennifer Robinson,Best Adapted Screenplay,2001,3,True
+David Moore,Best Original Screenplay,2019,0,False
+Robert Smith,Best Original Screenplay,2006,0,False
+Ashley Thompson,Best Cinematography,2018,0,True
+Sandra Moore,Best Documentary Feature,2014,1,False
+Robert Brown,Best Picture,2016,1,True
+David Thompson,Best Original Screenplay,2005,2,False
+Patricia Hernandez,Best Original Screenplay,2010,0,False
+Mary Thomas,Best Actress,2000,1,True
+Anthony Rodriguez,Best Cinematography,2007,0,False
+Joseph Brown,Best Animated Feature,2009,1,True
+Margaret Moore,Best Cinematography,2018,1,False
+Charles Martin,Best Director,2006,2,False
+Anthony Moore,Best Documentary Feature,2003,2,False
+Mark Moore,Best Adapted Screenplay,2015,1,False
+Thomas Rodriguez,Best Director,2004,1,True
+Michael Robinson,Best Original Screenplay,2009,1,True
+Joseph Jones,Best Picture,2003,2,True
+Jessica Young,Best Supporting Actor,2005,1,True
+Barbara Robinson,Best Supporting Actor,2010,3,False
+Sandra White,Best Supporting Actress,2010,3,False
+Sarah Young,Best Picture,2006,0,True
+Mark Lee,Best Original Screenplay,2010,1,False
+Thomas Wilson,Best Supporting Actress,2011,1,False
+David Johnson,Best Actor,2005,2,True
+Mary Hernandez,Best Supporting Actor,2018,1,False
+Mark Jones,Best International Feature,2017,3,True
+Jessica Rodriguez,Best Adapted Screenplay,2000,1,True
+Sarah Thomas,Best International Feature,2015,3,False
+Thomas Miller,Best Supporting Actor,2018,2,False
+Christopher Miller,Best Picture,2001,1,True
+Lisa Williams,Best Supporting Actress,2019,1,False
+John Williams,Best Adapted Screenplay,2019,3,True
+Sarah Jackson,Best International Feature,2009,2,True
+David Allen,Best Animated Feature,2014,0,True
+Charles Brown,Best Cinematography,2003,2,True
+Karen Hernandez,Best Picture,2011,3,True
+Jennifer Jackson,Best Documentary Feature,2016,0,True
+Daniel Allen,Best Original Screenplay,2017,0,False
+Patricia Robinson,Best Director,2004,2,True
+Susan Anderson,Best Actor,2014,0,False
+David Anderson,Best Supporting Actress,2018,1,True
+Joseph Brown,Best Adapted Screenplay,2008,0,True
+Mary Thompson,Best Original Screenplay,2019,3,True
+Richard Brown,Best Adapted Screenplay,2016,3,False
+John Jackson,Best Documentary Feature,2004,1,False
+Daniel Lewis,Best Cinematography,2004,2,False
+Ashley Thompson,Best Actor,2003,3,False
+Richard Lewis,Best International Feature,2015,1,False
+William Moore,Best Actor,2001,2,False
+Mary Miller,Best Adapted Screenplay,2012,1,False
+Thomas Wilson,Best Animated Feature,2010,3,True
+William Robinson,Best Picture,2003,3,True
+Jessica Walker,Best Supporting Actor,2003,3,True
+John Robinson,Best Director,2010,2,True
+David Clark,Best Original Screenplay,2013,3,True
+Anthony Taylor,Best Animated Feature,2000,2,True
+William Brown,Best Adapted Screenplay,2008,0,False
+David Thompson,Best Supporting Actress,2007,0,True
+Joseph Thompson,Best Animated Feature,2018,0,True
+Robert Lee,Best Animated Feature,2003,3,False
+Ashley Hall,Best Picture,2008,3,True
+Linda Martinez,Best Documentary Feature,2015,0,True
+Lisa Martin,Best Animated Feature,2006,0,False
+James Brown,Best Cinematography,2016,2,False
+Matthew Clark,Best Original Screenplay,2017,2,True
+Joseph Walker,Best Actor,2007,3,True
+Linda Allen,Best International Feature,2011,1,False
+Elizabeth Martinez,Best Original Screenplay,2017,3,True
+Karen Taylor,Best Documentary Feature,2018,0,False
+Thomas Walker,Best Supporting Actor,2009,0,True
+Susan Miller,Best Original Screenplay,2003,2,False
+Ashley Jones,Best Supporting Actor,2016,3,False
+Richard Johnson,Best Picture,2003,0,False
+Sarah Martin,Best Animated Feature,2009,3,False
+Robert Smith,Best Supporting Actor,2005,1,False
+Jennifer Allen,Best Director,2003,1,False
+Ashley Clark,Best Adapted Screenplay,2001,1,False
+Linda Martin,Best Supporting Actress,2009,2,True
+Jennifer Hernandez,Best Director,2020,1,False
+David Rodriguez,Best Supporting Actor,2010,1,False
+Karen Jones,Best Adapted Screenplay,2013,0,True
+Mark Thomas,Best Cinematography,2011,1,True
+Nancy Taylor,Best Director,2013,1,True
+Ashley Martinez,Best Documentary Feature,2013,2,True
+Sandra Johnson,Best Adapted Screenplay,2018,3,False
+Sandra Martinez,Best Cinematography,2001,3,False
+Christopher Miller,Best Cinematography,2018,1,False
+Christopher Davis,Best Supporting Actor,2012,0,True
+Matthew Johnson,Best Supporting Actress,2017,3,True
+Daniel Jackson,Best Documentary Feature,2019,0,False
+Richard Allen,Best Picture,2001,3,False
+Anthony Garcia,Best Animated Feature,2015,0,True
+Daniel Garcia,Best Cinematography,2010,2,False
+James Davis,Best International Feature,2011,0,False
+Barbara Thompson,Best Actor,2016,2,True
+Karen Walker,Best Picture,2008,1,True
+Barbara Rodriguez,Best International Feature,2004,2,True
+Mark Thompson,Best International Feature,2014,0,False
+Mark Harris,Best Cinematography,2016,0,True
+Mary Clark,Best Original Screenplay,2017,1,False
+Christopher Moore,Best Animated Feature,2016,3,True
+Susan Moore,Best Actor,2001,0,True
+Joseph Williams,Best Original Screenplay,2005,2,True
+Margaret Garcia,Best Actor,2004,0,False
+Daniel Jackson,Best Animated Feature,2010,0,True
+Nancy Garcia,Best Animated Feature,2001,0,True
+Anthony Hall,Best Original Screenplay,2003,2,False
+Mary Brown,Best International Feature,2013,2,False
+John Jones,Best Documentary Feature,2016,0,True
+Sarah Young,Best Original Screenplay,2012,2,True
+Anthony Robinson,Best Original Screenplay,2017,2,True
+Matthew Rodriguez,Best Actress,2017,0,False
+Barbara Allen,Best Director,2014,2,True
+Joseph Allen,Best Adapted Screenplay,2003,0,False
+Margaret Moore,Best Picture,2017,2,True
+Joseph Lewis,Best Adapted Screenplay,2020,0,False
+Jessica Martinez,Best International Feature,2015,3,True
+Barbara Martin,Best Actor,2003,2,True
+Barbara Brown,Best Cinematography,2008,3,True
+Barbara Hall,Best Original Screenplay,2009,0,True
+Sandra Martinez,Best Original Screenplay,2005,0,True
+Mark Moore,Best Actor,2019,0,False
+Jennifer Martinez,Best Supporting Actress,2015,0,True
+Matthew Harris,Best Supporting Actor,2004,0,False
+Jennifer Jones,Best Adapted Screenplay,2015,1,False
+Anthony Martinez,Best Adapted Screenplay,2020,1,False
+Patricia Harris,Best Animated Feature,2011,3,False
+Sarah Miller,Best Actor,2005,2,True
+Barbara Hall,Best Actress,2009,3,True
+William Lewis,Best Animated Feature,2008,1,False
+Richard Hall,Best Original Screenplay,2004,2,True
+Nancy Harris,Best Documentary Feature,2000,1,True
+Mary Thompson,Best International Feature,2009,3,False
+Sandra Brown,Best Supporting Actor,2019,1,False
+Barbara Johnson,Best Cinematography,2012,0,True
+Ashley Thompson,Best Animated Feature,2017,2,False
+Lisa Martin,Best International Feature,2017,3,False
+Anthony Clark,Best Supporting Actor,2019,2,False
+John Martinez,Best Picture,2010,0,False
+Nancy Jackson,Best Actor,2014,0,True
+Jennifer Jones,Best Actress,2019,0,False
+Susan Johnson,Best Adapted Screenplay,2020,3,True
+Mark Hall,Best Documentary Feature,2009,0,True
+Mary Lewis,Best Director,2008,3,False
+Michael Martin,Best Original Screenplay,2012,1,True
+Mark Johnson,Best Cinematography,2005,3,False
+Barbara Martinez,Best Documentary Feature,2014,2,False
+Jessica Anderson,Best Cinematography,2016,0,False
+Sarah Clark,Best Cinematography,2019,2,False
+Jennifer Wilson,Best Picture,2013,3,False
+Charles Thomas,Best Supporting Actress,2019,3,False
+Mark Jackson,Best Original Screenplay,2001,2,False
+Michael Rodriguez,Best Documentary Feature,2005,2,False
+Nancy Taylor,Best Actor,2010,2,True
+Anthony Harris,Best Adapted Screenplay,2012,3,False
+Linda White,Best Original Screenplay,2009,3,False
+Patricia Martin,Best Documentary Feature,2010,2,True
+Joseph Williams,Best Director,2012,3,True
+Jessica Williams,Best Original Screenplay,2013,0,True
+James White,Best International Feature,2002,3,False
+David Brown,Best Supporting Actor,2005,1,True
+John Young,Best Actor,2011,0,True
+Daniel Martin,Best Supporting Actress,2019,2,True
+Margaret Harris,Best Director,2014,3,False
+Thomas Walker,Best Cinematography,2016,1,True
+Joseph Hernandez,Best Supporting Actress,2001,1,True
+Matthew Williams,Best Supporting Actress,2011,1,False
+John Lewis,Best Director,2016,2,True
+Sandra Hernandez,Best Director,2006,3,False
+Joseph Jones,Best Adapted Screenplay,2000,2,False
+Barbara Thompson,Best Actress,2007,2,True
+Robert Smith,Best Original Screenplay,2006,0,True
+William Clark,Best Cinematography,2013,1,False
+Jessica Moore,Best Actor,2010,1,False
+Barbara Davis,Best Supporting Actor,2016,3,False
+Michael Brown,Best International Feature,2016,1,False
+Christopher Jackson,Best Actress,2006,1,True
+Jennifer Clark,Best Supporting Actress,2014,1,True
+David Hall,Best Picture,2017,0,False
+Thomas Rodriguez,Best International Feature,2002,2,False
+Sandra Thompson,Best Director,2009,3,False
+Matthew Rodriguez,Best Supporting Actress,2005,1,True
+John Lewis,Best Actor,2020,0,True
+Margaret Garcia,Best Cinematography,2002,2,True
+James Robinson,Best Supporting Actress,2013,2,True
+Ashley Harris,Best Animated Feature,2000,1,True
+Barbara Jackson,Best Original Screenplay,2004,0,False
+Barbara Martin,Best Supporting Actor,2005,0,False
+Margaret Johnson,Best Adapted Screenplay,2003,2,False
+Thomas Jackson,Best Supporting Actor,2005,0,True
+Sarah Johnson,Best Supporting Actor,2016,2,True
+Susan Hernandez,Best Actor,2019,3,True
+Patricia Thomas,Best International Feature,2001,1,False
+William Anderson,Best Picture,2015,2,False
+Mary Thomas,Best Director,2006,1,False
+Mary Moore,Best Cinematography,2010,3,False
+Mark Anderson,Best Picture,2001,1,False
+Karen Brown,Best Animated Feature,2005,1,False
+John Smith,Best Supporting Actress,2013,0,False
+Ashley Smith,Best International Feature,2011,3,True
+Sandra Johnson,Best Animated Feature,2002,0,False
+William Clark,Best Actress,2004,2,True
+Lisa Robinson,Best Adapted Screenplay,2019,2,True
+Christopher Jones,Best Actress,2012,2,True
+Barbara Davis,Best Supporting Actress,2017,2,True
+Robert Hall,Best Supporting Actor,2014,2,False
+David Moore,Best Actress,2017,0,True
+Karen Lewis,Best Original Screenplay,2003,2,True
+Thomas Thompson,Best Actress,2001,3,False
+Lisa Thomas,Best Cinematography,2014,3,True
+Jennifer Miller,Best Actor,2015,3,True
+John Rodriguez,Best Cinematography,2015,3,True
+James Robinson,Best Adapted Screenplay,2007,0,True
+James Hernandez,Best International Feature,2001,2,False
+Linda Walker,Best Animated Feature,2015,0,False
+John Jackson,Best Supporting Actor,2018,3,False
+Sarah Harris,Best Adapted Screenplay,2011,3,False
+Mary Anderson,Best Supporting Actress,2014,2,True
+Daniel Martinez,Best Director,2018,0,True
+Patricia Anderson,Best Actor,2008,0,True
+Elizabeth Hernandez,Best Actor,2014,1,True
+John Young,Best Cinematography,2016,2,True
+Patricia Brown,Best Director,2020,2,False
+Elizabeth Walker,Best International Feature,2011,3,False
+Barbara Lewis,Best Picture,2004,1,True
+Mary Allen,Best Supporting Actor,2001,0,True
+Barbara Martinez,Best Actress,2009,1,True
+Sarah Garcia,Best Adapted Screenplay,2007,2,True
+Joseph Martin,Best Actor,2017,1,True
+Karen White,Best Supporting Actress,2013,0,True
+Karen Davis,Best Picture,2000,3,False
+Nancy Thomas,Best Animated Feature,2006,2,True
+Linda Robinson,Best Adapted Screenplay,2011,1,True
+Jennifer Walker,Best Supporting Actor,2011,2,False
+Ashley Lewis,Best Documentary Feature,2017,1,False
+Jennifer Young,Best Actress,2009,0,True
+Margaret Harris,Best Original Screenplay,2007,3,True
+Ashley Williams,Best Picture,2003,0,True
+Joseph Clark,Best Adapted Screenplay,2013,2,True
+Charles Rodriguez,Best Cinematography,2006,1,False
+Barbara Lewis,Best Actress,2016,3,False
+Sandra Johnson,Best Actor,2018,2,True
+William Moore,Best Director,2019,1,False
+Elizabeth Anderson,Best Actor,2011,1,False
+Jennifer Martin,Best Supporting Actor,2004,0,False
+Joseph Martin,Best Supporting Actress,2011,0,False
+Christopher Martin,Best Picture,2020,0,False
+Sarah Thompson,Best Actor,2004,1,True
+Thomas Johnson,Best Documentary Feature,2018,2,False
+Nancy Taylor,Best Supporting Actress,2017,2,False
+Joseph Jones,Best Actress,2003,3,True
+Thomas Hall,Best Cinematography,2000,3,True
+Jennifer Walker,Best Director,2002,1,False
+Linda Hernandez,Best Documentary Feature,2004,3,True
+Ashley Lee,Best Supporting Actor,2011,1,True
+John Jackson,Best International Feature,2012,2,False
+Ashley Harris,Best Adapted Screenplay,2016,2,True
+Michael Williams,Best Actor,2017,2,False
+Anthony Robinson,Best Supporting Actor,2008,0,False
+Anthony Davis,Best Actor,2013,1,False
+James Brown,Best International Feature,2019,0,True
+Barbara White,Best Documentary Feature,2006,2,False
+Ashley Smith,Best Actress,2006,1,False
+Michael Brown,Best Documentary Feature,2004,2,False
+Anthony Moore,Best Documentary Feature,2005,0,False
+Barbara Jackson,Best Actress,2002,2,False
+Sarah Johnson,Best Adapted Screenplay,2008,1,True
+Daniel Lewis,Best Documentary Feature,2016,1,False
+Margaret Anderson,Best Documentary Feature,2001,3,False
+Mark Thompson,Best Supporting Actress,2018,0,False
+Michael Garcia,Best Actor,2015,3,False
+Susan Rodriguez,Best Documentary Feature,2009,1,True
+Ashley Lee,Best Supporting Actor,2008,3,True
+Lisa Smith,Best Cinematography,2004,2,False
+Sarah Jackson,Best International Feature,2017,1,False
+Karen Lee,Best Supporting Actress,2017,1,True
+John Clark,Best Animated Feature,2002,3,False
+John Jackson,Best International Feature,2020,1,True
+John Hernandez,Best Director,2007,3,True
+Mark Lee,Best Documentary Feature,2000,2,True
+Sandra Smith,Best Documentary Feature,2015,2,True
+Elizabeth Young,Best Cinematography,2007,2,True
+Jessica Lee,Best Picture,2002,2,True
+Robert Martinez,Best Cinematography,2015,0,True
+Richard Lewis,Best Adapted Screenplay,2007,3,True
+Susan Robinson,Best Supporting Actress,2002,1,False
+Robert Lewis,Best Documentary Feature,2020,3,False
+David Smith,Best Supporting Actress,2006,0,False
+Richard Allen,Best Animated Feature,2004,1,False
+David Taylor,Best Original Screenplay,2010,3,True
+Christopher Martin,Best Director,2003,0,True
+Michael Harris,Best International Feature,2018,3,False
+Thomas Martinez,Best Adapted Screenplay,2001,2,False
+Mark Thomas,Best Picture,2014,0,True
+Charles Jones,Best Picture,2001,0,False
+James Lee,Best Animated Feature,2003,0,True
+Margaret Harris,Best Actor,2015,2,False
+Susan Martinez,Best Original Screenplay,2012,0,False
+Sarah Lee,Best Supporting Actor,2003,0,False
+Patricia Robinson,Best Actress,2001,0,False
+Mark Hall,Best Picture,2005,1,True
+John Smith,Best Adapted Screenplay,2018,2,False
+Daniel Taylor,Best Actress,2016,2,True
+Daniel Johnson,Best Director,2008,1,True
+Margaret Johnson,Best Actor,2015,1,True
+Robert Miller,Best Director,2001,1,False
+Joseph Brown,Best Animated Feature,2005,0,False
+Michael Lewis,Best Director,2019,1,False
+Robert Hernandez,Best Picture,2012,2,True
+Mary Anderson,Best Actress,2008,1,False
+John Hernandez,Best Cinematography,2019,3,True
+Matthew White,Best Cinematography,2013,0,True
+Elizabeth Thomas,Best International Feature,2001,2,True
+Mary Garcia,Best Cinematography,2019,0,True
+Margaret Lewis,Best Documentary Feature,2015,0,True
+Robert Smith,Best Animated Feature,2003,1,False
+Robert Harris,Best Adapted Screenplay,2013,3,False
+Jennifer Brown,Best Adapted Screenplay,2006,3,True
+David Clark,Best Supporting Actress,2009,2,False
+Linda Thompson,Best Adapted Screenplay,2008,3,True
+Anthony Taylor,Best International Feature,2009,1,False
+Jessica Allen,Best Supporting Actress,2008,0,False
+Karen Rodriguez,Best Cinematography,2020,0,False
+James Walker,Best Picture,2010,0,True
+Mark Clark,Best International Feature,2004,3,False
+Susan White,Best Actress,2008,3,False
+Charles Davis,Best Adapted Screenplay,2013,1,False
+Michael Thompson,Best Actress,2014,2,True
+Michael Taylor,Best International Feature,2011,3,True
+David Martin,Best Documentary Feature,2015,1,True
+Sandra Davis,Best Cinematography,2006,2,True
+Elizabeth Clark,Best Picture,2008,0,False
+Sandra Brown,Best Cinematography,2003,3,True
+Barbara Williams,Best Documentary Feature,2009,0,False
+William Thompson,Best Actress,2007,1,False
+Jessica Allen,Best Adapted Screenplay,2001,3,False
+Ashley Robinson,Best International Feature,2015,0,True
+Christopher Robinson,Best Director,2010,2,True
+Ashley Thomas,Best Cinematography,2017,1,False
+David Walker,Best Original Screenplay,2004,3,True
+Sarah Young,Best Supporting Actress,2014,1,True
+Thomas Robinson,Best Supporting Actress,2018,1,False
+Sandra Hernandez,Best Picture,2013,2,True
+Christopher Moore,Best Adapted Screenplay,2015,0,True
+William Walker,Best Picture,2000,2,False
+Sandra Lee,Best Actor,2018,3,True
+John Robinson,Best Original Screenplay,2020,2,False
+Jessica Johnson,Best Picture,2011,2,True
+Mark Thomas,Best Documentary Feature,2016,0,False
+William Davis,Best Supporting Actor,2011,1,False
+Ashley White,Best Actor,2003,2,False
+James Garcia,Best Picture,2015,0,True
+Anthony Johnson,Best Documentary Feature,2016,2,False
+Linda Anderson,Best Original Screenplay,2002,1,False
+David Taylor,Best Animated Feature,2008,1,True
+John Martinez,Best Supporting Actor,2011,2,True
+Joseph Hernandez,Best Supporting Actor,2002,3,False
+Jessica Allen,Best International Feature,2000,3,True
+Linda Moore,Best Original Screenplay,2009,1,False
+Daniel Lee,Best International Feature,2019,3,False
+Christopher Lewis,Best Cinematography,2004,3,False
+Matthew Anderson,Best Cinematography,2018,3,True
+David Miller,Best Adapted Screenplay,2015,0,False
+Jessica Anderson,Best Cinematography,2013,2,False
+Michael Thompson,Best Supporting Actor,2012,1,False
+Robert Wilson,Best Actress,2016,1,False
+Jennifer Harris,Best Animated Feature,2009,0,False
+Sarah Lee,Best Supporting Actress,2010,0,True
+Barbara Rodriguez,Best Adapted Screenplay,2020,0,True
+Anthony Martinez,Best Actor,2017,3,False
+Barbara Robinson,Best Original Screenplay,2018,1,True
+Robert Harris,Best International Feature,2005,3,True
+Linda Brown,Best Animated Feature,2010,2,False
+David Lee,Best Animated Feature,2014,1,False
+John Smith,Best Cinematography,2007,1,False
+Sarah Anderson,Best International Feature,2019,1,True
+Karen Thomas,Best Animated Feature,2000,1,False
+Anthony Miller,Best International Feature,2010,3,False
+Jessica Lewis,Best Director,2000,2,True
+Anthony Taylor,Best Director,2015,2,False
+Daniel Taylor,Best Picture,2002,1,False
+David Smith,Best Picture,2015,1,False
+Anthony Moore,Best Actor,2011,2,True
+Barbara Thompson,Best Supporting Actor,2010,2,False
+Matthew Jones,Best International Feature,2015,3,True
+Susan Miller,Best Cinematography,2009,0,True
+Sarah White,Best Picture,2017,1,False
+Susan Hernandez,Best Original Screenplay,2014,0,True
+Karen Anderson,Best Supporting Actress,2014,2,False
+Sarah Anderson,Best Director,2017,1,True
+Mary Allen,Best Original Screenplay,2020,0,False
+Anthony Anderson,Best Supporting Actress,2011,0,False
+Jennifer Young,Best Director,2001,1,False
+Christopher Williams,Best Cinematography,2002,1,True
+Margaret Harris,Best Actress,2014,1,True
+Barbara Jackson,Best Adapted Screenplay,2002,3,False
+Patricia Wilson,Best Animated Feature,2006,2,True
+Jessica Martin,Best Supporting Actor,2007,1,False
+Lisa Wilson,Best Adapted Screenplay,2012,1,True
+Charles Miller,Best Animated Feature,2014,0,True
+Margaret Hernandez,Best Director,2015,0,False
+Sarah Walker,Best Cinematography,2008,0,True
+Joseph Jones,Best Original Screenplay,2007,0,True
+Jessica Jackson,Best International Feature,2002,1,True
+Lisa Jackson,Best Actor,2018,2,True
+William Jackson,Best Actress,2020,2,True
+Barbara Thompson,Best International Feature,2007,1,True
+Joseph Allen,Best Supporting Actor,2017,3,False
+Barbara Davis,Best Director,2001,2,False
+Joseph Williams,Best Actor,2016,0,False
+Thomas Thompson,Best Actress,2012,1,True
+Michael Taylor,Best Animated Feature,2006,2,False
+Daniel Rodriguez,Best Director,2015,3,False
+Anthony Thompson,Best International Feature,2014,2,True
+Christopher Jones,Best Supporting Actress,2019,1,True
+John Williams,Best Supporting Actor,2017,0,False
+James Hernandez,Best Picture,2000,2,True
+Ashley White,Best Actor,2011,3,False
+Anthony Thompson,Best Documentary Feature,2012,0,True
+Matthew Allen,Best Adapted Screenplay,2011,0,False
+Jessica Allen,Best Supporting Actor,2019,2,False
+Mary Anderson,Best Director,2002,2,True
+Christopher Martin,Best Animated Feature,2018,1,True
+Charles Rodriguez,Best Animated Feature,2000,3,True
+Susan Allen,Best Director,2018,1,True
+Patricia Hernandez,Best Animated Feature,2007,1,False
+Patricia Harris,Best Cinematography,2016,0,True
+Thomas Clark,Best Documentary Feature,2016,1,False
+Karen Brown,Best Adapted Screenplay,2009,2,True
+Mary Martin,Best International Feature,2006,1,False
+Daniel Johnson,Best Actor,2005,2,False
+Jennifer Harris,Best Actress,2020,1,False
+Ashley Robinson,Best Picture,2015,0,False
+Mary Garcia,Best Director,2019,2,True
+Margaret Martinez,Best Adapted Screenplay,2013,2,True
+Margaret Brown,Best Animated Feature,2004,1,True
+Matthew Miller,Best Director,2013,3,False
+Robert Anderson,Best Actor,2016,0,False
+William Jackson,Best Picture,2006,0,True
+Barbara Jones,Best International Feature,2018,3,True
+Ashley Thomas,Best Documentary Feature,2017,3,True
+James Hernandez,Best Supporting Actress,2002,3,False
+David Jones,Best Supporting Actress,2018,0,True
+Ashley Allen,Best Actor,2000,0,False
+Joseph White,Best Animated Feature,2013,0,True
+Susan Jones,Best Director,2001,0,True
+Margaret Young,Best Actress,2004,1,False
+Karen Young,Best Cinematography,2013,0,True
+Sarah Anderson,Best Cinematography,2015,2,True
+William Jones,Best Supporting Actress,2008,2,False
+Ashley Williams,Best Animated Feature,2005,0,True
+Jessica Thomas,Best Supporting Actor,2009,0,False
+Barbara Rodriguez,Best Director,2019,0,True
+Christopher Miller,Best Original Screenplay,2013,1,False
+Robert Miller,Best Supporting Actress,2014,0,False
+John Jackson,Best Cinematography,2000,0,False
+Patricia Harris,Best Actor,2012,3,False
+Michael Hall,Best Actor,2020,0,False
+Thomas Miller,Best Actress,2015,2,False
+John Brown,Best Actor,2017,0,True
+Susan Garcia,Best Original Screenplay,2007,3,False
+James Hernandez,Best Documentary Feature,2010,1,False
+Nancy Young,Best Documentary Feature,2009,1,False
+Ashley Wilson,Best International Feature,2019,1,True
+Nancy Clark,Best Documentary Feature,2013,1,False
+Ashley Jones,Best Picture,2020,3,False
+Susan Williams,Best Animated Feature,2002,0,True
+Joseph Garcia,Best Actress,2012,3,True
+Mark Jones,Best Supporting Actress,2016,3,True
+Matthew Miller,Best Adapted Screenplay,2018,3,True
+Matthew Taylor,Best Cinematography,2000,2,False
+Patricia Moore,Best Actor,2019,0,False

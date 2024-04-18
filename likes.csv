@@ -1,3 +1,1001 @@
 start_node_id,end_node_id,properties.InterestLevel,properties.Date_Liked,properties.Comment
-"John Doe",Actor1,5,2022-01-15,"Great performance!"
-"Jane Smith",Director1,4,2021-12-20,"Interesting direction"
+Charles Martinez,Elizabeth Thomas,1,15-1-1930,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Peter Ibarra,Jennifer Garcia,3,15-8-1918,Excelente actuacion, realmente conmovedora.
+Mary Stevens,Sandra Rodriguez,3,1-12-1907,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Angela Myers,Sandra Rodriguez,1,6-12-2011,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Brian Mckay,Patricia Clark,1,25-5-1997,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Kimberly Harris,Richard Wilson,2,27-1-1955,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Brianna Robinson,Barbara Taylor,4,31-5-1980,Increible interpretacion, se metio completamente en el personaje.
+Gabrielle Morgan,Richard Lewis,2,9-3-1987,Una actuacion destacada, su personaje fue fundamental en la trama.
+Gerald Gross,Thomas Lewis,5,31-2-1912,Increible interpretacion, se metio completamente en el personaje.
+Jerry Bowen,Linda Davis,4,31-9-2003,Muy talentoso en su papel, transmitio mucha emocion.
+Ariana Cooke,Lisa Moore,4,19-10-1967,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Edward Perez,Anthony Miller,3,20-2-1918,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Ivan Carter,Charles Moore,4,22-3-1929,Una actuacion destacada, su personaje fue fundamental en la trama.
+Brianna Robinson,Michael Thompson,2,16-7-1946,Gran trabajo, aporto mucha profundidad al personaje.
+Christopher Jordan,Christopher Moore,3,21-4-1930,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Nina Thomas,Joseph Martin,3,15-10-1924,Increible interpretacion, se metio completamente en el personaje.
+Connie Keller,Karen Rodriguez,1,30-2-1943,Destaco en cada escena, demostrando su versatilidad como actor.
+Matthew Gray,Barbara Jones,3,6-2-1957,Realmente se destaco en su papel, dejo una impresion duradera.
+Ashley Anderson,David Brown,5,4-3-1964,Su talento es evidente en cada escena, realmente cautivo al publico.
+Trevor Rogers,Anthony Thompson,2,18-10-1979,Su actuacion fue elogiada por su autenticidad y compromiso.
+Angela Morris,Jennifer Wilson,4,22-5-1973,Realmente se destaco en su papel, dejo una impresion duradera.
+Sara Hendricks,Christopher Smith,3,25-3-1909,Muy talentoso en su papel, transmitio mucha emocion.
+Ashley Maldonado,James Williams,2,7-4-1963,Increible interpretacion, se metio completamente en el personaje.
+Natalie Keith,William Jones,2,22-4-1947,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Jeffrey Vance,Susan Clark,4,2-12-1995,Una actuacion destacada, su personaje fue fundamental en la trama.
+Jose Henry,Sandra Smith,2,19-6-1966,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Meagan Brown,Sandra Rodriguez,1,15-6-2009,Realmente se destaco en su papel, dejo una impresion duradera.
+Thomas Hernandez,Mary Young,1,4-11-1997,Muy creible en su papel, me hizo sentir parte de la historia.
+Sarah Bryan,Robert White,3,3-8-2020,Muy creible en su papel, me hizo sentir parte de la historia.
+Jason Miller,Robert Hall,4,11-10-1904,Muy creible en su papel, me hizo sentir parte de la historia.
+Ryan Garcia,James Clark,2,27-7-2004,Brillante desempeno, su presencia en pantalla fue impactante.
+Pamela Shaw,Mary Garcia,3,6-7-1994,Su talento es evidente en cada escena, realmente cautivo al publico.
+Jacob Lam,Karen Lee,2,27-2-1902,Muy talentoso en su papel, transmitio mucha emocion.
+Jessica Hall,Elizabeth Jones,4,1-8-1981,Muy talentoso en su papel, transmitio mucha emocion.
+Logan Roberts,Linda Robinson,3,5-6-1977,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Michael Coleman,Michael Moore,2,26-7-1965,Gran trabajo, aporto mucha profundidad al personaje.
+Zachary Castillo,Ashley Allen,4,16-2-1969,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Danny Barrera,Robert Miller,5,8-2-1960,Su talento es evidente en cada escena, realmente cautivo al publico.
+Danny Murray,Charles Thompson,2,26-9-1962,Su talento es evidente en cada escena, realmente cautivo al publico.
+Miranda Flores,Robert Jackson,5,1-8-1953,Realmente se destaco en su papel, dejo una impresion duradera.
+Shirley David,John Brown,1,18-5-1979,Muy talentoso en su papel, transmitio mucha emocion.
+Dennis Garcia,Richard Rodriguez,2,13-7-1925,Muy talentoso en su papel, transmitio mucha emocion.
+Jesus Harris,David Davis,1,23-9-1978,Muy creible en su papel, me hizo sentir parte de la historia.
+Bonnie Hernandez,James Brown,3,28-8-1912,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Miranda Swanson,James Hall,1,20-6-1941,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Eddie Quinn,Jessica Moore,2,8-7-2002,Brillante desempeno, su presencia en pantalla fue impactante.
+Michael Harrington,Elizabeth Anderson,2,6-9-1918,Muy creible en su papel, me hizo sentir parte de la historia.
+Wendy Castro,Patricia Brown,5,29-10-1988,Una actuacion destacada, su personaje fue fundamental en la trama.
+Christopher Williams,Robert Walker,3,20-12-1953,Su actuacion fue elogiada por su autenticidad y compromiso.
+Timothy Price,Elizabeth Thomas,3,29-5-1945,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Nicole Schultz,Jennifer Davis,2,1-8-1913,Muy talentoso en su papel, transmitio mucha emocion.
+Eduardo Hutchinson,Patricia Harris,4,20-2-2002,Su actuacion fue elogiada por su autenticidad y compromiso.
+Tammy Estes,Barbara Garcia,1,23-3-2003,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Julie Reyes,Jessica Clark,5,14-3-1916,Una actuacion destacada, su personaje fue fundamental en la trama.
+Keith Sutton,Mary Thompson,3,30-11-1980,Excelente actuacion, realmente conmovedora.
+Joseph Valentine,Jennifer Brown,1,7-10-1976,Muy talentoso en su papel, transmitio mucha emocion.
+Jessica Bowen,Jessica Harris,2,12-12-1931,Brillante desempeno, su presencia en pantalla fue impactante.
+Mr. Marco Burnett Jr.,David Lee,4,12-9-1935,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Thomas Anderson,Mark Lee,2,6-4-1969,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Samuel Robinson,Margaret Harris,2,5-2-1916,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Kaitlyn Hess,Thomas Miller,1,21-8-1912,Una actuacion destacada, su personaje fue fundamental en la trama.
+Amy Cortez,Sarah Walker,2,3-12-1949,Su actuacion fue elogiada por su autenticidad y compromiso.
+Bryan Heath,Jennifer Hernandez,1,22-12-1996,Muy creible en su papel, me hizo sentir parte de la historia.
+Angel Arnold,Daniel Lee,3,25-6-1903,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Brian Butler,Lisa Thompson,4,24-8-1915,Destaco en cada escena, demostrando su versatilidad como actor.
+Sean Ayala,Joseph Thomas,5,6-4-1910,Muy creible en su papel, me hizo sentir parte de la historia.
+Joshua Young,Christopher Allen,3,16-9-1954,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+David Ayala,Nancy Harris,4,15-4-2012,Destaco en cada escena, demostrando su versatilidad como actor.
+Melanie Carroll,William Thomas,1,31-7-1918,Una actuacion destacada, su personaje fue fundamental en la trama.
+Tammy Owens,Nancy Clark,3,3-11-1976,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Joshua West,John Jackson,1,4-5-1972,Su actuacion fue elogiada por su autenticidad y compromiso.
+Kelli Collins,Christopher Miller,1,24-12-1911,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Krystal Gibson MD,Thomas Brown,5,20-1-1926,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Katrina Curtis,Jessica Jackson,5,24-4-1989,Gran trabajo, aporto mucha profundidad al personaje.
+Christina Morgan,David Thompson,1,3-3-1910,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Christine Delgado MD,Anthony Miller,5,7-11-1977,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Jennifer Henry,Matthew Rodriguez,2,3-5-1937,Muy creible en su papel, me hizo sentir parte de la historia.
+Jeremy Collins,John Jackson,3,23-4-1937,Realmente se destaco en su papel, dejo una impresion duradera.
+Jessica Jones,Charles Jackson,2,14-7-1931,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Christina Nelson,Jennifer Miller,1,25-2-1948,Brillante desempeno, su presencia en pantalla fue impactante.
+Thomas Harrell,Patricia Harris,5,15-6-1983,Su actuacion fue elogiada por su autenticidad y compromiso.
+Brandi Reyes,Karen Garcia,5,18-12-1990,Realmente se destaco en su papel, dejo una impresion duradera.
+Danny Lopez,Christopher Wilson,1,30-12-2017,Muy creible en su papel, me hizo sentir parte de la historia.
+Lisa Zhang,James Robinson,2,9-1-1986,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Sabrina Rodriguez,Mary Thompson,4,4-5-1995,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Jose Hanna,Joseph Williams,1,15-12-1909,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+John Harper,James Hall,5,29-1-1920,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Cody Martinez,James Moore,3,1-1-1911,Muy creible en su papel, me hizo sentir parte de la historia.
+Matthew Davis,Lisa Smith,3,14-5-2007,Su talento es evidente en cada escena, realmente cautivo al publico.
+Gregg Molina,Sarah Jackson,5,16-5-1970,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Justin Christian,John Young,5,12-11-2020,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Deanna Jenkins,Patricia Harris,5,19-12-1920,Realmente se destaco en su papel, dejo una impresion duradera.
+Haley Castillo,Christopher Martin,5,25-8-1915,Su actuacion fue elogiada por su autenticidad y compromiso.
+Robert Travis,Joseph Thomas,5,20-2-1939,Destaco en cada escena, demostrando su versatilidad como actor.
+Crystal Massey,Sandra Davis,4,19-1-2015,Muy talentoso en su papel, transmitio mucha emocion.
+Debra Vazquez DDS,Sarah Martin,2,1-9-1931,Excelente actuacion, realmente conmovedora.
+Jose Knapp,James Thomas,2,25-11-1983,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Eric Maxwell,Ashley Thomas,3,22-9-1973,Muy creible en su papel, me hizo sentir parte de la historia.
+Cory Brown,Michael Allen,1,9-12-1935,Destaco en cada escena, demostrando su versatilidad como actor.
+William Perry,Mary Anderson,5,15-10-1946,Increible interpretacion, se metio completamente en el personaje.
+Phillip Anderson,Christopher Clark,1,6-2-1925,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Katrina Vaughn,Robert Clark,4,31-5-1946,Su actuacion fue elogiada por su autenticidad y compromiso.
+David Rodriguez,Mary Miller,4,16-2-2004,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Connie Allen,Michael Walker,2,13-4-1963,Destaco en cada escena, demostrando su versatilidad como actor.
+Lauren Ball,Margaret Johnson,5,18-9-1937,Muy creible en su papel, me hizo sentir parte de la historia.
+Richard Nguyen,Lisa Hall,2,20-9-1908,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Sandra Dixon,John Brown,1,29-3-2002,Excelente actuacion, realmente conmovedora.
+Erin Jacobs,Sarah Robinson,5,22-6-1982,Su actuacion fue elogiada por su autenticidad y compromiso.
+Dr. Jennifer Torres PhD,Charles Davis,2,28-10-1984,Realmente se destaco en su papel, dejo una impresion duradera.
+Dennis Garcia,Ashley Taylor,1,11-5-1942,Brillante desempeno, su presencia en pantalla fue impactante.
+Kristin Aguilar,William Clark,3,21-11-1978,Realmente se destaco en su papel, dejo una impresion duradera.
+Cole Stout,Anthony Davis,1,2-10-1933,Increible interpretacion, se metio completamente en el personaje.
+Cheryl Rios,Elizabeth Thomas,2,20-12-1942,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Brenda Cruz,Karen White,4,16-5-1917,Brillante desempeno, su presencia en pantalla fue impactante.
+Gregory Williams,Mary Walker,1,2-9-1973,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Sabrina Rodriguez,Mark Walker,3,30-10-2007,Muy creible en su papel, me hizo sentir parte de la historia.
+Kristina Morgan,Joseph Jones,5,4-9-1993,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Katie Martin,Mark White,4,31-3-1967,Gran trabajo, aporto mucha profundidad al personaje.
+Chelsea Zimmerman,Susan Harris,1,25-5-1947,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Brianna Robinson,John Lewis,5,4-7-1976,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Eric Oliver,David Smith,4,23-10-1977,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Kari Haas,Mary Brown,5,27-10-1992,Una actuacion destacada, su personaje fue fundamental en la trama.
+Jonathan Fernandez,Matthew Davis,2,10-9-1943,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Robert Santana,Karen Allen,5,27-2-2000,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Theodore Lee,Richard Miller,3,9-4-2003,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Kelsey Williams,Charles Lee,5,4-11-2002,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Sarah Brown,Mary Brown,4,26-4-1946,Una actuacion destacada, su personaje fue fundamental en la trama.
+Rebekah Miller,Mary Anderson,3,30-9-1961,Destaco en cada escena, demostrando su versatilidad como actor.
+Ricardo Schaefer,Thomas Robinson,5,4-3-1938,Excelente actuacion, realmente conmovedora.
+Jamie Smith,Daniel Johnson,2,15-11-1999,Su actuacion fue elogiada por su autenticidad y compromiso.
+Heather Goodman,Mark Taylor,1,8-12-1986,Destaco en cada escena, demostrando su versatilidad como actor.
+Lori Murphy,Nancy Thompson,1,26-10-1997,Destaco en cada escena, demostrando su versatilidad como actor.
+Connor Rose,John Robinson,3,9-11-1963,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Kimberly Mcdaniel,Richard Martinez,5,9-7-1963,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Amy Walker,Sandra Smith,5,25-6-2001,Increible interpretacion, se metio completamente en el personaje.
+Robert Kent,Christopher Young,1,11-11-1953,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Daniel Heath,Anthony Johnson,2,29-8-1916,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Nicole Henderson,David Thompson,3,24-10-1977,Increible interpretacion, se metio completamente en el personaje.
+Billy Hernandez,David Williams,4,23-6-1909,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Karen Owens,Thomas Taylor,2,7-1-1968,Realmente se destaco en su papel, dejo una impresion duradera.
+Jeremiah Allen,Elizabeth Thomas,3,3-4-1981,Una actuacion destacada, su personaje fue fundamental en la trama.
+Kelli Collins,James Brown,3,24-8-1908,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Tanya Goodwin,Margaret Lee,5,30-1-1966,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Bridget White,Mark Young,4,1-12-1954,Destaco en cada escena, demostrando su versatilidad como actor.
+Derek Cannon,Patricia Williams,1,31-1-1992,Muy talentoso en su papel, transmitio mucha emocion.
+Andrea Miller,David Garcia,2,30-12-1942,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Patrick Thompson,Jennifer Davis,3,18-8-1930,Increible interpretacion, se metio completamente en el personaje.
+Amanda May PhD,Robert Martinez,1,9-12-1984,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Christopher Haynes,James Lee,2,6-5-2003,Una actuacion destacada, su personaje fue fundamental en la trama.
+Shelley Smith,Lisa Thomas,3,29-11-1980,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Kayla Keller,Sarah Thompson,3,24-4-1959,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Mark Roman II,Michael Martinez,4,24-5-1946,Muy talentoso en su papel, transmitio mucha emocion.
+Luis Miranda,Nancy Clark,3,25-1-1939,Gran trabajo, aporto mucha profundidad al personaje.
+Laura Hayes,Barbara Hall,5,5-5-1998,Su actuacion fue elogiada por su autenticidad y compromiso.
+Ashley Moore,John Hernandez,1,24-8-2009,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Heather Crawford,Barbara Davis,3,17-9-1973,Muy talentoso en su papel, transmitio mucha emocion.
+Paula Ali,Karen Thomas,4,27-7-1955,Muy talentoso en su papel, transmitio mucha emocion.
+Julie Hughes,William Hall,4,9-6-1945,Increible interpretacion, se metio completamente en el personaje.
+Jonathan Fernandez,Barbara Smith,1,10-2-1981,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Joshua Gutierrez,Margaret Jackson,2,18-8-1990,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Christopher Bass,Barbara Brown,2,29-3-2004,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Meagan Clark,Richard Lewis,4,12-9-1958,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Roger Wright,Joseph Martin,2,19-8-1990,Increible interpretacion, se metio completamente en el personaje.
+Nicole Watson,Margaret Hall,5,19-7-2001,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Amy Pitts,James Moore,3,11-1-1920,Su actuacion fue elogiada por su autenticidad y compromiso.
+Denise Krueger,Mary Lewis,1,15-5-1907,Realmente se destaco en su papel, dejo una impresion duradera.
+Angel Galvan,Jessica Anderson,5,11-8-1994,Su actuacion fue elogiada por su autenticidad y compromiso.
+Marcus Harris,Richard Harris,2,2-4-1901,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Mariah Brown,Jessica Anderson,2,7-3-1960,Brillante desempeno, su presencia en pantalla fue impactante.
+Michelle Spencer,Christopher Allen,3,2-11-2013,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Brandon Douglas,Mary Allen,4,17-10-1978,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+John Doe,Patricia Harris,2,24-7-1920,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Renee Woodward,Nancy Moore,4,22-7-1953,Excelente actuacion, realmente conmovedora.
+Bryan Parks,John Hernandez,5,29-10-1907,Muy talentoso en su papel, transmitio mucha emocion.
+Gina Proctor,Charles Hernandez,1,8-2-1954,Realmente se destaco en su papel, dejo una impresion duradera.
+Troy Zamora,Matthew Rodriguez,5,4-6-1928,Su actuacion fue elogiada por su autenticidad y compromiso.
+Jamie Medina,William Moore,5,9-2-1994,Brillante desempeno, su presencia en pantalla fue impactante.
+Tiffany Marks,Anthony Anderson,5,1-6-1983,Su actuacion fue elogiada por su autenticidad y compromiso.
+Marc Thomas,Anthony Rodriguez,4,9-6-1981,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Cindy Dunn,Jessica Thomas,1,18-10-1958,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+William Mathis,Mark Young,1,14-1-1945,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Keith Lynn,Michael Moore,4,18-2-2010,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Ethan Richards,Anthony Hernandez,4,18-2-2014,Excelente actuacion, realmente conmovedora.
+Patricia Flowers,Robert Robinson,3,15-3-1912,Realmente se destaco en su papel, dejo una impresion duradera.
+Dr. Robert Russell,James White,4,20-2-1937,Realmente se destaco en su papel, dejo una impresion duradera.
+Angela Nichols,David Lee,4,31-2-2008,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Eric Ramsey,Ashley Lee,3,9-11-1990,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Megan Harmon,Karen Lewis,2,8-6-1953,Gran trabajo, aporto mucha profundidad al personaje.
+Mariah Kemp,Margaret Robinson,3,28-12-2010,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Amy Norman,Charles Martinez,2,21-10-1973,Destaco en cada escena, demostrando su versatilidad como actor.
+Dana Melton,Mark Johnson,1,11-9-1919,Excelente actuacion, realmente conmovedora.
+Shannon Watson,David Williams,2,1-3-1926,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Audrey Avery,Thomas Jackson,1,29-10-1922,Muy creible en su papel, me hizo sentir parte de la historia.
+Robert Myers,James Hall,2,7-10-1914,Gran trabajo, aporto mucha profundidad al personaje.
+Gabrielle Hopkins,Margaret Lewis,1,23-4-1968,Excelente actuacion, realmente conmovedora.
+Tracy Wolf,Jessica Martin,2,16-11-1939,Una actuacion destacada, su personaje fue fundamental en la trama.
+Michael Green,Robert Wilson,1,31-11-1929,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Karen Brown,Richard Hall,4,13-9-2012,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Michael Moore,Charles Thomas,5,26-7-2002,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Lacey Evans,Sandra Taylor,3,21-10-2013,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Dr. Jonathan Baxter,Thomas Johnson,4,31-10-1965,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Krystal Weeks DDS,Karen Thomas,3,24-10-1923,Realmente se destaco en su papel, dejo una impresion duradera.
+Sandra Krause,Susan Hernandez,4,12-7-1973,Excelente actuacion, realmente conmovedora.
+Jasmine Garza,John Allen,3,4-9-1946,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Joshua Hamilton,Mary Lewis,4,19-8-1924,Gran trabajo, aporto mucha profundidad al personaje.
+Brittany Jones,Patricia Lewis,5,11-3-1998,Muy creible en su papel, me hizo sentir parte de la historia.
+Jessica Watson,Ashley Thompson,2,17-11-1953,Realmente se destaco en su papel, dejo una impresion duradera.
+Kaitlyn Martin,Patricia Clark,4,17-3-1977,Destaco en cada escena, demostrando su versatilidad como actor.
+Micheal Cook,Linda Miller,4,20-12-1939,Muy creible en su papel, me hizo sentir parte de la historia.
+Cindy Ross,Robert White,5,17-7-1953,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Robert Leon,Lisa Lee,3,2-10-2010,Una actuacion destacada, su personaje fue fundamental en la trama.
+Gabrielle Hopkins,Sarah Walker,3,30-12-1928,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Cheryl Garcia,James Robinson,5,14-4-1935,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Alison Miller,Matthew Brown,4,8-3-1910,Increible interpretacion, se metio completamente en el personaje.
+Tracey Jones,Jennifer Martinez,5,9-8-1935,Gran trabajo, aporto mucha profundidad al personaje.
+Heidi Figueroa,Sarah Johnson,2,2-6-1935,Su actuacion fue elogiada por su autenticidad y compromiso.
+Alex Blackburn,Richard Garcia,5,27-5-1941,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Jacob Butler,Linda Moore,3,30-10-1932,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Melissa Butler,Thomas Robinson,4,31-11-1993,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Cathy Vasquez,William Brown,5,26-5-1989,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Douglas Thomas,Jessica Thompson,4,27-9-2017,Muy creible en su papel, me hizo sentir parte de la historia.
+Michael Gutierrez,Mark Lee,5,31-9-1957,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Connie Johnson,Ashley Allen,1,22-5-1992,Muy talentoso en su papel, transmitio mucha emocion.
+Vanessa Campbell,Thomas Taylor,4,16-9-1995,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Andrew Patterson,Matthew Smith,1,28-2-1995,Gran trabajo, aporto mucha profundidad al personaje.
+Katie Decker,Sarah Clark,1,28-4-1914,Fue un placer verlo actuar, su entrega al personaje fue notable.
+James King,Charles Harris,4,19-4-1956,Muy talentoso en su papel, transmitio mucha emocion.
+John Harris,John Hernandez,1,18-9-1983,Gran trabajo, aporto mucha profundidad al personaje.
+Christopher Boone,Elizabeth Anderson,3,2-6-2012,Destaco en cada escena, demostrando su versatilidad como actor.
+Martha Rose,Michael Allen,2,9-1-1967,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Michael Webb,Christopher Rodriguez,2,11-5-1920,Gran trabajo, aporto mucha profundidad al personaje.
+Todd Wells,Richard Robinson,2,16-12-1987,Excelente actuacion, realmente conmovedora.
+Roger Johnson,Karen Thomas,5,5-2-2019,Realmente se destaco en su papel, dejo una impresion duradera.
+Kristi Long,Elizabeth Martin,4,12-6-1949,Increible interpretacion, se metio completamente en el personaje.
+Carmen Castillo,James Thompson,4,11-3-2015,Gran trabajo, aporto mucha profundidad al personaje.
+Emily Wu,Mark Young,5,28-9-1915,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Michele Davis,Joseph Brown,4,22-9-2015,Destaco en cada escena, demostrando su versatilidad como actor.
+Ronald Reynolds,James Brown,2,30-5-2015,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Kevin Ross,William Walker,5,24-5-1931,Muy talentoso en su papel, transmitio mucha emocion.
+Angela Whitney,Anthony Williams,5,31-6-1922,Increible interpretacion, se metio completamente en el personaje.
+Maria Aguilar,Margaret Brown,3,28-5-1950,Su actuacion fue elogiada por su autenticidad y compromiso.
+Jessica Watson,Matthew Clark,2,20-7-1992,Una actuacion destacada, su personaje fue fundamental en la trama.
+Heidi Figueroa,Sarah Anderson,1,17-3-1934,Brillante desempeno, su presencia en pantalla fue impactante.
+Doris Ortega,Robert Smith,5,15-9-1979,Increible interpretacion, se metio completamente en el personaje.
+Lisa Owens,Linda Garcia,2,6-5-1972,Una actuacion destacada, su personaje fue fundamental en la trama.
+Nichole Arroyo,Charles Martinez,4,4-10-1907,Una actuacion destacada, su personaje fue fundamental en la trama.
+Erin Dawson,William Martinez,4,8-1-1979,Muy creible en su papel, me hizo sentir parte de la historia.
+Melissa Deleon,Jessica Rodriguez,5,23-6-1905,Brillante desempeno, su presencia en pantalla fue impactante.
+Casey Padilla,Christopher Wilson,5,16-3-2020,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Heather Blake,Daniel Smith,3,16-2-1909,Excelente actuacion, realmente conmovedora.
+Felicia Garcia,Anthony Taylor,1,1-9-1995,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Stephen Cruz,John Hall,5,26-10-1960,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Courtney Johnson,Mark Rodriguez,1,11-4-1945,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Joseph Sanchez,Patricia Anderson,2,31-5-1948,Realmente se destaco en su papel, dejo una impresion duradera.
+Brian Williams,Jennifer Garcia,1,12-9-2011,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Chelsea Walls,Michael Thompson,1,24-7-2011,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Miguel Jacobs,Richard Davis,3,1-7-1955,Realmente se destaco en su papel, dejo una impresion duradera.
+Nicole Schultz,Richard Miller,2,26-8-1991,Increible interpretacion, se metio completamente en el personaje.
+Donna Daniel,Robert Harris,2,11-5-1999,Realmente se destaco en su papel, dejo una impresion duradera.
+Shelley Johnson,Thomas Johnson,1,5-3-1951,Gran trabajo, aporto mucha profundidad al personaje.
+Todd Rios,Barbara Moore,4,25-12-1980,Su actuacion fue elogiada por su autenticidad y compromiso.
+Jamie Smith,Susan Moore,4,13-9-1959,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Robert Leon,Sarah Garcia,5,9-6-2018,Excelente actuacion, realmente conmovedora.
+Alexandra Aguilar,John Robinson,2,5-8-1916,Muy creible en su papel, me hizo sentir parte de la historia.
+Mrs. Julia Osborne,Nancy Thompson,1,7-4-1964,Excelente actuacion, realmente conmovedora.
+Melissa Johnson,David Brown,2,5-8-1934,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Wanda Cruz,Jessica Lee,5,29-4-1946,Su talento es evidente en cada escena, realmente cautivo al publico.
+Lisa Lewis,William Wilson,4,28-4-1990,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Christine Cruz,Lisa Thompson,5,11-6-2017,Increible interpretacion, se metio completamente en el personaje.
+Karen Owens,Charles Brown,2,1-3-1975,Excelente actuacion, realmente conmovedora.
+Adam Frank,Christopher Martin,1,21-4-1957,Su talento es evidente en cada escena, realmente cautivo al publico.
+Emily Paul,William Robinson,1,20-6-1996,Brillante desempeno, su presencia en pantalla fue impactante.
+Cory Jefferson,Jessica Hernandez,5,12-1-1991,Muy creible en su papel, me hizo sentir parte de la historia.
+Billy Rhodes,Thomas Jackson,2,25-10-1921,Brillante desempeno, su presencia en pantalla fue impactante.
+Angela Wilkins,Elizabeth Anderson,4,26-6-1988,Excelente actuacion, realmente conmovedora.
+Tony Taylor,Anthony Hall,5,20-5-1980,Muy creible en su papel, me hizo sentir parte de la historia.
+Jessica Cruz DVM,David Thomas,5,15-2-1920,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Max Charles,Mark Lewis,2,9-7-1929,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Matthew Davis,Richard Davis,5,9-11-1986,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Mark Smith,Charles Anderson,4,19-6-1975,Muy creible en su papel, me hizo sentir parte de la historia.
+Elizabeth Fernandez MD,Margaret Wilson,4,3-12-1923,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Cindy Dunn,Richard Davis,5,20-7-1962,Brillante desempeno, su presencia en pantalla fue impactante.
+Autumn Strong,David Jackson,4,8-6-2003,Muy talentoso en su papel, transmitio mucha emocion.
+Audrey Avery,Karen Williams,1,26-6-1940,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Joseph Ramirez,Ashley Hernandez,3,14-1-1938,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Michael Green,Christopher Lee,1,30-4-1975,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Michael Bray,Sarah Wilson,1,12-8-1925,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Christopher Bass,Robert White,2,27-10-1940,Gran trabajo, aporto mucha profundidad al personaje.
+Laura Myers,James Lewis,1,5-10-1955,Brillante desempeno, su presencia en pantalla fue impactante.
+Michael Jacobs,Elizabeth Miller,4,11-7-1948,Su talento es evidente en cada escena, realmente cautivo al publico.
+Elizabeth Miller,Mark Lee,2,3-8-1948,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Shannon Smith,Nancy Rodriguez,3,24-5-1961,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Lauren Pham,Ashley Lee,2,12-11-1904,Muy convincente en su interpretacion, fue un placer verlo actuar.
+John Garrett,Elizabeth Robinson,5,7-6-1989,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Eric Wood,Jessica Allen,4,29-9-1925,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Cindy Wilson,Matthew Robinson,1,19-10-1924,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Vincent Mcfarland,Robert Lee,1,24-7-1947,Muy creible en su papel, me hizo sentir parte de la historia.
+Hannah Powell,Susan Robinson,2,19-5-1971,Su actuacion fue elogiada por su autenticidad y compromiso.
+Dr. Zachary Jimenez,Michael Jackson,2,25-7-1949,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Patricia Luna,James Hernandez,3,28-3-1971,Su actuacion fue elogiada por su autenticidad y compromiso.
+Daniel Franklin,Linda Hall,3,18-11-1965,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Emily Bush,Susan White,3,16-9-2018,Brillante desempeno, su presencia en pantalla fue impactante.
+Todd Small,Ashley Thomas,3,5-2-1948,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Carrie Tucker,Anthony Robinson,1,30-7-1928,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Benjamin Hawkins,Joseph Taylor,5,2-7-2019,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Timothy Cooper,Sandra Hall,2,8-7-1999,Excelente actuacion, realmente conmovedora.
+Carla Luna,Mark Harris,3,23-3-1990,Su talento es evidente en cada escena, realmente cautivo al publico.
+Ryan Shepard,Robert Harris,5,21-7-1996,Excelente actuacion, realmente conmovedora.
+Robert Richardson,Robert Miller,5,30-4-1986,Gran trabajo, aporto mucha profundidad al personaje.
+Cristina Ramirez,James Harris,5,6-9-1960,Muy creible en su papel, me hizo sentir parte de la historia.
+Ian Schwartz,Charles Anderson,5,7-1-1942,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Randy Price,Charles Thomas,5,16-3-2000,Realmente se destaco en su papel, dejo una impresion duradera.
+Katelyn Simmons,Susan Johnson,3,10-5-1918,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Jeffrey Wilkins,Anthony Robinson,2,7-10-1914,Excelente actuacion, realmente conmovedora.
+Christian Jackson,Barbara Robinson,1,20-8-1980,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Nicholas Smith,Elizabeth Taylor,1,27-7-1933,Muy creible en su papel, me hizo sentir parte de la historia.
+Caleb Wood,Mark Lee,4,27-4-1917,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Andrea Byrd,Sarah Johnson,5,31-12-1990,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Julie Lewis,Richard Clark,1,30-5-1980,Realmente se destaco en su papel, dejo una impresion duradera.
+Valerie Carter,Lisa Thomas,1,23-2-1993,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Margaret Wyatt,Sarah Davis,2,13-5-1957,Gran trabajo, aporto mucha profundidad al personaje.
+Vanessa Cole,Christopher Martin,5,8-2-1901,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Lori Henderson,Jessica Hall,1,5-4-1938,Muy talentoso en su papel, transmitio mucha emocion.
+Margaret Briggs,Margaret Martinez,2,21-12-1982,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Crystal Wilson,Christopher Robinson,2,5-7-1909,Su talento es evidente en cada escena, realmente cautivo al publico.
+Pam Gardner,John White,2,30-8-1951,Destaco en cada escena, demostrando su versatilidad como actor.
+Daniel Moore,Lisa Hernandez,2,11-4-1972,Increible interpretacion, se metio completamente en el personaje.
+Cindy Ross,David Martinez,2,18-8-2003,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Edward Perez,Michael Clark,5,24-7-1937,Excelente actuacion, realmente conmovedora.
+Robert Travis,Ashley Wilson,3,11-6-1992,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Melissa Maddox,Anthony Harris,3,31-2-1941,Su talento es evidente en cada escena, realmente cautivo al publico.
+Cynthia Parsons,Susan Rodriguez,5,30-12-1993,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Michael Munoz,John Harris,1,14-11-1959,Excelente actuacion, realmente conmovedora.
+William Perry,Barbara Martinez,2,9-7-1963,Muy creible en su papel, me hizo sentir parte de la historia.
+Lauren Hunter,David Garcia,2,30-9-2019,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Samantha Moore,James Jones,3,30-12-2008,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Valerie Myers,Lisa Lee,2,29-7-1946,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Benjamin Hawkins,Patricia Williams,1,7-4-1925,Una actuacion destacada, su personaje fue fundamental en la trama.
+Joshua Park,Margaret Harris,5,19-9-1977,Muy talentoso en su papel, transmitio mucha emocion.
+Marisa Martinez,Christopher Taylor,3,6-1-1915,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Leah Wyatt,Robert Miller,2,20-5-2020,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Morgan Pacheco,Richard Davis,4,25-7-1989,Brillante desempeno, su presencia en pantalla fue impactante.
+Mary Stevens,James Brown,2,5-5-1943,Excelente actuacion, realmente conmovedora.
+Ryan Campbell III,John Allen,2,23-6-1985,Muy talentoso en su papel, transmitio mucha emocion.
+Linda Aguirre,Charles Jackson,1,30-1-1959,Una actuacion destacada, su personaje fue fundamental en la trama.
+Kevin Dudley,Jessica Hall,3,24-4-1957,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Edward Dodson,Joseph Martin,2,26-6-1918,Brillante desempeno, su presencia en pantalla fue impactante.
+Carol Bell,John Walker,2,16-7-1972,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Michael Davis,Barbara Hall,5,6-2-1958,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Cristina Ramirez,Jennifer Rodriguez,2,8-11-1937,Muy talentoso en su papel, transmitio mucha emocion.
+Lisa Thomas,Richard Garcia,1,19-7-1944,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Carmen Castillo,Christopher Allen,2,15-6-1982,Una actuacion destacada, su personaje fue fundamental en la trama.
+Terry Mooney,William Williams,1,4-7-1944,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Trevor Sanchez,John Williams,5,9-10-1925,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Lisa Howard,Jessica Lewis,2,2-1-2003,Su talento es evidente en cada escena, realmente cautivo al publico.
+Sara Andrews,Linda Clark,4,6-4-1950,Una actuacion destacada, su personaje fue fundamental en la trama.
+Ashley Walker,Susan Walker,2,11-7-1950,Increible interpretacion, se metio completamente en el personaje.
+Amy Crawford,Jessica Hernandez,3,1-11-1993,Realmente se destaco en su papel, dejo una impresion duradera.
+Kayla Adams,Margaret Johnson,3,10-6-1966,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Susan Wilson,William Rodriguez,3,26-6-1989,Increible interpretacion, se metio completamente en el personaje.
+Dr. Zachary Jimenez,Susan Davis,4,2-5-1988,Su talento es evidente en cada escena, realmente cautivo al publico.
+Matthew Patel Jr.,Anthony Martinez,4,17-1-2017,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Lisa Zhang,Nancy Walker,5,23-6-1926,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Jonathan Clarke,John Brown,4,18-9-2008,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Brandon Miller,Sarah Walker,1,22-6-1915,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Marcus Nichols,Patricia Wilson,4,1-9-1902,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Adam Smith,Nancy Lee,5,4-3-1937,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Johnny Spears,Sandra Martin,4,2-9-2016,Muy creible en su papel, me hizo sentir parte de la historia.
+Jacob Butler,James Miller,2,3-4-1914,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Glenn Chapman,Richard Clark,5,14-10-1970,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Timothy Richardson,Jennifer Williams,3,5-12-1941,Realmente se destaco en su papel, dejo una impresion duradera.
+David Peterson,Barbara Brown,2,4-7-1978,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Daniel Sparks,Mark Taylor,1,28-4-1928,Su talento es evidente en cada escena, realmente cautivo al publico.
+Michael Ramirez,Thomas Thompson,2,6-5-1976,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Jonathan Clarke,Mary Walker,4,1-10-1998,Su actuacion fue elogiada por su autenticidad y compromiso.
+Kristina Hale,Charles Lewis,3,18-1-1975,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Mark Roman II,Anthony Martinez,4,17-1-1982,Su actuacion fue elogiada por su autenticidad y compromiso.
+Grant Crane,Sandra Taylor,4,20-6-1995,Increible interpretacion, se metio completamente en el personaje.
+Micheal Jimenez,Sarah Harris,1,10-11-2005,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Wendy Dyer,John Allen,4,23-1-1954,Su talento es evidente en cada escena, realmente cautivo al publico.
+Haley Griffin,Daniel Jones,3,8-6-1927,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Alisha Franklin,John Brown,3,11-8-1907,Realmente se destaco en su papel, dejo una impresion duradera.
+Miranda Guzman,Ashley Jackson,5,19-7-1964,Muy talentoso en su papel, transmitio mucha emocion.
+Kara Boyle,Patricia Clark,4,22-6-2007,Una actuacion destacada, su personaje fue fundamental en la trama.
+Jordan Gonzalez,Thomas Miller,3,17-10-1999,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Lisa Cervantes,Charles Lee,2,25-10-1976,Increible interpretacion, se metio completamente en el personaje.
+Jessica Phillips,Daniel Jackson,1,2-7-2005,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Luis Meza,Jessica Thomas,1,17-6-1999,Brillante desempeno, su presencia en pantalla fue impactante.
+Corey Brown DVM,Lisa Brown,4,15-10-1944,Gran trabajo, aporto mucha profundidad al personaje.
+Oscar Payne,Sarah White,2,13-11-1917,Gran trabajo, aporto mucha profundidad al personaje.
+Michelle Scott,Charles Clark,2,2-2-1957,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Valerie Carter,Thomas Anderson,5,25-12-1927,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Allen James,Richard Harris,3,28-11-1971,Muy creible en su papel, me hizo sentir parte de la historia.
+Nicole Schultz,John Thomas,3,2-2-1979,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Sara Lamb,Susan Hall,4,5-6-1994,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Randy Deleon,John Harris,4,3-6-2020,Su talento es evidente en cada escena, realmente cautivo al publico.
+Nicole Cox,Sarah Allen,5,9-9-1949,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Paula Ali,Linda Walker,4,12-3-2010,Gran trabajo, aporto mucha profundidad al personaje.
+Timothy Price,Lisa Moore,3,29-5-1951,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Heidi Figueroa,Ashley Thompson,1,16-8-1967,Su talento es evidente en cada escena, realmente cautivo al publico.
+Ashley Carter,Anthony Brown,2,13-5-1934,Brillante desempeno, su presencia en pantalla fue impactante.
+Samantha Moore,Barbara Jones,5,15-10-1980,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Sarah Morrow,Jessica Smith,5,26-11-1937,Realmente se destaco en su papel, dejo una impresion duradera.
+Michelle Roberts,Charles Jones,2,8-10-1907,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Richard West,Thomas Wilson,3,22-5-1906,Brillante desempeno, su presencia en pantalla fue impactante.
+Danielle Williams,Margaret Miller,5,1-4-2011,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Joshua Burns,Susan Walker,2,8-8-2001,Muy creible en su papel, me hizo sentir parte de la historia.
+Jillian Payne,Jessica Allen,3,15-6-1974,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Lisa Howard,Elizabeth Jones,3,10-1-2011,Una actuacion destacada, su personaje fue fundamental en la trama.
+Michael Jacobs,Mary Young,3,29-3-1975,Su talento es evidente en cada escena, realmente cautivo al publico.
+Richard Murray,Christopher Clark,5,23-2-1940,Muy creible en su papel, me hizo sentir parte de la historia.
+Robyn Johnson,Anthony Martinez,4,7-8-1918,Muy creible en su papel, me hizo sentir parte de la historia.
+Michelle Johnson,Karen White,2,3-11-1996,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Dr. Nicole Hughes MD,Joseph Thomas,4,30-4-1987,Gran trabajo, aporto mucha profundidad al personaje.
+Paul Sanchez,Charles Lewis,2,9-9-1946,Una actuacion destacada, su personaje fue fundamental en la trama.
+Justin Christian,John Garcia,5,30-1-1983,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Heather Morris,Margaret Young,5,19-12-1973,Gran trabajo, aporto mucha profundidad al personaje.
+Joshua Silva,Susan Hall,5,5-1-1987,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Angela Rogers,James Lewis,3,4-3-1942,Muy creible en su papel, me hizo sentir parte de la historia.
+Andrea Miller,Sandra Thompson,3,7-10-1996,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Mr. David Peterson,Thomas Hall,3,15-12-2020,Gran trabajo, aporto mucha profundidad al personaje.
+Mark Fuentes,John Hernandez,2,28-7-1936,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Tracy Fox,Linda Harris,1,4-8-2017,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Jeffrey Armstrong,Robert Jones,1,21-11-1957,Su talento es evidente en cada escena, realmente cautivo al publico.
+Amanda Rivera MD,Christopher Martin,2,16-3-2007,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Mr. Shawn Patrick,Michael Clark,1,24-2-1978,Realmente se destaco en su papel, dejo una impresion duradera.
+Jean Beltran,Robert Lee,5,29-11-2017,Su talento es evidente en cada escena, realmente cautivo al publico.
+David Ayala,Barbara Hall,4,17-9-1983,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Mindy Stevens,Thomas Thompson,5,31-11-1910,Gran trabajo, aporto mucha profundidad al personaje.
+Miss Nicole Fleming,Nancy Thompson,3,22-7-1939,Muy creible en su papel, me hizo sentir parte de la historia.
+Robert Santana,John Miller,1,1-11-2017,Una actuacion destacada, su personaje fue fundamental en la trama.
+John Campbell,William Rodriguez,1,25-3-1905,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Tabitha Arroyo,Elizabeth Martin,1,29-10-1972,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Douglas Thomas,John Smith,3,6-7-2010,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Christopher Christian,Mary Jackson,4,17-7-2018,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Michelle Bender,Thomas Rodriguez,2,2-1-1982,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Emily Carrillo,Patricia Clark,3,31-4-2006,Increible interpretacion, se metio completamente en el personaje.
+Megan Vasquez,Linda Hall,1,3-4-1986,Realmente se destaco en su papel, dejo una impresion duradera.
+Austin Morris,Mark Martin,3,23-6-1902,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Audrey Avery,Sarah Martin,1,10-7-1940,Destaco en cada escena, demostrando su versatilidad como actor.
+Anthony Singh,David Brown,1,1-6-1994,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Julie Hayden,Charles Robinson,4,21-8-1928,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Anthony Hicks,Thomas Moore,4,7-4-1910,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Courtney Cruz,Anthony Davis,1,20-11-1952,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Larry Espinoza,Sarah Garcia,4,11-3-1959,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Nicolas Jenkins,Barbara Martinez,1,31-11-1929,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Matthew Moore,William Hall,3,9-2-1987,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Heidi Martin,Patricia White,1,5-10-1928,Excelente actuacion, realmente conmovedora.
+Tammy Owens,Mark Lewis,3,11-6-1994,Muy creible en su papel, me hizo sentir parte de la historia.
+Jacob Harris,Michael Smith,3,30-12-1972,Muy creible en su papel, me hizo sentir parte de la historia.
+Evan Simmons,John Walker,3,10-1-1977,Destaco en cada escena, demostrando su versatilidad como actor.
+Samuel Craig,James Harris,4,5-5-1915,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Lauren Richards,Elizabeth Allen,3,7-6-1986,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Emily Nichols,Thomas Taylor,1,15-3-1973,Muy creible en su papel, me hizo sentir parte de la historia.
+Ronald Johnson,Anthony Moore,5,9-11-1975,Realmente se destaco en su papel, dejo una impresion duradera.
+Jenna Cook,Anthony Thomas,1,9-11-1950,Su talento es evidente en cada escena, realmente cautivo al publico.
+Johnny Stewart,Anthony Robinson,2,30-8-1986,Brillante desempeno, su presencia en pantalla fue impactante.
+Tim Freeman,Mark Rodriguez,5,27-7-1962,Muy talentoso en su papel, transmitio mucha emocion.
+Christopher Brown,Margaret Harris,1,20-12-2014,Brillante desempeno, su presencia en pantalla fue impactante.
+Michael Carroll,Mark Brown,3,24-6-1933,Muy talentoso en su papel, transmitio mucha emocion.
+Jennifer Ramirez,Lisa Taylor,3,1-6-2014,Excelente actuacion, realmente conmovedora.
+Kenneth Hernandez,Robert Hernandez,1,31-7-1985,Muy talentoso en su papel, transmitio mucha emocion.
+Miss Nicole Fleming,Barbara Davis,5,18-11-1969,Increible interpretacion, se metio completamente en el personaje.
+Brenda Cruz,Robert Smith,4,19-1-2010,Brillante desempeno, su presencia en pantalla fue impactante.
+Kelly Mendez,Robert White,3,20-3-1955,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Erika Wu,Daniel Smith,2,8-7-1936,Destaco en cada escena, demostrando su versatilidad como actor.
+Joshua Charles,Jessica Walker,2,29-7-1923,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Sabrina Hampton,John Brown,4,6-1-2002,Su talento es evidente en cada escena, realmente cautivo al publico.
+Matthew Cohen,Anthony Garcia,3,9-11-1984,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Charlotte Noble,Anthony Hall,1,29-1-1934,Muy talentoso en su papel, transmitio mucha emocion.
+Jennifer Elliott,Karen Davis,1,4-6-1961,Su actuacion fue elogiada por su autenticidad y compromiso.
+Tyler Werner,John Rodriguez,3,25-5-1911,Su actuacion fue elogiada por su autenticidad y compromiso.
+Andrew Wright,Lisa Harris,3,7-4-1913,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Dawn Allen,Robert Miller,5,31-3-1923,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Carlos Hernandez,Daniel Jones,2,15-10-2019,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Mrs. Michelle Stein,Jennifer Young,3,2-5-1927,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Ariel Anderson,Anthony Taylor,2,6-3-1983,Destaco en cada escena, demostrando su versatilidad como actor.
+Mary Owens,John Walker,3,20-10-1953,Su actuacion fue elogiada por su autenticidad y compromiso.
+Kristi Garcia,Robert Young,5,31-12-2015,Una actuacion destacada, su personaje fue fundamental en la trama.
+Cheryl Rios,Thomas Wilson,3,11-8-1952,Destaco en cada escena, demostrando su versatilidad como actor.
+Steven Lawrence,Susan Jackson,2,4-3-1982,Muy creible en su papel, me hizo sentir parte de la historia.
+James Burgess,Charles Robinson,2,19-2-1930,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Cassandra Rivera,Karen Williams,4,14-10-1976,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Darin Henderson,Margaret Johnson,3,6-9-1927,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Eric Patterson,Susan Lee,1,18-3-1933,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Matthew Cohen,Elizabeth Anderson,1,7-6-2002,Una actuacion destacada, su personaje fue fundamental en la trama.
+Mary Berry,Barbara Thomas,4,4-10-1981,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Angela Klein,Richard Robinson,3,15-8-1995,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Samuel Williams,Nancy Thomas,3,20-1-1929,Muy talentoso en su papel, transmitio mucha emocion.
+Bradley Turner,Patricia White,1,7-5-2020,Brillante desempeno, su presencia en pantalla fue impactante.
+Joann Jacobson,Karen Allen,5,19-11-1963,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Kevin Edwards,Matthew Clark,2,2-7-1927,Muy talentoso en su papel, transmitio mucha emocion.
+Kim Campos,Nancy Martin,3,11-4-2005,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Patricia Carter,Linda Walker,2,29-8-1915,Brillante desempeno, su presencia en pantalla fue impactante.
+Cheryl Berry,James Brown,5,29-5-1989,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Melissa Hall,Joseph Johnson,2,5-1-1913,Una actuacion destacada, su personaje fue fundamental en la trama.
+Natalie Smith,Mary White,4,25-10-1939,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Stacey Jennings,Jessica Clark,5,4-3-1912,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Marc Thomas,Sandra Thompson,1,2-8-1989,Su talento es evidente en cada escena, realmente cautivo al publico.
+Erika Jones,Elizabeth Anderson,2,6-11-1949,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Benjamin Lee,Susan Harris,3,26-4-1950,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Jon Jones,Linda Martinez,3,20-5-1965,Muy creible en su papel, me hizo sentir parte de la historia.
+Jennifer Good,Mark Brown,2,29-8-1916,Increible interpretacion, se metio completamente en el personaje.
+Christopher Grant,Thomas Anderson,3,9-9-2000,Increible interpretacion, se metio completamente en el personaje.
+James Chambers,Christopher Rodriguez,5,18-3-1964,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Elizabeth Kline,James Wilson,2,30-2-1941,Muy creible en su papel, me hizo sentir parte de la historia.
+Brian Williams,Patricia Robinson,3,19-7-1906,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Donald Jones,Ashley Thompson,2,13-8-1914,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Dale Salazar,John Williams,2,20-11-2013,Una actuacion destacada, su personaje fue fundamental en la trama.
+Douglas Green,Ashley Lewis,5,29-10-1902,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Jessica Ward,Susan Johnson,3,25-2-1943,Excelente actuacion, realmente conmovedora.
+Jordan Gonzalez,James Brown,3,29-10-1970,Muy creible en su papel, me hizo sentir parte de la historia.
+Nichole Arroyo,Nancy Young,1,6-4-1916,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Nicholas Johnson,Linda Brown,3,14-5-1986,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Michelle Glass,Jessica Thomas,4,25-9-1950,Su talento es evidente en cada escena, realmente cautivo al publico.
+Earl Valdez,Matthew Allen,1,7-5-1992,Destaco en cada escena, demostrando su versatilidad como actor.
+Jessica Kelley,Christopher Jackson,1,17-1-2000,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Jenna Fernandez,James Hall,3,14-4-1917,Su actuacion fue elogiada por su autenticidad y compromiso.
+Melissa Hall,Anthony Anderson,3,4-12-1966,Increible interpretacion, se metio completamente en el personaje.
+Kelly Turner,Richard Smith,4,28-7-1928,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Janet Castillo,Susan Garcia,5,27-10-1971,Una actuacion destacada, su personaje fue fundamental en la trama.
+Samantha Miller,Michael Taylor,1,31-9-1947,Su talento es evidente en cada escena, realmente cautivo al publico.
+Brett Davis,Karen Lewis,2,25-3-1917,Excelente actuacion, realmente conmovedora.
+Jared Dominguez,Jessica Smith,3,22-10-1916,Excelente actuacion, realmente conmovedora.
+Jane Smith,Barbara Hall,5,21-12-1918,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Ronald Ayers,James Garcia,1,21-10-1936,Muy convincente en su interpretacion, fue un placer verlo actuar.
+William Aguirre,Susan Thompson,4,19-5-1957,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Melissa Meyer,Matthew Taylor,4,31-9-2012,Brillante desempeno, su presencia en pantalla fue impactante.
+Dean Mejia,Mary Moore,1,23-7-2005,Increible interpretacion, se metio completamente en el personaje.
+Julie Lane,Mark Lee,5,17-2-1966,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Angela Fox MD,Anthony Moore,1,3-5-1922,Excelente actuacion, realmente conmovedora.
+Todd Jones,Jennifer Rodriguez,2,30-10-1966,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Chelsea Campbell,Thomas Jackson,4,30-7-1941,Brillante desempeno, su presencia en pantalla fue impactante.
+Kenneth Gibbs,James Brown,2,12-7-1900,Muy creible en su papel, me hizo sentir parte de la historia.
+Gabrielle Morgan,Mark Lee,2,15-2-1915,Gran trabajo, aporto mucha profundidad al personaje.
+Danny Murray,Margaret Thomas,4,23-9-1996,Realmente se destaco en su papel, dejo una impresion duradera.
+Lisa Harrison,Matthew Lee,1,14-3-1998,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Stephen Gregory,Thomas Johnson,1,12-11-1957,Su actuacion fue elogiada por su autenticidad y compromiso.
+Lori Stewart,Sarah Wilson,5,8-9-1931,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Mr. Christopher Jones,Robert Harris,2,22-9-1986,Brillante desempeno, su presencia en pantalla fue impactante.
+Crystal Massey,Linda White,4,10-8-1994,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Michelle Long,Anthony White,5,12-6-1947,Destaco en cada escena, demostrando su versatilidad como actor.
+Dustin Dunn,Charles Thompson,1,3-10-1995,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Robert Dunlap,Thomas Brown,5,4-11-1994,Realmente se destaco en su papel, dejo una impresion duradera.
+Shane Gonzalez,Richard Taylor,4,12-10-1947,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+David Allen,Joseph Jackson,3,24-4-2007,Gran trabajo, aporto mucha profundidad al personaje.
+Hannah Li,Mark Lee,5,26-9-2019,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Rebecca Hess,Michael Anderson,2,3-11-2009,Su talento es evidente en cada escena, realmente cautivo al publico.
+Molly Wilson,Lisa Lee,1,2-11-1957,Realmente se destaco en su papel, dejo una impresion duradera.
+Rachel Jenkins,Linda Harris,4,23-10-1904,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Cheryl Jackson,Matthew Young,1,30-11-1968,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Anna Jensen,Richard Garcia,4,13-8-1904,Gran trabajo, aporto mucha profundidad al personaje.
+Gina Weber,Linda Robinson,1,11-10-1925,Destaco en cada escena, demostrando su versatilidad como actor.
+William Zimmerman,Jessica Johnson,1,30-2-2020,Excelente actuacion, realmente conmovedora.
+Alfred Brown,Jennifer Wilson,4,27-5-1998,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Christopher Nelson,Mark Brown,4,27-10-1962,Brillante desempeno, su presencia en pantalla fue impactante.
+Barbara Mendoza,John Young,5,2-9-1910,Su actuacion fue elogiada por su autenticidad y compromiso.
+Karina Charles,Barbara Robinson,2,7-6-1953,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Douglas Green,Jessica Garcia,5,5-7-1949,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Nathan Collins,Jessica Williams,4,13-9-1984,Realmente se destaco en su papel, dejo una impresion duradera.
+Joseph Murphy,Matthew Anderson,1,18-10-1973,Gran trabajo, aporto mucha profundidad al personaje.
+Debra Sullivan,Linda Johnson,1,2-6-1997,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Katherine Owens,Mary Young,2,12-1-1905,Su talento es evidente en cada escena, realmente cautivo al publico.
+Joseph Cline,Sandra Harris,1,8-9-2014,Su talento es evidente en cada escena, realmente cautivo al publico.
+Douglas Collins Jr.,Elizabeth Anderson,5,19-1-1911,Realmente se destaco en su papel, dejo una impresion duradera.
+Vanessa Cole,Michael Garcia,2,28-8-2015,Muy talentoso en su papel, transmitio mucha emocion.
+Justin Young,Sarah White,3,20-11-1968,Increible interpretacion, se metio completamente en el personaje.
+Rhonda White,Mark Davis,1,19-7-1980,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Christopher Medina,Richard Hernandez,1,12-12-1981,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Brandon Brennan,Sarah Moore,5,11-12-1994,Gran trabajo, aporto mucha profundidad al personaje.
+Melinda Johnson,Margaret Hall,2,8-9-1911,Una actuacion destacada, su personaje fue fundamental en la trama.
+Dr. Gloria Mcclain,Anthony Davis,2,17-2-1905,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Mark Mckinney,Sandra White,4,27-8-2011,Su actuacion fue elogiada por su autenticidad y compromiso.
+Frederick Stevens,Margaret Garcia,4,17-7-1944,Destaco en cada escena, demostrando su versatilidad como actor.
+Lisa Porter,Barbara Davis,5,2-10-1991,Su talento es evidente en cada escena, realmente cautivo al publico.
+Kimberly Matthews,Mary Anderson,2,24-10-1900,Brillante desempeno, su presencia en pantalla fue impactante.
+Christopher Brown,Thomas Martin,1,30-12-2002,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Michael Davila,Charles Moore,5,26-6-1919,Su actuacion fue elogiada por su autenticidad y compromiso.
+Morgan Rodriguez,Thomas Hernandez,3,14-6-1954,Su talento es evidente en cada escena, realmente cautivo al publico.
+Jerry Arroyo,Jennifer Garcia,1,7-3-1972,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Russell Brown,Susan Moore,2,9-11-1917,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Diana Jacobson,Barbara Martin,3,31-12-2002,Destaco en cada escena, demostrando su versatilidad como actor.
+Logan Roberts,Linda Walker,4,6-6-1901,Brillante desempeno, su presencia en pantalla fue impactante.
+Steven Smith,Patricia Davis,1,26-3-1992,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Diane Flores,Barbara Martinez,4,24-9-2005,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Marcus Kidd,Margaret Jackson,3,8-12-2007,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Jeremy Hammond,John White,2,8-6-1927,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Chad Marshall,Joseph Williams,1,24-7-1991,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Crystal Osborn,Michael Thompson,4,31-1-1944,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Denise York,Daniel Allen,1,23-2-1972,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Crystal Williams,Patricia White,4,15-3-1990,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Gregory Knox,Jennifer Harris,5,4-7-1975,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Justin Higgins,Sandra Davis,5,1-10-2017,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Charles Martinez,Joseph Clark,3,30-11-1966,Su actuacion fue elogiada por su autenticidad y compromiso.
+Amanda Ramos,Sandra Davis,3,5-4-1967,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Veronica Romero,Michael Walker,1,21-2-1982,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Eric Goodwin,Joseph Jackson,2,17-2-1967,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Janet Sharp,Margaret Johnson,2,30-11-1996,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Kelly Singleton,Jennifer White,1,8-5-1937,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Kristen Summers,Anthony Anderson,3,2-12-1940,Excelente actuacion, realmente conmovedora.
+Andrea Crawford PhD,Patricia Taylor,3,24-4-1917,Realmente se destaco en su papel, dejo una impresion duradera.
+Gerald Gross,Elizabeth Clark,5,13-12-1968,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Vicki Woods,Karen Lee,4,28-6-1908,Su actuacion fue elogiada por su autenticidad y compromiso.
+Janet Carson,Thomas Martinez,1,22-1-1967,Su talento es evidente en cada escena, realmente cautivo al publico.
+Kayla Adams,Lisa Thomas,1,3-9-1919,Destaco en cada escena, demostrando su versatilidad como actor.
+Patrick Rodgers,Mark Moore,5,28-7-1931,Su actuacion fue elogiada por su autenticidad y compromiso.
+Kelly Howell,Sandra Clark,5,26-12-1979,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Alice Smith,Nancy Brown,3,8-2-1962,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Heather Mathis,Ashley Thompson,4,7-2-1918,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Steven Faulkner,John Smith,1,1-12-1944,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Donna Castro,James Thomas,4,17-9-1997,Increible interpretacion, se metio completamente en el personaje.
+Mrs. Julia Osborne,James Hernandez,3,5-7-1941,Su actuacion fue elogiada por su autenticidad y compromiso.
+Michelle French,Joseph Clark,5,31-10-1974,Destaco en cada escena, demostrando su versatilidad como actor.
+Gary Williams,Nancy White,4,23-5-1969,Su talento es evidente en cada escena, realmente cautivo al publico.
+Madeline Miranda,Sarah Taylor,4,20-5-1957,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Jennifer Kelley,Christopher Thomas,5,5-2-2009,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Julie Hayden,Ashley Rodriguez,4,24-9-2006,Muy talentoso en su papel, transmitio mucha emocion.
+Clinton Butler,James Miller,3,1-6-1975,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Robert Lee,Jennifer Hernandez,1,29-11-1921,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Emily Smith MD,Nancy Jones,1,6-1-2001,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Timothy Richardson,Karen Walker,1,31-2-1963,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Crystal Rodriguez,Margaret Johnson,1,31-8-1933,Una actuacion destacada, su personaje fue fundamental en la trama.
+Lauren Freeman,Sandra Thompson,4,17-1-2011,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Kelsey Herring,Michael Thompson,1,31-12-1995,Muy creible en su papel, me hizo sentir parte de la historia.
+Marie Alvarado,Joseph Martin,5,17-11-1984,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Mary Salinas,Margaret Miller,5,12-3-1962,Una actuacion destacada, su personaje fue fundamental en la trama.
+Brandi Reyes,Matthew Young,2,30-12-1946,Destaco en cada escena, demostrando su versatilidad como actor.
+Scott Spencer,Jennifer Garcia,4,23-4-1961,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Brianna Gonzales,Susan Moore,4,3-9-1959,Destaco en cada escena, demostrando su versatilidad como actor.
+Eric Young,Linda Thompson,2,15-11-1905,Brillante desempeno, su presencia en pantalla fue impactante.
+Cassandra Le,Michael Harris,2,4-10-1994,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Jordan Long,James Miller,4,10-11-1964,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Sarah Bryan,Robert Garcia,3,6-11-2019,Muy creible en su papel, me hizo sentir parte de la historia.
+Jennifer Marquez,David Walker,4,4-10-1968,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Christopher Velez,Mary Hall,2,21-7-1955,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Randy Burns,Jennifer Lee,3,1-5-1956,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Lisa Hernandez,Sarah Johnson,4,7-7-1925,Su actuacion fue elogiada por su autenticidad y compromiso.
+Kim Briggs,John Brown,4,1-9-1916,Una actuacion destacada, su personaje fue fundamental en la trama.
+Scott Johnson,Barbara Jones,1,19-9-1994,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Christie Jordan,Linda Moore,2,6-12-1912,Muy creible en su papel, me hizo sentir parte de la historia.
+Jill Douglas,Susan Lee,4,15-12-1983,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Cory Brown,Margaret Harris,5,21-2-1928,Muy talentoso en su papel, transmitio mucha emocion.
+Crystal Roth,Richard Johnson,1,10-5-1913,Increible interpretacion, se metio completamente en el personaje.
+Alicia Patrick DVM,Elizabeth Smith,1,5-1-2001,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Rebekah Miller,Thomas Lewis,1,12-2-1935,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Michael Reese,Charles Smith,5,22-3-1952,Excelente actuacion, realmente conmovedora.
+Megan Harmon,Karen Lee,5,4-10-1949,Muy talentoso en su papel, transmitio mucha emocion.
+Ronnie Maddox,Susan Williams,3,19-6-1935,Gran trabajo, aporto mucha profundidad al personaje.
+Mason Oliver,Patricia Lee,2,20-4-1955,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Cody Martinez,Linda Brown,4,8-11-2012,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Mary Salinas,Linda Williams,1,4-1-1986,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Debra Black,William Moore,3,21-10-2007,Muy talentoso en su papel, transmitio mucha emocion.
+Elizabeth Torres,Lisa Miller,3,28-7-1973,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Johnny Stewart,Thomas Taylor,5,8-6-1911,Muy creible en su papel, me hizo sentir parte de la historia.
+David Smith,Sandra Clark,1,31-7-2001,Su talento es evidente en cada escena, realmente cautivo al publico.
+Dawn Gonzales,Michael Hall,5,13-4-1927,Gran trabajo, aporto mucha profundidad al personaje.
+Joseph Murphy,Michael Garcia,3,13-4-1989,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Nathaniel Ortiz,Joseph Clark,4,18-1-1907,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Carla Zuniga,Sandra Moore,5,4-10-1906,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Sean Scott,James Jackson,4,28-3-1969,Su actuacion fue elogiada por su autenticidad y compromiso.
+Daniel Yoder,John Walker,2,10-8-1976,Su actuacion fue elogiada por su autenticidad y compromiso.
+Joseph Diaz,Lisa Thomas,3,30-12-1973,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Alan Bass,Barbara Jones,4,22-2-1993,Su talento es evidente en cada escena, realmente cautivo al publico.
+Angel Galvan,Ashley Clark,4,6-4-1962,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Alisha Franklin,Jessica Johnson,3,9-1-1983,Su talento es evidente en cada escena, realmente cautivo al publico.
+Paul Simmons,Richard Davis,2,31-3-1904,Destaco en cada escena, demostrando su versatilidad como actor.
+Deanna Fisher,Margaret Miller,1,4-6-2000,Gran trabajo, aporto mucha profundidad al personaje.
+Tony Taylor,William Anderson,5,1-4-1953,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Jonathan Clarke,Patricia Harris,5,13-8-1916,Excelente actuacion, realmente conmovedora.
+Christina Edwards,James Moore,5,26-4-1942,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Thomas Sanchez,John Lewis,5,28-7-1923,Su talento es evidente en cada escena, realmente cautivo al publico.
+Kimberly Robertson,Jennifer Davis,3,20-5-1929,Su actuacion fue elogiada por su autenticidad y compromiso.
+Victoria Walker,Margaret Jackson,5,17-7-1966,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Eugene Butler,Michael Clark,3,13-6-1978,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Krystal Gibson MD,William Taylor,4,21-8-1922,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Emily Cooper,Sarah Anderson,5,25-2-1979,Muy creible en su papel, me hizo sentir parte de la historia.
+Mary Perez,Christopher Jackson,5,20-3-1951,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Lauren Smith,Elizabeth Martinez,2,19-1-1980,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Adam Turner,Richard Taylor,3,14-11-1992,Muy talentoso en su papel, transmitio mucha emocion.
+Shannon Watson,Jennifer Robinson,3,11-9-1947,Su actuacion fue elogiada por su autenticidad y compromiso.
+Ryan Shepard,Charles Miller,5,19-1-1901,Una actuacion destacada, su personaje fue fundamental en la trama.
+Jimmy Thomas,Jennifer Thomas,5,22-2-1995,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Shane Gonzalez,Charles Thompson,1,31-3-1959,Increible interpretacion, se metio completamente en el personaje.
+Amanda Taylor,Charles Anderson,4,6-1-1908,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Wesley Larson,Jennifer Harris,5,25-4-1951,Gran trabajo, aporto mucha profundidad al personaje.
+Brandon Smith,Margaret Brown,4,19-3-1938,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Craig Williams,Jennifer Rodriguez,2,27-4-1974,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Andrea Garcia,Mary Thompson,4,28-12-1954,Increible interpretacion, se metio completamente en el personaje.
+Ian Martin,Elizabeth Martin,2,20-12-1984,Su talento es evidente en cada escena, realmente cautivo al publico.
+Todd Small,Margaret Young,3,18-3-1915,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Calvin Ray,Mark Walker,1,12-10-1992,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Robert Manning,Sandra Moore,3,4-9-1945,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Matthew Rivera,Susan Jones,2,11-4-1927,Muy talentoso en su papel, transmitio mucha emocion.
+Robert Patterson,James Hernandez,4,4-3-2017,Muy talentoso en su papel, transmitio mucha emocion.
+Jennifer Atkinson,Michael Brown,2,23-11-1977,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Daniel Lloyd,Thomas Young,3,31-2-2009,Destaco en cada escena, demostrando su versatilidad como actor.
+Robert Woods,Robert Robinson,5,29-6-1969,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Sarah Morrow,Charles Hall,5,26-12-1930,Su actuacion fue elogiada por su autenticidad y compromiso.
+Brett Davis,Thomas Smith,4,31-6-1916,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Kevin Delgado,John Walker,1,25-2-1942,Gran trabajo, aporto mucha profundidad al personaje.
+Denise Jackson,Daniel Lewis,3,19-10-1934,Excelente actuacion, realmente conmovedora.
+Richard Young,David Johnson,2,10-9-1996,Excelente actuacion, realmente conmovedora.
+Jordan Gonzalez,Christopher White,5,18-1-1958,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Mary Berry,Jennifer Davis,2,8-1-1997,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Amanda Gonzales,Sarah Anderson,3,6-8-1978,Una actuacion destacada, su personaje fue fundamental en la trama.
+Lauren Hunter,Richard Davis,2,11-12-2019,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Cynthia Pearson,Daniel Lewis,2,31-4-1956,Gran trabajo, aporto mucha profundidad al personaje.
+Jeffrey Vance,Jessica Johnson,4,21-12-1949,Una actuacion destacada, su personaje fue fundamental en la trama.
+Robin Tran,Lisa Hall,3,28-3-1906,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Stephen Lewis,William Moore,5,6-5-1969,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Joseph Stewart,Linda Miller,2,10-3-1932,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Lori Murphy,William Anderson,4,16-10-1917,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Gary Williams,John Young,4,23-5-1911,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Laura Myers,Charles Jackson,4,26-1-2007,Gran trabajo, aporto mucha profundidad al personaje.
+Erika Wu,Thomas Taylor,1,6-8-1966,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Michaela Underwood,Jessica Thomas,3,29-11-1939,Su actuacion fue el corazon de la pelicula, realmente brillo.
+William Gross,Christopher Miller,3,11-8-1949,Su actuacion fue elogiada por su autenticidad y compromiso.
+Miranda Flores,Jennifer White,4,7-8-1981,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Jimmy Thomas,Charles Anderson,1,23-4-1953,Increible interpretacion, se metio completamente en el personaje.
+Brandi Holland,Anthony Rodriguez,5,14-10-1917,Realmente se destaco en su papel, dejo una impresion duradera.
+Dr. Kathryn Brown MD,Elizabeth Lee,2,8-7-2001,Fue un placer verlo actuar, su entrega al personaje fue notable.
+William Cox,Margaret Jackson,3,4-12-1998,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Lauren Mendez,Linda Robinson,4,26-7-1927,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+John Schneider,James Wilson,1,24-5-2018,Brillante desempeno, su presencia en pantalla fue impactante.
+Brian Schmidt,John Jones,5,20-9-1997,Realmente se destaco en su papel, dejo una impresion duradera.
+Sean Medina,David Hall,5,5-1-1925,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Madeline Miranda,Jessica Thompson,1,7-4-1987,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Mary Rose,Linda Brown,3,6-4-1923,Una actuacion destacada, su personaje fue fundamental en la trama.
+Elizabeth Johnson,Susan Lee,2,6-4-1934,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Michele Crawford,James Hernandez,1,29-5-1978,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Kimberly Mcdaniel,Richard Garcia,4,16-5-1947,Su talento es evidente en cada escena, realmente cautivo al publico.
+Michael Jones,Margaret Garcia,4,22-10-1989,Muy creible en su papel, me hizo sentir parte de la historia.
+Jerry Fox,Mark Thomas,2,26-1-1978,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Robert Garcia,Karen Johnson,4,23-6-2010,Muy creible en su papel, me hizo sentir parte de la historia.
+Steve Scott,Sarah White,5,13-10-1948,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Sarah Bowman,Thomas Hall,4,9-11-1911,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Samuel Castaneda,Matthew Clark,4,28-6-1937,Gran trabajo, aporto mucha profundidad al personaje.
+Kimberly Johnson,Jennifer Martinez,5,21-11-1978,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Emily Martin,Jessica Allen,5,10-8-1930,Muy talentoso en su papel, transmitio mucha emocion.
+Sarah Brown,Matthew Davis,2,22-9-1954,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Jason Welch,James Hall,1,31-3-1997,Su actuacion fue elogiada por su autenticidad y compromiso.
+Mr. Cory King,Susan Davis,5,16-1-1948,Brillante desempeno, su presencia en pantalla fue impactante.
+Jamie Brooks,Michael Smith,2,16-7-1900,Gran trabajo, aporto mucha profundidad al personaje.
+Kayla Keller,Patricia Johnson,3,7-2-1948,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Todd Jones,Elizabeth Lewis,5,23-10-1966,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Jennifer Elliott,Mark Hall,5,11-8-1980,Una actuacion destacada, su personaje fue fundamental en la trama.
+Lauren Ball,Sarah Jackson,4,4-1-2011,Destaco en cada escena, demostrando su versatilidad como actor.
+Paula Davis,Linda Lee,3,26-3-1992,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Donna Rodriguez,Robert Wilson,3,21-7-1911,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Sharon Eaton,Linda Thompson,5,19-4-1979,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Daniel Sparks,Charles Wilson,1,18-8-2010,Muy talentoso en su papel, transmitio mucha emocion.
+Samuel Burke,Mary Martinez,2,24-5-1900,Increible interpretacion, se metio completamente en el personaje.
+Kerry Rojas,Robert Thompson,4,12-12-1970,Realmente se destaco en su papel, dejo una impresion duradera.
+Tyler Smith,Charles Anderson,5,26-3-1904,Muy creible en su papel, me hizo sentir parte de la historia.
+Angela Morris,David Jones,5,23-1-1912,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Brittney Johnson,Mary Garcia,2,1-7-2011,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Nicolas Jenkins,Michael Lewis,1,14-5-1978,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Ashley Stevens,Ashley Davis,4,18-8-1904,Realmente se destaco en su papel, dejo una impresion duradera.
+Billy Franklin III,James White,2,27-7-2011,Increible interpretacion, se metio completamente en el personaje.
+Glen Summers,Daniel Allen,3,30-5-1925,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Deanna Moran,Barbara Thomas,4,6-5-1956,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Anna Smith,Robert Lewis,2,28-8-1938,Excelente actuacion, realmente conmovedora.
+Mrs. Sandra Rogers MD,Mark Thomas,5,3-3-1916,Su actuacion fue elogiada por su autenticidad y compromiso.
+Michael Webb,Charles Hall,1,14-11-1921,Su talento es evidente en cada escena, realmente cautivo al publico.
+Latoya Boone,Mark Walker,3,14-5-1931,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Justin Smith,Patricia Clark,1,26-2-1913,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Crystal Ray,Joseph Williams,5,28-5-1920,Muy creible en su papel, me hizo sentir parte de la historia.
+Joshua Sampson,Jessica Davis,4,25-4-1973,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Tyler Avila,Michael Martinez,3,18-3-1916,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Gerald Gross,Patricia Robinson,4,27-9-1960,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Valerie Choi,Thomas Young,4,1-11-1902,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Lauren Freeman,John Jackson,2,20-2-1923,Su actuacion fue el corazon de la pelicula, realmente brillo.
+John Wilson,Robert Jones,4,1-3-2001,Su actuacion fue elogiada por su autenticidad y compromiso.
+Angela Myers,Nancy Thompson,4,26-5-1973,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Stephanie Mcdaniel,Daniel Martinez,2,26-5-1933,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Thomas Sanchez,Joseph Williams,4,5-1-1916,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Kimberly Johnson,Karen Lee,1,22-11-1955,Una actuacion destacada, su personaje fue fundamental en la trama.
+Thomas Jenkins,Sandra Harris,5,30-5-1921,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Michael Brown,Linda Clark,4,1-5-2004,Brillante desempeno, su presencia en pantalla fue impactante.
+Mark Smith,Mary Walker,3,19-7-1953,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Brenda Cruz,John Brown,5,6-7-1931,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Victoria Pennington,Jennifer Jackson,3,25-3-1928,Gran trabajo, aporto mucha profundidad al personaje.
+Andrew Patterson,Patricia Robinson,5,21-3-1924,Una actuacion destacada, su personaje fue fundamental en la trama.
+Tammy Owens,Sandra Williams,5,2-11-1960,Una actuacion destacada, su personaje fue fundamental en la trama.
+David Martin,Sarah Johnson,1,11-5-2020,Gran trabajo, aporto mucha profundidad al personaje.
+Dawn Barnes,Sandra Moore,2,14-7-2013,Realmente se destaco en su papel, dejo una impresion duradera.
+Michael Ramirez II,Mary Hernandez,2,13-6-1984,Brillante desempeno, su presencia en pantalla fue impactante.
+Peggy Fields,David Davis,4,17-1-2005,Su talento es evidente en cada escena, realmente cautivo al publico.
+Andrew Baker,Ashley Williams,3,30-11-1913,Muy talentoso en su papel, transmitio mucha emocion.
+Richard Young,Thomas Walker,1,18-9-1945,Destaco en cada escena, demostrando su versatilidad como actor.
+Breanna White,David Martin,2,27-2-2019,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Michele Davis,Anthony Lewis,5,4-11-1901,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Julie Crawford,Mark Jones,4,28-3-1937,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+James Kim,Susan Clark,3,25-7-1930,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Doris Ortega,Sarah Thomas,1,31-3-1981,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Justin Christian,Sandra Wilson,1,27-6-1927,Brillante desempeno, su presencia en pantalla fue impactante.
+Todd Small,Sarah Walker,3,7-11-1901,Muy creible en su papel, me hizo sentir parte de la historia.
+Sarah Goodman,Mark Garcia,2,24-12-1925,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Matthew Curry,Christopher Smith,1,15-11-1952,Su actuacion fue elogiada por su autenticidad y compromiso.
+Casey Padilla,David Brown,3,15-2-2014,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Marco Ramsey,Nancy Young,4,26-4-2001,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Monique Murphy,Barbara Smith,3,29-1-1989,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Lisa Harris,Susan Hernandez,3,29-4-1938,Destaco en cada escena, demostrando su versatilidad como actor.
+Mason Oliver,Mary Anderson,5,3-4-1969,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Frank Summers,Ashley Rodriguez,3,7-3-1950,Realmente se destaco en su papel, dejo una impresion duradera.
+Kristen Rodriguez,Christopher Jones,1,15-2-1909,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Brendan Turner MD,Barbara Hall,3,23-1-1961,Destaco en cada escena, demostrando su versatilidad como actor.
+Alison Miller,Robert Anderson,1,17-6-1966,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Jacob Harris,Barbara Allen,3,31-6-1934,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Melissa Gomez,Joseph Brown,2,26-6-1973,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Lauren Pham,Charles Anderson,4,12-6-2011,Su talento es evidente en cada escena, realmente cautivo al publico.
+Amanda May PhD,Robert Rodriguez,1,25-5-1972,Realmente se destaco en su papel, dejo una impresion duradera.
+Kimberly Diaz,Sarah Johnson,2,13-9-1915,Muy talentoso en su papel, transmitio mucha emocion.
+Sarah Lamb,Karen Anderson,1,30-4-1968,Realmente se destaco en su papel, dejo una impresion duradera.
+Johnny Stewart,Linda Williams,3,1-11-1958,Una actuacion destacada, su personaje fue fundamental en la trama.
+Julia Murphy,Michael Davis,1,11-11-1971,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Kari Dennis,Mary Clark,1,27-6-1943,Una actuacion destacada, su personaje fue fundamental en la trama.
+Tiffany Watson,Thomas Thompson,4,21-5-2010,Su actuacion fue elogiada por su autenticidad y compromiso.
+Madison Stanley,Margaret Young,1,30-4-1925,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Emily Wu,Sarah Lewis,5,20-3-1936,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Lisa Harrison,Charles Wilson,3,24-8-1906,Muy creible en su papel, me hizo sentir parte de la historia.
+Laura Myers,Charles Martinez,4,6-11-1906,Su actuacion fue elogiada por su autenticidad y compromiso.
+Alice Miller,Jessica Lewis,4,28-3-1955,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Kelly Woods,Mark Davis,2,10-3-1942,Destaco en cada escena, demostrando su versatilidad como actor.
+Laura Myers,Ashley Allen,4,1-5-1914,Gran trabajo, aporto mucha profundidad al personaje.
+Benjamin Moon,Jessica Davis,2,10-6-1920,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Rebecca Bryant,Mary Garcia,4,10-8-1929,Gran trabajo, aporto mucha profundidad al personaje.
+Terry Mooney,Jennifer Davis,4,23-5-2016,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Thomas Williams,Michael Thomas,3,16-2-1961,Muy talentoso en su papel, transmitio mucha emocion.
+Kristi Long,Susan Davis,5,13-4-1944,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Riley Brewer,John Brown,2,2-8-1936,Su actuacion fue elogiada por su autenticidad y compromiso.
+Robert Myers,Barbara Moore,3,13-12-1926,Una actuacion destacada, su personaje fue fundamental en la trama.
+Lisa Hernandez,Linda Wilson,5,7-8-1915,Increible interpretacion, se metio completamente en el personaje.
+Michael Moore,Mark Young,3,29-9-1952,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Lisa Thomas,Sandra Moore,3,23-9-1910,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Christopher Austin,Linda Thompson,3,16-2-1965,Una actuacion destacada, su personaje fue fundamental en la trama.
+Joshua Bennett,Linda Martinez,1,19-11-2005,Realmente se destaco en su papel, dejo una impresion duradera.
+Elizabeth Garcia,Susan Thompson,1,6-4-1976,Su talento es evidente en cada escena, realmente cautivo al publico.
+Philip Bennett,William Young,3,27-3-1925,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Nichole Munoz,Matthew Walker,5,26-5-1953,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Diana Willis,Jessica Harris,1,2-7-1902,Realmente se destaco en su papel, dejo una impresion duradera.
+Rebecca Camacho,Susan Davis,3,13-5-1952,Su talento es evidente en cada escena, realmente cautivo al publico.
+Emily Parker,Karen Brown,3,16-2-1904,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Heidi Martin,Margaret Allen,4,7-9-1999,Destaco en cada escena, demostrando su versatilidad como actor.
+Monica Hernandez,Barbara Thomas,4,30-4-2011,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Kayla Mcclain,Ashley Johnson,5,5-9-1924,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Emily Bush,Sarah Davis,1,21-10-1983,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Carl Avery,Charles Young,1,13-6-1955,Su talento es evidente en cada escena, realmente cautivo al publico.
+Crystal Ray,Richard Martin,2,7-2-1958,Brillante desempeno, su presencia en pantalla fue impactante.
+Laura Hayes,Michael Clark,1,21-2-1974,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Barbara Smith,Karen Johnson,1,23-7-1958,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+James Lopez,David Williams,1,31-10-1937,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Jane Sharp,Robert Rodriguez,4,25-7-2013,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Michael Johnson,Christopher Hernandez,2,24-10-1984,Una actuacion destacada, su personaje fue fundamental en la trama.
+Melissa Meyer,Nancy Anderson,4,4-1-1924,Gran trabajo, aporto mucha profundidad al personaje.
+Seth Calderon,Sandra Garcia,2,19-6-1986,Su actuacion fue elogiada por su autenticidad y compromiso.
+Adam Smith,Lisa Rodriguez,5,2-10-1982,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Brendan Cannon,Lisa Lewis,4,2-6-1903,Una actuacion destacada, su personaje fue fundamental en la trama.
+Robert Poole,Sarah Martin,3,5-7-2015,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Jacob Flores,Ashley Hall,5,17-6-2018,Su actuacion fue elogiada por su autenticidad y compromiso.
+Kelsey Boyle,Linda White,5,26-5-1992,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Paula Arnold,Susan Robinson,1,28-3-1904,Destaco en cada escena, demostrando su versatilidad como actor.
+Miss Lynn Santos,James Jones,3,25-9-1954,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Austin Morris,Lisa Thomas,3,14-10-1910,Muy talentoso en su papel, transmitio mucha emocion.
+Morgan Pacheco,Jennifer Thomas,5,30-2-2005,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Evan Simmons,Nancy Martinez,1,25-4-2017,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Sara Mcbride,Thomas Anderson,5,12-3-1942,Muy talentoso en su papel, transmitio mucha emocion.
+David Mccoy,Christopher Garcia,4,9-1-1968,Brillante desempeno, su presencia en pantalla fue impactante.
+Gavin Brown,Sarah Anderson,4,19-1-1905,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Laura Hayes,Daniel Davis,3,2-9-1935,Su talento es evidente en cada escena, realmente cautivo al publico.
+Andrew Patterson,Thomas Miller,2,4-3-1913,Brillante desempeno, su presencia en pantalla fue impactante.
+Jennifer Fisher,Patricia Harris,1,13-11-1915,Muy creible en su papel, me hizo sentir parte de la historia.
+Jessica Randall,Barbara Allen,2,19-7-1955,Una actuacion destacada, su personaje fue fundamental en la trama.
+Dorothy Landry,Margaret Young,5,9-9-1903,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Sabrina Hampton,Robert Walker,1,20-10-2002,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Angela Klein,Jessica Jones,5,9-2-1903,Realmente se destaco en su papel, dejo una impresion duradera.
+Taylor Dixon,Anthony Garcia,4,24-5-1908,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Barry Meza,Charles Harris,1,30-6-1926,Muy creible en su papel, me hizo sentir parte de la historia.
+Maria Aguilar,Mark Moore,5,16-1-1912,Destaco en cada escena, demostrando su versatilidad como actor.
+Michelle Davis,Thomas Anderson,5,23-1-1925,Su talento es evidente en cada escena, realmente cautivo al publico.
+Susan Wilson,Robert Brown,4,1-7-1952,Una actuacion destacada, su personaje fue fundamental en la trama.
+Emily Cooper,Jennifer Brown,4,2-2-1973,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Monica Hernandez,Anthony Jackson,5,16-8-1983,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Tammy Estes,Sandra Lee,5,1-10-1923,Su talento es evidente en cada escena, realmente cautivo al publico.
+Michelle French,Richard Thomas,2,28-7-2004,Muy talentoso en su papel, transmitio mucha emocion.
+Isaiah Chavez,Anthony Martinez,1,9-2-2010,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Briana Garcia,Anthony Jackson,5,25-2-1958,Increible interpretacion, se metio completamente en el personaje.
+Meagan Clark,John Young,1,13-6-1965,Realmente se destaco en su papel, dejo una impresion duradera.
+Kelly Norris,Ashley Wilson,3,7-2-1918,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Jessica Watson,Patricia Davis,3,23-11-2000,Gran trabajo, aporto mucha profundidad al personaje.
+Alexis Baker,Mark Thomas,4,21-12-1992,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Amy Ford,Mark Thomas,2,12-2-2016,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Brooke Webb,Charles Davis,5,8-5-2000,Excelente actuacion, realmente conmovedora.
+Yvonne Morgan,Linda Anderson,1,18-7-2014,Increible interpretacion, se metio completamente en el personaje.
+Emily Parker,James Hernandez,3,6-2-1928,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Charles Dixon,Margaret Miller,3,11-7-1904,Destaco en cada escena, demostrando su versatilidad como actor.
+Erin Reynolds,Nancy Young,4,5-8-1906,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Crystal Andrews MD,Thomas Williams,3,30-6-1986,Destaco en cada escena, demostrando su versatilidad como actor.
+Joseph Gomez,Lisa Clark,4,31-5-1991,Realmente se destaco en su papel, dejo una impresion duradera.
+Marcus Kerr,Patricia Anderson,1,29-4-1924,Destaco en cada escena, demostrando su versatilidad como actor.
+Dr. Ryan Harrington DDS,Jessica Harris,1,19-9-1910,Brillante desempeno, su presencia en pantalla fue impactante.
+Terry Jackson,Matthew Anderson,4,3-6-1996,Destaco en cada escena, demostrando su versatilidad como actor.
+Melissa Garcia,Mark Jackson,1,4-6-1981,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Joseph Olsen,Charles Brown,5,27-11-1926,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Timothy Daniels,David Walker,2,3-6-1965,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Melissa Meyer,Thomas Taylor,5,21-6-1982,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Matthew Marks,Susan Walker,2,18-6-1937,Brillante desempeno, su presencia en pantalla fue impactante.
+Douglas Barton,Margaret Johnson,4,21-10-2006,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Danielle Davis,Patricia Lee,1,19-3-1938,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Mary Morgan,Charles Young,1,31-5-1941,Su talento es evidente en cada escena, realmente cautivo al publico.
+Dennis Wade,Matthew Smith,4,30-4-1917,Brillante desempeno, su presencia en pantalla fue impactante.
+Todd Wilson,William Miller,3,9-2-1916,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Marcus Kerr,Matthew Young,2,26-6-2012,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Tara Harmon,Charles Brown,3,29-10-2020,Increible interpretacion, se metio completamente en el personaje.
+Joseph Cantrell,Barbara Taylor,5,8-6-1921,Su actuacion fue elogiada por su autenticidad y compromiso.
+Elaine Meyer,David Miller,4,13-3-1996,Realmente se destaco en su papel, dejo una impresion duradera.
+Debra Vazquez DDS,Karen Moore,5,4-7-1978,Realmente se destaco en su papel, dejo una impresion duradera.
+Lauren Mendez,John Brown,2,9-9-1965,Fue un placer verlo actuar, su entrega al personaje fue notable.
+Alex Blackburn,Charles Jackson,3,26-7-1942,Una actuacion destacada, su personaje fue fundamental en la trama.
+Courtney Guerra,Sandra Allen,3,15-5-1919,Increible interpretacion, se metio completamente en el personaje.
+Molly Cole,Anthony Taylor,1,18-10-1910,Su talento es evidente en cada escena, realmente cautivo al publico.
+Brittany Martin,Ashley Hall,1,9-10-1924,Increible interpretacion, se metio completamente en el personaje.
+Sally Roberts,Margaret Garcia,2,25-1-1943,Su actuacion fue elogiada por su autenticidad y compromiso.
+Eric Oliver,Ashley Rodriguez,2,21-1-1935,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Todd Green,Mark Thompson,2,11-4-1934,Realmente se destaco en su papel, dejo una impresion duradera.
+Shawn Lamb,Thomas Brown,4,27-10-1945,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Cheryl Jackson,Thomas Anderson,4,7-8-1945,Muy creible en su papel, me hizo sentir parte de la historia.
+Wayne Thompson,Richard Jones,1,27-2-1975,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Adam Price MD,Thomas Johnson,3,17-2-1942,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Eddie Rose,David Jackson,5,27-3-1976,Una actuacion destacada, su personaje fue fundamental en la trama.
+Scott Price,Jessica Allen,3,26-2-1908,Realmente se destaco en su papel, dejo una impresion duradera.
+David Warren,David Lewis,5,8-10-1949,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Joseph Sanchez,Elizabeth Smith,5,11-1-1917,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Andrew Wright,Nancy Taylor,2,26-11-2004,Impresionante actuacion, capturo perfectamente la esencia del personaje.
+Jose Stevens,Margaret Thompson,2,17-2-1975,Su talento es evidente en cada escena, realmente cautivo al publico.
+Melinda Miller,Mark Miller,2,31-10-1975,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Joshua Burns,Charles Robinson,2,5-2-1918,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Derrick Wong,Karen Jackson,1,13-8-1985,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+John Torres,William Martinez,4,21-1-2015,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Ronald Reynolds,Mark Jackson,2,27-6-1954,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Nicole Simpson,Elizabeth Robinson,3,27-1-1920,Increible interpretacion, se metio completamente en el personaje.
+Makayla Simpson,Matthew Hall,4,12-1-1936,Su actuacion fue elogiada por su autenticidad y compromiso.
+Paula Cooper,Richard Davis,2,7-9-1991,Brillante desempeno, su presencia en pantalla fue impactante.
+Michael Johnson,Elizabeth Thomas,4,15-3-1906,Excelente actuacion, realmente conmovedora.
+Wanda Cruz,Charles Young,2,4-6-1934,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Sonia Sandoval,Nancy Thompson,1,20-6-1913,Destaco en cada escena, demostrando su versatilidad como actor.
+Rachel Hall,Susan Allen,3,22-11-1968,Gran trabajo, aporto mucha profundidad al personaje.
+Michael Carroll,Christopher Robinson,4,22-8-1936,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Kelly Norris,Karen Johnson,2,22-11-1969,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Jennifer Ramirez,Matthew Miller,2,17-3-2014,Su actuacion fue elogiada por su autenticidad y compromiso.
+Hannah Powell,Jessica Allen,1,11-8-1958,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Nicole Neal,Anthony Rodriguez,2,22-2-1907,Brillante desempeno, su presencia en pantalla fue impactante.
+David Weber,Joseph Davis,5,23-2-1970,Su actuacion fue elogiada por su autenticidad y compromiso.
+Jessica Walters,Michael Wilson,1,24-7-1970,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Mr. Jacob Larson,Margaret Harris,1,19-3-1983,Muy convincente en su interpretacion, fue un placer verlo actuar.
+Phyllis Johnson,Jennifer Young,1,28-12-1977,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Kari Haas,Jennifer Walker,4,5-5-1974,Su actuacion fue elogiada por su autenticidad y compromiso.
+Michael Davis,John Lewis,4,10-2-1982,Muy talentoso en su papel, transmitio mucha emocion.
+Amy Shelton,Joseph Jones,2,17-9-1967,Gran trabajo, aporto mucha profundidad al personaje.
+Jessica Jones,Karen Taylor,5,22-3-1959,Muy creible en su papel, me hizo sentir parte de la historia.
+Vanessa Lewis,Elizabeth Hall,4,14-7-1960,Su interpretacion fue el punto clave que hizo que la pelicula fuera exitosa.
+Jeffrey Vance,Jessica Taylor,2,10-1-1994,Excelente actuacion, realmente conmovedora.
+Shawn Lamb,Patricia Hernandez,3,3-2-1994,Su actuacion fue elogiada por su autenticidad y compromiso.
+Cheryl Williams,Elizabeth Garcia,4,22-7-1925,Muy talentoso en su papel, transmitio mucha emocion.
+Christopher Griffith,Robert Smith,3,10-7-1916,Realmente se destaco en su papel, dejo una impresion duradera.
+Jeremy Hammond,Lisa Thomas,2,30-6-2008,Una actuacion destacada, su personaje fue fundamental en la trama.
+Joshua Hull,Lisa Martin,3,18-6-1932,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Andrea Byrd,Michael Allen,4,17-7-1994,Su actuacion fue el corazon de la pelicula, realmente brillo.
+April Nelson,Christopher Allen,5,4-2-1992,Muy creible en su papel, me hizo sentir parte de la historia.
+Cindy Wilson,Jessica Martinez,2,12-4-1972,Muy talentoso en su papel, transmitio mucha emocion.
+Janice Lopez,Susan Jackson,4,28-10-1972,Realmente se destaco en su papel, dejo una impresion duradera.
+Nichole Munoz,Mark Brown,3,29-11-1959,Su talento es evidente en cada escena, realmente cautivo al publico.
+Margaret Wyatt,Mary Young,4,17-6-1908,Muy talentoso en su papel, transmitio mucha emocion.
+Adrienne Taylor,Joseph Rodriguez,3,14-1-1995,Excelente actuacion, realmente conmovedora.
+Nichole Arroyo,Linda Brown,3,20-8-1963,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Brooke Wilson,Jessica Jones,3,13-7-1973,Gran trabajo, aporto mucha profundidad al personaje.
+Dr. Dwayne Cruz,Barbara Rodriguez,3,16-2-1984,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Emily Martin,Nancy Clark,2,7-3-1968,Increible interpretacion, se metio completamente en el personaje.
+Diana Russell,Richard Taylor,4,9-11-1975,Su actuacion fue memorable, realmente hizo que la pelicula fuera especial.
+Kevin Edwards,Daniel Johnson,2,5-2-1933,Realmente se destaco en su papel, dejo una impresion duradera.
+Eric Huffman,Joseph Miller,3,2-9-1904,Realmente se destaco en su papel, dejo una impresion duradera.
+William Mcintyre,David Williams,4,12-1-1972,Su talento es evidente en cada escena, realmente cautivo al publico.
+Mariah Wolf,Thomas Robinson,4,16-4-1919,Su talento es evidente en cada escena, realmente cautivo al publico.
+Austin Martinez,Jessica Jones,2,1-2-1999,Una actuacion magistral, hizo que la pelicula fuera inolvidable.
+Joseph Cline,Barbara Jackson,3,11-8-1975,Brillante desempeno, su presencia en pantalla fue impactante.
+Karina Charles,William Anderson,5,30-7-1974,Gran trabajo, aporto mucha profundidad al personaje.
+Matthew Davis,Jennifer Lee,1,23-11-1900,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Heather Craig,Daniel Young,2,12-10-1993,Su talento es evidente en cada escena, realmente cautivo al publico.
+Christine Murray,Margaret Miller,2,6-10-2002,Me encanto su actuacion, fue uno de los puntos fuertes de la pelicula.
+Angela White,William Thomas,4,6-8-1914,Su actuacion fue elogiada por su autenticidad y compromiso.
+Julie Lane,Karen Garcia,4,28-11-1931,Su talento es evidente en cada escena, realmente cautivo al publico.
+Riley Brewer,David Smith,4,13-7-1966,Excelente actuacion, realmente conmovedora.
+Cindy Winters,John Harris,3,8-12-1953,Gran trabajo, aporto mucha profundidad al personaje.
+Emily Morgan,Mark Robinson,2,29-2-2003,Realmente se destaco en su papel, dejo una impresion duradera.
+Travis Huber,Matthew Jones,5,7-4-1981,Su talento es evidente en cada escena, realmente cautivo al publico.
+Diana Russell,Barbara Lewis,2,18-7-1973,Su actuacion fue el corazon de la pelicula, realmente brillo.
+Michelle Day,Mark Robinson,3,1-1-1915,Destaco en cada escena, demostrando su versatilidad como actor.
+Shelly Harper,Linda Lee,3,8-7-1941,Su presencia en pantalla fue cautivadora, aporto mucho a la historia.
+Scott Spencer,Barbara Johnson,3,29-9-1900,Excelente actuacion, realmente conmovedora.
+Andrea Byrd,Joseph Thomas,3,14-3-1974,Destaco en cada escena, demostrando su versatilidad como actor.

@@ -1,5 +1,14 @@
 name,priceId,creationYear,description,impact
-Best Picture,BP123,1929,Award for best film of the year,Highest honor in filmmaking
-Best Director,BD456,1929,Award for best directing of the year,Recognizes directors who have exhibited outstanding directing for a film
-Best Actor,BA789,1929,Award for best performance by an actor in a leading role,Acknowledges the finest in lead male acting performances
-Best Actress,BAct234,1929,Award for best performance by an actress in a leading role,Acknowledges the finest in lead female acting performances
+Best Picture,BP123,1929,Award for best film of the year,10
+Best Director,BD456,1929,Award for best directing of the year,9
+Best Actor,BA789,1929,Award for best performance by an actor in a leading role,10
+Best Actress,BAct234,1929,Award for best performance by an actress in a leading role,10
+Best Supporting Actor,BSA567,1929,Award for best performance by an actor in a supporting role,8
+Best Supporting Actress,BSAct890,1929,Award for best performance by an actress in a supporting role,8
+Best Original Screenplay,BOS123,1940,Award for best original screenplay,7
+Best Adapted Screenplay,BAS456,1940,Award for best adapted screenplay,7
+Best Animated Feature,BAF789,2001,Award for best animated feature,6
+Best International Feature,BIF234,1956,Award for best international feature,5
+Best Documentary Feature,BDF567,1943,Award for best documentary feature,4
+Best Cinematography,BC123,1929,Award for best cinematography,3
+

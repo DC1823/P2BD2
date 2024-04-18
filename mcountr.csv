@@ -1,3 +1,1001 @@
 start_node_id,end_node_id,properties.Role,properties.DateReleased,properties.ContributionType
-Actor1,Song1,Singer,2020-06-01,Vocal contribution
-Director1,Song2,Composer,2021-09-15,Music composition
+Lisa Thomas,Dark Sunrise,Other,2005-12-14,Featured
+Elizabeth Robinson,Bright beyond the Sky,Engineer,2000-11-5,Other
+Nancy White,Lonely in the Love,Engineer,1998-3-9,Main
+Mary Garcia,Night in the Love,Composer,2005-9-13,Other
+Robert Hall,Bright Dream,Bass,1996-5-16,Main
+Karen Hernandez,Dream beyond the Sky,Keyboard,2015-11-4,Main
+Joseph Johnson,Sunset under the Day,Manager,1997-10-9,Featured
+Linda Harris,Last Day,Producer,2003-10-19,Featured
+Linda Hall,Sunset to the Night,Vocal,2004-8-8,Featured
+Robert Martinez,Eternal without a Sky,Arranger,2005-12-9,Main
+Michael Thompson,Love to the Sky,Engineer,2015-12-23,Featured
+Linda Hernandez,Bright Heart,Vocal,2001-5-2,Main
+Lisa Thomas,Sunrise to the Sunrise,Composer,1997-1-1,Featured
+John Walker,Day for a Day,Vocal,2008-9-13,Main
+Mark Brown,Dream beyond the Heart,Guitar,2012-10-26,Main
+Anthony Anderson,Broken for a Dream,Drums,2005-8-7,Featured
+Jennifer Robinson,Final Dream,Bass,1995-11-8,Featured
+Mary Wilson,Eternal in the Heart,Drums,2004-1-7,Main
+Patricia Hall,Star without a Heart,Vocal,2009-10-3,Featured
+Ashley Thomas,First under the Sunset,Drums,2010-9-22,Main
+Elizabeth Wilson,Dream of the Sunrise,Producer,1995-3-2,Main
+Patricia Anderson,First Heart,Vocal,2009-12-20,Featured
+David Martin,Sunrise in the Love,Other,1995-2-2,Other
+Jennifer Walker,Last under the Heart,Keyboard,2019-8-11,Other
+John Robinson,Day for a Sky,Arranger,2008-8-16,Featured
+Mary Johnson,Last Sunset,Arranger,2001-2-27,Other
+Susan Thompson,Heart to the Star,Other,2005-9-18,Featured
+Anthony Johnson,Eternal in the Heart,Lyricist,2008-9-2,Main
+Sandra Garcia,First to the Love,Keyboard,1996-6-27,Other
+Christopher Miller,Night under the Love,Other,1996-8-19,Other
+Anthony Hernandez,Beautiful without a Sunrise,Engineer,1993-5-7,Main
+Jennifer Harris,Dark Heart,Bass,2012-3-16,Featured
+Charles Davis,Final Dream,Keyboard,2015-6-17,Other
+Jessica Jackson,Eternal Dream,Arranger,2002-4-11,Featured
+James Jackson,Dream in the Sunrise,Producer,2000-2-4,Main
+Anthony Rodriguez,Sunset in the Heart,Other,2002-7-27,Featured
+Jessica Young,Star for a Night,Engineer,2003-4-24,Featured
+Thomas Jackson,Dream under the Star,Bass,2003-2-6,Featured
+Jessica Walker,Beautiful under the Sunset,Arranger,2019-10-21,Featured
+William Clark,Day under the Night,Guitar,1992-11-13,Featured
+Michael Smith,Bright Star,Composer,2019-11-13,Other
+Jennifer Garcia,Lonely Day,Producer,2018-11-23,Other
+Anthony White,Broken of the Dream,Engineer,1999-11-11,Main
+Joseph Walker,Last Day,Vocal,2015-11-24,Other
+Margaret Young,Bright under the Star,Composer,1998-5-8,Other
+Ashley White,Lonely without a Sunrise,Bass,1998-11-14,Featured
+Michael Thompson,Lonely for a Sunset,Guitar,1990-4-5,Other
+David Thompson,Beautiful in the Sky,Other,2016-11-6,Main
+Michael Jackson,Night without a Day,Guitar,2010-4-5,Other
+Mary Garcia,Night to the Star,Keyboard,1996-10-21,Featured
+Ashley White,Eternal Love,Composer,2007-7-11,Featured
+Sandra Anderson,Dream to the Love,Engineer,2017-1-26,Featured
+Jennifer Miller,Broken Night,Composer,2016-2-20,Main
+Michael Clark,Final Dream,Arranger,2008-7-8,Featured
+Karen Jones,Eternal Sky,Drums,1998-2-17,Other
+Susan Harris,Last to the Night,Bass,2017-9-5,Main
+Barbara White,Dream in the Sunrise,Arranger,2009-3-12,Other
+Robert Martinez,Moon for a Day,Vocal,2019-8-12,Main
+Jessica Robinson,Last for a Night,Arranger,2009-12-20,Featured
+John Jackson,Dream to the Heart,Manager,2008-2-10,Featured
+Joseph Rodriguez,Last in the Sunrise,Engineer,2003-12-23,Main
+Michael Young,Eternal beyond the Star,Lyricist,2003-12-5,Featured
+John Walker,Dream of the Heart,Engineer,2002-5-22,Main
+Joseph Hall,Sunset for a Moon,Guitar,2000-8-1,Main
+Margaret Clark,Night beyond the Sky,Arranger,2008-5-6,Other
+Linda Harris,Star for a Sunset,Composer,2011-12-7,Featured
+Joseph Jones,Beautiful of the Sunrise,Drums,2017-4-4,Main
+Ashley Rodriguez,Night beyond the Day,Bass,2007-10-24,Main
+Karen Lewis,Dark Night,Manager,2019-1-25,Featured
+Sandra Smith,Sky in the Dream,Manager,1994-3-5,Featured
+Anthony Martinez,Star without a Moon,Guitar,2000-1-21,Main
+Jessica Martinez,Lonely beyond the Love,Guitar,2015-11-15,Other
+James Williams,Sky without a Dream,Lyricist,2007-5-25,Other
+Ashley Hernandez,Heart without a Star,Lyricist,2014-11-12,Featured
+William Anderson,Last Star,Engineer,2009-9-5,Main
+Michael Hall,Star for a Night,Vocal,2018-7-16,Main
+Charles Lewis,Beautiful Night,Engineer,2012-7-7,Other
+Robert Williams,Last Heart,Other,2003-7-1,Main
+Mary Lewis,Eternal Night,Manager,2005-11-16,Main
+John Miller,Lonely of the Sunset,Producer,2017-10-20,Main
+Thomas Thompson,Love of the Star,Lyricist,2020-5-25,Other
+Jennifer Clark,Love for a Day,Vocal,2019-9-12,Main
+Thomas Martin,Dark for a Sunrise,Arranger,2014-12-2,Other
+John Johnson,Day in the Day,Other,2007-4-22,Featured
+Patricia Hernandez,Eternal Love,Producer,2010-5-20,Featured
+Matthew Williams,Love for a Sunrise,Manager,2019-10-20,Other
+Sarah Young,Love to the Sunset,Composer,1990-7-9,Featured
+Richard Moore,Day for a Moon,Bass,1994-2-12,Other
+David Walker,Beautiful in the Heart,Other,1994-6-4,Main
+Robert Wilson,Broken Star,Arranger,1990-12-11,Other
+Robert Martin,Moon of the Sunset,Engineer,1995-8-18,Other
+Karen Hernandez,Happy for a Dream,Keyboard,1997-2-15,Featured
+Barbara Davis,Last Sunset,Arranger,1991-12-9,Main
+Margaret Jackson,Night in the Moon,Producer,2011-8-27,Featured
+Linda Harris,Bright to the Star,Composer,2003-6-7,Featured
+James Lewis,Bright for a Love,Other,2014-6-8,Featured
+James Brown,Eternal of the Sky,Drums,2011-3-7,Other
+Margaret Thompson,Bright Dream,Producer,2008-2-11,Other
+Susan Davis,Beautiful Star,Vocal,2007-3-23,Other
+Susan Jackson,Broken Love,Drums,2012-10-18,Main
+Mary Wilson,Eternal Love,Bass,1993-7-21,Main
+James Lee,Final Night,Drums,2002-3-15,Featured
+Michael Smith,Sunset for a Star,Composer,2001-3-4,Other
+Barbara Robinson,Beautiful Moon,Lyricist,2018-6-9,Featured
+John Taylor,Star beyond the Dream,Manager,1992-10-17,Other
+Barbara Thomas,Last without a Star,Arranger,2019-6-10,Other
+Patricia Hall,Dream without a Moon,Other,1990-6-9,Main
+James Wilson,Last Heart,Composer,1998-12-28,Main
+Ashley White,First Day,Arranger,1993-6-13,Main
+Charles Wilson,Sunrise under the Night,Other,2011-3-19,Featured
+Anthony Johnson,Night beyond the Sunrise,Guitar,1990-4-14,Other
+Sandra Garcia,Dark Heart,Drums,2020-12-11,Other
+Michael Moore,Broken in the Day,Engineer,2002-7-9,Featured
+Mary Garcia,Broken Sunset,Keyboard,2012-6-2,Other
+John Young,Night in the Heart,Drums,2007-9-7,Main
+Richard Harris,Happy Sunrise,Other,2010-4-26,Featured
+Susan Harris,Final Dream,Producer,2009-2-14,Other
+Margaret Jackson,Broken for a Sunset,Bass,2009-3-20,Other
+James Thomas,Last Sky,Vocal,2003-1-13,Other
+Richard Harris,Lonely in the Sky,Keyboard,2014-9-4,Other
+Richard Miller,Bright Star,Engineer,1994-1-12,Main
+David Brown,Love of the Star,Lyricist,2019-8-14,Featured
+William White,Sunrise without a Moon,Bass,2004-5-8,Featured
+Barbara Walker,First Star,Bass,2007-4-24,Featured
+Anthony Martin,First beyond the Sunset,Keyboard,2003-12-8,Main
+James Lewis,Beautiful beyond the Day,Engineer,2014-8-11,Main
+Charles Hall,Final Dream,Arranger,1996-5-10,Other
+Lisa Jackson,Beautiful Sky,Keyboard,1991-4-8,Other
+Jessica Hall,First without a Dream,Keyboard,2010-5-27,Main
+Jennifer Clark,Happy Day,Guitar,1994-1-28,Other
+Ashley Wilson,Sunset under the Day,Bass,2003-1-19,Featured
+Joseph Robinson,Bright beyond the Sky,Other,1993-4-24,Featured
+Robert Lee,Broken Love,Keyboard,2016-6-1,Main
+Sarah Martin,Bright Dream,Producer,1992-3-6,Main
+Barbara Thomas,Night under the Night,Manager,2015-2-6,Featured
+William Lee,Final beyond the Sunrise,Other,1995-10-14,Main
+Ashley Thompson,Eternal Sky,Bass,2011-12-20,Other
+Mary Garcia,Eternal for a Star,Arranger,2002-5-18,Other
+James Walker,Last Sunrise,Drums,2006-4-3,Featured
+Elizabeth Smith,Eternal without a Dream,Keyboard,2008-5-3,Other
+Barbara Hall,Sunset beyond the Heart,Arranger,2013-11-11,Featured
+Karen Moore,Sunset of the Sky,Producer,1997-4-18,Main
+Nancy Robinson,First Sunrise,Bass,2015-4-23,Featured
+Mary Miller,Beautiful to the Moon,Drums,1999-10-20,Featured
+Robert Martinez,Final Dream,Producer,1991-4-24,Featured
+Richard Miller,Broken Star,Lyricist,2009-2-28,Featured
+Sarah Thompson,Bright in the Dream,Lyricist,1997-7-24,Main
+Barbara White,Eternal Dream,Lyricist,1997-7-22,Featured
+Christopher Clark,Last to the Sunrise,Drums,2006-11-20,Main
+James Lewis,Star without a Dream,Vocal,1996-5-20,Main
+Mary Moore,Sky without a Day,Composer,2013-3-13,Other
+David Garcia,Final Love,Manager,2004-12-25,Main
+Sarah Young,Final Night,Producer,2008-4-22,Featured
+Sarah Martin,Moon for a Love,Bass,2013-8-18,Other
+Matthew Davis,Beautiful Moon,Other,1992-11-17,Main
+Jessica Martinez,Broken beyond the Moon,Drums,1991-9-11,Featured
+Linda Martinez,Broken under the Night,Keyboard,2019-7-6,Main
+Christopher Martin,Star in the Night,Lyricist,1996-8-8,Main
+John Thomas,Last Love,Vocal,2003-7-7,Main
+Barbara Johnson,Final to the Heart,Engineer,1998-11-3,Main
+Jessica Clark,Dark in the Night,Composer,2015-8-13,Main
+Elizabeth Martin,Sunset for a Moon,Composer,2009-10-5,Other
+Mark Johnson,Happy Day,Guitar,2009-7-16,Main
+Sarah Walker,Dark to the Dream,Arranger,2017-9-24,Other
+Michael Walker,Moon for a Day,Lyricist,2020-1-19,Featured
+Ashley Davis,Broken Sky,Lyricist,1990-6-18,Main
+Linda White,Broken Heart,Guitar,2014-3-1,Other
+Karen Williams,Dark Night,Manager,1998-11-10,Featured
+Sandra Hernandez,Final Love,Drums,2008-1-2,Featured
+Patricia Garcia,Dream under the Day,Drums,2018-3-22,Featured
+Mark Thomas,Night without a Heart,Drums,2007-7-22,Main
+Ashley Davis,Broken without a Moon,Guitar,2014-6-2,Featured
+Charles Young,Sunrise beyond the Dream,Vocal,2019-12-25,Main
+James Hall,Broken of the Dream,Engineer,2004-3-27,Main
+Sandra Thompson,Bright Sky,Composer,2003-9-11,Other
+Joseph Taylor,Sunset to the Star,Manager,2011-4-6,Featured
+Mark Robinson,Bright beyond the Sky,Guitar,2016-1-25,Other
+Matthew Jones,Beautiful without a Sunset,Lyricist,2009-2-8,Main
+Susan Miller,Sunrise without a Love,Producer,2009-12-27,Main
+David Allen,Bright Moon,Composer,1993-11-7,Featured
+Linda Hernandez,Last for a Day,Bass,2008-12-21,Featured
+Mary Anderson,Lonely of the Love,Vocal,1999-7-25,Main
+Ashley Young,Broken under the Love,Other,2015-8-9,Main
+Ashley Young,Happy for a Star,Arranger,1997-12-15,Featured
+Jennifer Young,Moon without a Day,Drums,2015-4-8,Other
+Ashley Lee,Dream to the Night,Lyricist,1999-10-26,Main
+William Williams,Final Day,Other,1991-8-23,Main
+Michael Young,Eternal Love,Composer,1993-5-9,Featured
+Charles Hernandez,First for a Dream,Composer,1995-3-21,Main
+William Taylor,Broken Night,Drums,1999-10-28,Main
+Ashley Wilson,Heart to the Love,Guitar,2003-9-28,Other
+James White,Final Dream,Producer,2005-2-12,Other
+Christopher Hernandez,Broken Day,Engineer,1993-5-17,Featured
+Jessica Lee,Final of the Sunrise,Bass,2013-7-24,Featured
+David Hall,Night of the Moon,Guitar,1995-1-2,Featured
+David Miller,Eternal under the Day,Other,2008-8-9,Main
+Daniel Johnson,Lonely in the Day,Guitar,2016-4-9,Featured
+Ashley Taylor,Bright Sky,Other,2003-6-25,Featured
+David Brown,Love without a Love,Composer,2010-4-22,Main
+Mark Garcia,Happy beyond the Sunrise,Lyricist,2019-9-11,Main
+Ashley Lee,Sunrise for a Star,Bass,1998-9-3,Featured
+Sarah Clark,Last Sky,Manager,2015-9-26,Main
+Barbara Robinson,Lonely Night,Drums,2020-4-12,Featured
+Mary Brown,Dream beyond the Sunset,Vocal,1998-10-20,Featured
+Barbara Thomas,Final beyond the Sunset,Manager,2004-10-1,Main
+David Lee,Love under the Star,Drums,2015-11-17,Featured
+Nancy Jackson,Last Sunrise,Engineer,2008-5-9,Featured
+Richard Moore,First beyond the Love,Arranger,2004-6-20,Other
+David Rodriguez,Beautiful under the Sky,Keyboard,2016-3-19,Main
+Robert Robinson,Night beyond the Day,Other,1991-1-1,Featured
+Susan Walker,Beautiful Sky,Other,2009-3-26,Featured
+Susan Jones,Final without a Sky,Bass,2001-10-12,Featured
+Jennifer Rodriguez,Moon of the Love,Guitar,2002-5-16,Main
+Thomas Miller,First for a Dream,Engineer,2018-9-16,Other
+Charles Taylor,Bright Love,Keyboard,1997-11-13,Featured
+Nancy Lewis,Dark beyond the Star,Vocal,2018-7-4,Main
+Elizabeth Martinez,Moon for a Day,Producer,2010-12-22,Main
+Jessica Johnson,Broken of the Sky,Keyboard,2015-3-21,Other
+Jennifer Martin,Sunset to the Sky,Guitar,2002-9-22,Featured
+David Taylor,Happy beyond the Sunrise,Manager,2004-7-25,Main
+Mark Martin,Lonely Heart,Keyboard,1990-1-17,Main
+Mark Lewis,Broken of the Dream,Drums,1998-3-26,Other
+Sandra Clark,Final beyond the Day,Manager,1997-6-24,Other
+Richard Miller,Happy to the Dream,Guitar,2004-9-18,Featured
+Mark Johnson,Eternal under the Sunset,Drums,2009-8-11,Main
+Anthony Johnson,Dark beyond the Dream,Arranger,1992-1-15,Main
+Jessica Allen,Happy in the Dream,Keyboard,1990-1-28,Other
+Michael Thompson,Sunrise under the Dream,Guitar,1990-5-12,Other
+Sarah Martin,Happy in the Star,Drums,2013-5-3,Featured
+Susan Hall,Broken Love,Keyboard,2000-10-6,Other
+Linda Clark,Sunrise beyond the Night,Bass,2008-6-11,Featured
+Christopher Thomas,Happy Heart,Other,2013-6-1,Other
+Richard Brown,Last of the Love,Producer,2015-1-23,Other
+Mark Johnson,Sky in the Love,Bass,1996-3-6,Main
+Jessica Allen,Bright of the Heart,Composer,1998-1-17,Other
+Nancy White,Happy beyond the Sunrise,Engineer,2004-12-4,Other
+James Thomas,Lonely Star,Bass,1996-10-10,Featured
+David Johnson,Happy Star,Keyboard,2006-3-3,Featured
+Lisa Johnson,Lonely under the Sunset,Composer,2008-2-3,Main
+Richard Thompson,Lonely Night,Vocal,2000-9-18,Featured
+Linda Williams,Sunset of the Moon,Keyboard,2015-11-18,Featured
+Karen Moore,Happy for a Moon,Guitar,2003-11-20,Other
+Susan Davis,First for a Dream,Vocal,1998-11-28,Other
+Christopher Robinson,Dream to the Night,Other,1996-9-20,Other
+Thomas Jones,Broken of the Dream,Manager,2008-1-4,Main
+John Jackson,Dark Sunrise,Manager,2015-10-22,Other
+Michael Rodriguez,Star beyond the Sunrise,Arranger,1992-12-2,Main
+Joseph Harris,Broken Sky,Manager,1991-2-16,Main
+Charles Jackson,Lonely to the Love,Keyboard,2020-2-1,Main
+Mary Moore,Bright Star,Manager,1990-1-21,Other
+Richard Martinez,Moon under the Sunrise,Guitar,1991-5-23,Other
+Michael Taylor,Sunset of the Night,Drums,2002-11-14,Main
+Thomas Hernandez,Dream beyond the Sunset,Keyboard,2018-9-1,Other
+Karen Jones,Final Love,Producer,2020-5-4,Featured
+Lisa Thomas,Final for a Sunset,Guitar,2016-8-24,Main
+Jessica Allen,Bright Love,Engineer,2006-1-12,Featured
+Charles Thompson,Eternal Sky,Lyricist,2019-8-17,Featured
+Mary White,Happy for a Dream,Bass,2002-8-20,Other
+Sandra Martin,Dream to the Love,Other,1994-1-7,Other
+Nancy Thomas,Beautiful for a Sunset,Manager,1996-6-19,Featured
+Daniel Jackson,Beautiful without a Day,Arranger,2000-3-26,Main
+Mary Davis,Eternal Sunset,Lyricist,2017-12-16,Other
+Mary Moore,Bright Dream,Composer,1997-4-26,Main
+Lisa Taylor,Broken Sunrise,Other,2002-3-27,Main
+Ashley Martinez,Beautiful of the Day,Bass,1992-4-23,Main
+Linda Wilson,Love to the Dream,Vocal,2018-4-7,Main
+Lisa White,Happy Sky,Composer,2015-9-15,Other
+Jessica Harris,Heart of the Heart,Producer,2016-6-4,Featured
+Ashley White,Heart beyond the Sunrise,Composer,2005-5-16,Featured
+Christopher White,Dark in the Sky,Vocal,2003-1-10,Other
+Thomas Miller,Dark for a Moon,Drums,2016-8-8,Main
+Mark Garcia,Bright to the Heart,Composer,2005-4-19,Main
+Richard Allen,Broken Moon,Lyricist,2005-8-21,Other
+Ashley Brown,Final Moon,Arranger,1994-5-14,Main
+Joseph Brown,Love in the Moon,Lyricist,1991-1-25,Main
+Anthony Davis,Love beyond the Moon,Other,2003-8-5,Main
+Patricia Martin,Moon to the Dream,Producer,2015-8-10,Main
+Patricia Thomas,Sky for a Love,Other,2003-12-4,Featured
+Mark Moore,Last Heart,Other,2015-5-23,Featured
+Mary Young,Sky under the Sky,Composer,1996-3-25,Featured
+Michael Thompson,Moon under the Heart,Manager,2000-11-12,Featured
+Ashley Hall,Eternal Night,Vocal,1999-4-20,Featured
+John Young,Bright under the Star,Keyboard,2013-6-6,Main
+John Miller,Eternal Day,Guitar,1997-9-20,Featured
+Michael Garcia,Eternal Night,Engineer,2002-4-17,Main
+Christopher Lewis,Eternal Heart,Lyricist,1995-7-14,Featured
+Barbara Taylor,Sunrise for a Love,Engineer,2015-10-15,Featured
+Thomas Clark,First to the Night,Drums,1995-5-25,Other
+Christopher Anderson,Star of the Heart,Manager,1993-3-26,Featured
+Elizabeth Martin,Sunrise of the Sunrise,Other,2010-2-23,Other
+Mary Garcia,Bright without a Day,Bass,1992-2-17,Other
+Robert Martinez,Broken Star,Other,1994-10-17,Featured
+Daniel Garcia,Bright Sunrise,Vocal,1993-6-17,Other
+Robert Miller,Final in the Night,Other,2007-1-13,Other
+Nancy Young,Moon of the Night,Lyricist,1995-8-14,Featured
+Karen Martin,Sunrise in the Moon,Engineer,1997-1-13,Main
+Sandra White,Last Sky,Bass,2020-5-23,Other
+Patricia Davis,Beautiful for a Day,Drums,2020-6-11,Featured
+Ashley Harris,Dream without a Moon,Manager,2012-9-26,Main
+William Robinson,Last Star,Composer,2011-4-25,Featured
+Lisa Taylor,Beautiful without a Day,Drums,2020-11-23,Other
+Matthew Smith,Sky to the Night,Composer,2008-3-26,Featured
+William White,Sunset of the Night,Other,2010-11-12,Main
+Anthony Jackson,Night to the Night,Engineer,1994-8-16,Main
+Karen Davis,Eternal without a Dream,Composer,2010-10-22,Other
+Patricia Anderson,Love for a Sunset,Engineer,2013-4-11,Other
+Ashley Thompson,Lonely Heart,Drums,1994-1-23,Main
+Ashley Allen,Happy without a Night,Other,2007-12-18,Main
+William Lewis,Broken to the Love,Vocal,2013-6-21,Main
+Susan Hall,Sky of the Dream,Producer,2012-8-26,Main
+Patricia Wilson,Lonely Sunrise,Drums,2010-10-2,Main
+Jessica Smith,Sunrise under the Night,Keyboard,1996-11-3,Other
+John Robinson,Happy Moon,Keyboard,2002-8-26,Main
+David Anderson,Eternal without a Sunrise,Guitar,2006-3-6,Featured
+Susan Brown,Sunrise under the Sunrise,Vocal,2020-8-6,Main
+Susan Robinson,Night for a Day,Engineer,2017-12-19,Featured
+William Thomas,Broken beyond the Moon,Composer,2009-6-7,Other
+Jessica Smith,Day in the Sunset,Lyricist,2015-12-10,Main
+Lisa Garcia,Last Moon,Other,2011-8-19,Main
+Patricia Lewis,Dark Star,Manager,2017-9-17,Other
+Jennifer Lee,First Sunrise,Lyricist,1999-11-2,Main
+Ashley Harris,Sunrise for a Love,Other,2017-5-24,Featured
+Sarah Williams,Sunset beyond the Heart,Composer,1993-8-26,Featured
+Lisa Walker,Beautiful Sunrise,Bass,1998-6-16,Featured
+Susan Garcia,Dark Day,Manager,2000-4-9,Main
+Thomas Clark,First without a Sunrise,Lyricist,2001-12-21,Main
+Jessica Hernandez,Final Dream,Producer,2007-10-19,Main
+Sandra Harris,Beautiful in the Love,Guitar,2018-10-16,Other
+Daniel Rodriguez,Beautiful Heart,Composer,2016-11-23,Other
+Michael Walker,Beautiful Moon,Lyricist,2010-11-6,Main
+James Lee,Eternal under the Day,Vocal,1991-8-16,Featured
+Michael Taylor,Day to the Sunrise,Other,2001-4-21,Main
+Susan Allen,Broken Star,Producer,1997-2-21,Main
+Thomas Brown,First to the Love,Bass,2017-8-27,Featured
+Jennifer Allen,Day to the Love,Drums,1995-1-8,Other
+Susan Jones,Night to the Night,Drums,2011-1-1,Other
+Charles Davis,Night for a Dream,Composer,2010-1-26,Featured
+Jennifer Clark,Broken Moon,Lyricist,2009-2-24,Featured
+Richard Taylor,Happy Sunset,Keyboard,2005-6-24,Featured
+Margaret Taylor,Sky beyond the Sunrise,Manager,2012-12-6,Other
+Lisa Thomas,Dark to the Dream,Guitar,1996-4-1,Other
+Ashley White,Beautiful Sunrise,Producer,2016-4-14,Main
+Nancy Martinez,Heart without a Star,Vocal,1993-12-9,Main
+Robert Smith,Dark under the Dream,Lyricist,2016-1-27,Other
+Jessica Hall,Day under the Star,Bass,1998-1-1,Main
+Nancy Thomas,First Sunrise,Lyricist,2000-4-20,Featured
+James Walker,Dream under the Moon,Guitar,2006-6-25,Main
+Robert Smith,Eternal under the Day,Arranger,2018-2-25,Main
+Mary Garcia,Final without a Love,Guitar,2003-5-5,Featured
+Joseph Williams,Final Sunset,Manager,1998-7-25,Main
+Charles Jones,Last under the Heart,Keyboard,2002-5-8,Other
+Thomas Williams,Dark Love,Lyricist,1999-8-27,Other
+James Jackson,Sunrise to the Sky,Composer,2008-9-17,Other
+Linda Wilson,Broken to the Dream,Producer,1994-4-9,Featured
+Christopher Jones,Broken beyond the Sunrise,Composer,2010-8-16,Other
+Richard Hall,Happy under the Sunset,Vocal,2003-12-25,Other
+Lisa Anderson,Sky for a Love,Manager,2003-12-15,Main
+Robert Anderson,Beautiful Day,Producer,2018-12-26,Other
+William Anderson,Beautiful under the Sunrise,Manager,2002-3-11,Featured
+Mary Miller,Dark to the Dream,Lyricist,2008-6-26,Featured
+Lisa Young,Last Sunset,Other,1998-1-25,Other
+Karen Allen,Eternal Sky,Bass,2002-6-27,Main
+Barbara Jones,Night under the Day,Producer,1995-3-19,Other
+Thomas Brown,Lonely Moon,Arranger,2008-3-1,Main
+Michael Allen,Dark for a Sunrise,Keyboard,2007-12-14,Featured
+Anthony Jackson,First Sunrise,Keyboard,2010-12-21,Featured
+Sandra Allen,First beyond the Heart,Drums,2003-4-22,Other
+Lisa Lee,Sunrise beyond the Day,Guitar,2006-5-9,Featured
+Margaret White,Star beyond the Sunrise,Arranger,2008-7-10,Main
+Linda Davis,Moon for a Sunset,Engineer,1999-3-16,Featured
+Karen Lewis,First to the Sky,Engineer,2012-8-10,Other
+James Lee,Bright to the Sky,Lyricist,2004-6-19,Main
+Linda Harris,First without a Dream,Keyboard,2008-11-10,Main
+Karen Hernandez,Happy Sky,Manager,2008-4-2,Main
+Lisa Thomas,Happy Sunrise,Other,2009-2-22,Featured
+William Hall,Happy Love,Arranger,1999-1-16,Main
+William Smith,Happy Moon,Lyricist,1999-6-27,Featured
+William Walker,Last Sky,Composer,2002-7-13,Main
+Jennifer Hernandez,Lonely Love,Arranger,2014-10-15,Other
+Mark Thomas,Beautiful Love,Producer,2017-11-1,Featured
+Margaret Hall,Lonely Day,Manager,2007-6-12,Featured
+Robert Smith,Star for a Day,Keyboard,2001-12-9,Other
+Christopher Allen,Dark Sunset,Bass,2018-12-21,Other
+Sandra Davis,Dream for a Sunset,Engineer,2015-12-17,Featured
+Ashley Clark,Eternal Heart,Lyricist,2006-8-17,Main
+Patricia Garcia,Final Sky,Manager,2001-11-15,Main
+Margaret Hernandez,Happy Love,Bass,1991-2-14,Other
+Daniel Martinez,Lonely Night,Vocal,2013-12-2,Main
+Elizabeth Hernandez,Broken beyond the Moon,Other,2009-12-19,Main
+Anthony Rodriguez,Final under the Sunrise,Bass,2014-5-1,Other
+Matthew Brown,Eternal of the Moon,Composer,2009-1-10,Other
+Lisa Harris,Day in the Day,Lyricist,2009-11-22,Other
+Christopher Wilson,Love beyond the Love,Manager,2006-9-25,Main
+Nancy Martinez,Sunrise without a Moon,Composer,1995-2-10,Main
+William Wilson,Final Dream,Producer,2007-8-16,Other
+Anthony Clark,Final Moon,Engineer,2012-2-16,Featured
+Karen Lewis,Final to the Sunrise,Composer,1995-6-6,Featured
+Linda Harris,Beautiful Moon,Drums,1999-5-19,Other
+David Johnson,Last for a Night,Arranger,1993-9-6,Featured
+Karen White,Beautiful Heart,Composer,1992-10-15,Featured
+Jessica Martinez,Dark Day,Vocal,1998-1-17,Other
+David Martinez,Heart of the Star,Other,2009-7-24,Featured
+Michael Taylor,Heart for a Star,Guitar,1990-8-2,Featured
+Anthony Wilson,Lonely under the Night,Arranger,2007-4-14,Main
+Barbara Moore,Eternal beyond the Star,Producer,2014-2-12,Other
+Sandra Walker,Last Sunset,Composer,2015-9-22,Other
+Susan Johnson,Star without a Dream,Guitar,2018-8-4,Main
+Nancy Rodriguez,Bright Star,Bass,2019-9-7,Main
+Lisa Hall,Bright beyond the Dream,Keyboard,2006-8-6,Other
+Barbara Moore,Dark in the Night,Keyboard,2002-8-5,Featured
+Robert Brown,Eternal under the Love,Lyricist,2018-3-4,Main
+Lisa Johnson,First Sky,Arranger,2000-11-23,Featured
+Thomas Miller,First Love,Bass,2001-4-4,Featured
+Christopher Martin,Night to the Sunset,Producer,1992-5-26,Other
+John Anderson,Moon of the Dream,Other,1991-11-12,Other
+Nancy Martin,Night beyond the Sky,Manager,1993-7-22,Other
+Sarah Allen,Eternal in the Love,Manager,2006-11-8,Main
+Karen Hernandez,First Sunrise,Keyboard,2014-8-16,Featured
+James Moore,Sky in the Star,Vocal,2001-7-27,Main
+Mark Rodriguez,Heart for a Day,Engineer,1990-12-8,Other
+Anthony Jones,Star for a Star,Bass,2007-6-10,Featured
+Barbara Rodriguez,Broken for a Sunset,Vocal,2002-6-27,Featured
+Charles Jones,Dark Star,Bass,2001-11-11,Other
+Lisa Lee,Lonely Star,Keyboard,1999-9-7,Featured
+William Moore,Last beyond the Night,Producer,2017-1-22,Other
+William Robinson,Dark without a Moon,Keyboard,1997-7-15,Other
+Lisa Lee,Sunset for a Star,Composer,2007-7-1,Other
+Patricia Taylor,Sunset to the Heart,Vocal,2007-6-2,Other
+Jennifer Robinson,Last Star,Lyricist,2020-8-12,Featured
+Ashley Wilson,Night of the Day,Other,1991-1-5,Main
+Mark Jones,Final Heart,Keyboard,2011-4-20,Other
+Patricia Thompson,Eternal Heart,Bass,2005-7-21,Main
+Patricia Harris,Sunset under the Star,Keyboard,1996-5-11,Main
+Thomas Anderson,Happy Heart,Vocal,2011-6-21,Main
+Christopher Jones,Lonely Day,Lyricist,1996-3-10,Featured
+Sandra Walker,Love without a Heart,Bass,2019-10-11,Other
+Christopher Lee,Sunrise of the Love,Bass,2005-7-26,Featured
+Jennifer Davis,Beautiful Moon,Producer,2006-1-23,Other
+Ashley Thompson,Night to the Love,Lyricist,2004-7-21,Other
+Joseph Miller,Broken without a Heart,Keyboard,2017-10-1,Main
+Jennifer Wilson,Day beyond the Sunrise,Composer,1997-9-22,Other
+Sandra White,Happy to the Day,Manager,2003-6-22,Other
+Linda Thomas,Happy Heart,Bass,2017-4-4,Featured
+Daniel Martinez,Happy for a Sky,Engineer,2005-11-17,Featured
+Christopher Jones,Moon under the Night,Producer,2018-12-10,Featured
+Jessica Lee,Love under the Night,Lyricist,2020-6-21,Main
+Elizabeth Robinson,Happy to the Dream,Other,1999-10-2,Featured
+Ashley Williams,Broken of the Day,Manager,1996-9-14,Featured
+Charles Davis,Beautiful Star,Guitar,1990-1-28,Featured
+Joseph Lee,Bright Love,Arranger,2007-10-26,Featured
+Daniel Rodriguez,Last Sky,Drums,1990-2-12,Other
+Lisa Rodriguez,Moon in the Heart,Manager,2019-3-4,Main
+Jessica Miller,Broken Star,Bass,2012-5-22,Other
+Charles Garcia,Happy of the Dream,Drums,2017-11-21,Featured
+Jessica Rodriguez,Beautiful under the Moon,Keyboard,1997-2-7,Other
+Robert Thompson,Bright without a Sky,Drums,2008-6-10,Main
+Matthew Williams,Last Love,Engineer,2015-10-9,Main
+Thomas Smith,Love for a Dream,Composer,2013-9-27,Featured
+Robert Walker,Sky in the Sunset,Lyricist,2001-10-11,Main
+Mark Jackson,Sunset in the Love,Arranger,1999-8-18,Other
+Elizabeth Anderson,Eternal Day,Drums,1994-4-10,Other
+Patricia Moore,Dark under the Sky,Arranger,2011-5-28,Main
+Charles Walker,Sky for a Sunrise,Guitar,1991-2-13,Other
+Margaret Johnson,Broken beyond the Sky,Bass,2012-12-6,Featured
+Linda Jackson,Heart under the Moon,Drums,1990-5-11,Featured
+Margaret Miller,Happy Moon,Guitar,2016-3-25,Main
+Richard Thomas,Bright Sunrise,Engineer,2013-2-21,Other
+Christopher Taylor,Dream of the Dream,Composer,1998-10-26,Featured
+Joseph Lee,Eternal under the Day,Vocal,2016-12-23,Featured
+Susan Miller,Moon to the Love,Manager,2002-4-8,Main
+James Hernandez,Night under the Sky,Bass,1994-12-18,Featured
+Lisa Young,Night under the Sky,Engineer,1998-2-28,Main
+Mary White,Love without a Love,Other,1994-4-2,Other
+Matthew White,Star in the Moon,Composer,2003-7-12,Main
+Matthew Smith,Lonely Star,Bass,2000-6-14,Other
+Ashley Lewis,Moon without a Love,Drums,1990-11-22,Main
+Barbara Williams,Eternal Sky,Manager,1997-4-11,Featured
+Christopher Wilson,Broken Sky,Arranger,2008-11-27,Featured
+Daniel Moore,First under the Sky,Lyricist,2015-7-23,Main
+Susan Robinson,First Heart,Guitar,2005-4-10,Featured
+Charles Young,Happy beyond the Sunrise,Other,2009-10-13,Featured
+Nancy Moore,Last without a Sky,Manager,1993-1-11,Other
+Elizabeth Anderson,Sky beyond the Star,Other,2020-11-17,Main
+Jennifer Lee,Love of the Sunrise,Engineer,1991-8-20,Other
+Ashley White,Sunrise for a Dream,Composer,1994-11-24,Other
+Nancy Thompson,Beautiful to the Star,Drums,2020-3-25,Other
+Christopher Lee,First Day,Bass,1990-11-20,Other
+Susan Allen,Final beyond the Love,Engineer,2019-9-27,Featured
+Daniel Garcia,Night in the Day,Bass,1998-7-4,Featured
+Margaret Harris,Beautiful Star,Keyboard,2012-12-5,Other
+Joseph Williams,Happy of the Heart,Engineer,1995-10-14,Other
+Jennifer Anderson,Sunrise in the Love,Lyricist,2018-3-12,Other
+Ashley Thompson,Happy Dream,Manager,2003-6-17,Other
+James Thomas,Dark beyond the Sky,Manager,1992-11-21,Main
+Susan Clark,Final Day,Other,2008-3-21,Other
+Daniel Garcia,Sky for a Night,Other,1992-5-3,Other
+David Thomas,Dark Sky,Drums,1994-7-27,Other
+Lisa Harris,Heart without a Love,Manager,1995-12-13,Main
+Richard Johnson,Lonely Sunrise,Keyboard,1992-10-16,Main
+Barbara Martinez,Beautiful Star,Keyboard,2020-6-19,Main
+Christopher Smith,Beautiful in the Love,Arranger,2001-11-3,Main
+James Hall,Last for a Sky,Drums,2003-4-12,Other
+James Wilson,Lonely Star,Keyboard,2020-7-3,Featured
+Barbara Hall,Sky for a Night,Arranger,2005-10-26,Main
+Robert Anderson,Final Heart,Drums,1994-11-24,Main
+Joseph Garcia,Love without a Moon,Engineer,1996-2-20,Main
+Jessica Anderson,Broken Sunset,Guitar,2008-8-10,Other
+John Martin,Night without a Heart,Producer,2002-4-26,Featured
+Mary Thompson,First Heart,Arranger,2003-5-3,Featured
+Richard Allen,Star without a Day,Keyboard,2000-9-18,Featured
+Michael Williams,Love to the Sky,Producer,2016-6-5,Featured
+Mark Lee,Dark without a Heart,Producer,2014-12-19,Main
+John Jones,Beautiful to the Star,Engineer,2014-10-13,Other
+Mary Brown,Beautiful in the Dream,Vocal,2006-9-23,Main
+David Lee,Eternal Love,Arranger,1991-2-2,Featured
+David Miller,Sunrise to the Sunrise,Guitar,1992-9-3,Other
+David Brown,Sunrise beyond the Sunrise,Composer,2010-3-8,Other
+Ashley Smith,First Sunrise,Lyricist,1992-3-27,Featured
+Jennifer White,Dark under the Moon,Vocal,1992-12-2,Main
+Christopher Rodriguez,Lonely beyond the Love,Keyboard,2013-8-9,Featured
+Margaret Moore,Sunrise to the Moon,Vocal,2003-9-5,Main
+Joseph Thompson,Day beyond the Night,Arranger,2018-5-27,Featured
+Anthony Williams,Broken in the Star,Guitar,2008-5-2,Other
+Barbara Allen,Broken to the Day,Bass,2000-8-13,Main
+Jessica Martin,Day in the Heart,Vocal,2008-12-9,Other
+Nancy Lee,Bright beyond the Sky,Engineer,2008-2-10,Other
+Elizabeth Anderson,Dream without a Dream,Keyboard,2005-7-17,Main
+Sandra Brown,Dream in the Sky,Guitar,2003-12-21,Other
+James Johnson,Moon for a Star,Other,2015-8-23,Other
+Mark Jackson,Beautiful to the Moon,Producer,2019-6-3,Other
+David Young,Final Sunset,Producer,1999-4-16,Featured
+Jennifer Thomas,Happy Sunset,Engineer,2018-4-27,Main
+Linda Hernandez,Broken Dream,Bass,2013-12-6,Featured
+Karen Miller,Broken under the Sunrise,Lyricist,2008-9-27,Featured
+Linda Martinez,Lonely Star,Guitar,1995-11-3,Main
+William Walker,Final without a Moon,Bass,1998-2-14,Other
+Jennifer Brown,Moon to the Heart,Guitar,2011-9-27,Featured
+Thomas Young,Bright Sky,Drums,1991-2-8,Featured
+Elizabeth Lewis,Dark beyond the Star,Bass,2007-9-19,Main
+Sandra Walker,Heart under the Sky,Engineer,2005-11-5,Featured
+Matthew Martin,Broken Sky,Drums,1992-10-20,Other
+Jessica Martin,Lonely Dream,Bass,1993-10-3,Featured
+Patricia Davis,Final Day,Drums,2002-3-4,Other
+Jennifer Jackson,First beyond the Star,Bass,2007-8-12,Other
+Mary Lee,Sky to the Sunrise,Drums,1991-5-24,Featured
+Matthew Robinson,Dark to the Night,Drums,2015-9-22,Main
+Nancy Harris,Dark for a Moon,Lyricist,2018-2-17,Main
+David Walker,First Star,Engineer,1990-7-23,Featured
+Anthony Lewis,First under the Heart,Bass,2018-8-12,Main
+Jessica Brown,Dark of the Day,Lyricist,1997-5-28,Other
+Sarah Harris,Lonely without a Sunset,Vocal,1995-8-27,Featured
+Matthew Allen,Dark in the Sky,Manager,2013-4-26,Other
+Ashley Lee,Beautiful in the Sunset,Bass,2019-2-14,Main
+Susan Rodriguez,Broken under the Sky,Lyricist,2015-5-7,Other
+Linda Thomas,Final Dream,Other,2015-2-28,Other
+Joseph Clark,Night without a Sunset,Other,1991-1-15,Main
+Michael Hall,Lonely Day,Composer,1998-8-25,Main
+Mary White,Happy to the Love,Lyricist,2016-6-20,Featured
+Elizabeth Thomas,Eternal to the Night,Producer,2019-11-4,Featured
+Sarah Lee,Broken Star,Lyricist,2010-1-6,Other
+Charles Thomas,Night under the Star,Producer,1995-5-4,Featured
+David White,Day beyond the Dream,Drums,2015-7-16,Featured
+Michael White,Happy Moon,Arranger,1992-11-9,Featured
+Jessica White,Sunrise without a Night,Keyboard,2004-9-8,Other
+Richard Hall,Dream without a Day,Keyboard,2006-10-12,Other
+Sandra Martin,Happy Love,Composer,2016-5-19,Featured
+Thomas Wilson,Beautiful of the Dream,Composer,2003-8-3,Other
+Matthew Clark,Eternal Love,Guitar,1990-12-16,Other
+William Garcia,Star of the Day,Arranger,1997-6-6,Other
+John Brown,Love beyond the Star,Drums,2006-7-3,Main
+Ashley Lee,Beautiful under the Sky,Manager,2016-8-3,Featured
+Jessica Walker,Beautiful Sunrise,Arranger,2001-11-1,Main
+Anthony Clark,First without a Sky,Lyricist,2016-11-8,Main
+Sarah Jackson,Sunset of the Sky,Engineer,2014-7-19,Featured
+Elizabeth Anderson,Eternal Star,Drums,1991-7-4,Main
+Robert Smith,Happy Moon,Engineer,2017-4-19,Featured
+William Lee,Dream beyond the Heart,Other,1997-8-1,Featured
+Susan Hernandez,First Dream,Drums,1990-8-25,Main
+Matthew Rodriguez,Dark without a Moon,Keyboard,2020-9-27,Other
+William White,Lonely without a Heart,Drums,2004-4-4,Other
+Richard Smith,First of the Night,Lyricist,2003-11-28,Featured
+Nancy Jones,Beautiful of the Night,Engineer,2003-5-15,Main
+Mary Miller,Day under the Sunrise,Engineer,2016-6-12,Featured
+Robert Jackson,Beautiful in the Day,Manager,2003-7-28,Featured
+Ashley Jones,Final Heart,Other,2018-4-27,Other
+Sandra Thompson,First Night,Arranger,2004-10-16,Other
+James Moore,Dark Sunrise,Other,2016-11-3,Other
+Anthony Brown,Dark Heart,Bass,2018-6-20,Featured
+Mary Lewis,Beautiful Moon,Engineer,2008-12-18,Other
+William Jackson,Dark without a Moon,Bass,2011-6-18,Other
+Sarah Young,Night beyond the Sky,Lyricist,1994-9-3,Featured
+Jessica Garcia,Last Sunset,Producer,2005-6-17,Other
+Nancy Lewis,Heart in the Love,Lyricist,2001-9-1,Main
+Charles Jones,Happy Sunset,Drums,2005-5-15,Main
+Sarah Clark,Broken without a Heart,Manager,1992-7-22,Main
+Jennifer Thompson,Moon of the Sunset,Manager,2017-10-1,Featured
+Nancy Young,Beautiful under the Sunset,Other,2002-4-27,Main
+John Robinson,Night for a Dream,Guitar,2016-12-13,Featured
+Mary Jackson,Sunset of the Sunrise,Engineer,1999-8-17,Featured
+Matthew Young,First Heart,Bass,2012-1-21,Main
+James Brown,Sky beyond the Sunrise,Composer,1996-9-14,Featured
+Lisa Harris,Bright Sky,Composer,2007-10-14,Main
+Robert Brown,Love in the Sunset,Arranger,1997-2-20,Featured
+Christopher Johnson,Broken Moon,Drums,1994-2-10,Featured
+Thomas Thompson,Sky without a Sunrise,Other,2008-8-26,Other
+Michael Garcia,Eternal Sunset,Composer,2017-6-1,Featured
+Mary Garcia,Dark under the Sky,Bass,1990-9-25,Main
+Mark Anderson,Bright in the Night,Composer,2014-12-16,Main
+Lisa Smith,Eternal Star,Guitar,1995-3-19,Main
+Jessica Brown,Night without a Day,Arranger,1992-5-17,Other
+Lisa Moore,Day without a Dream,Other,1998-10-6,Featured
+James Garcia,Dark Love,Producer,2017-2-8,Main
+James Wilson,Eternal Heart,Bass,1999-7-18,Other
+Christopher Johnson,Dark for a Sunrise,Manager,1996-3-15,Featured
+Elizabeth Martin,Last without a Star,Vocal,1993-9-9,Featured
+Sarah Johnson,Love in the Night,Arranger,2012-3-11,Other
+Karen Davis,Sunrise without a Sky,Manager,2020-3-26,Other
+David Jones,Star for a Sunrise,Vocal,1993-9-23,Featured
+Anthony Moore,Eternal Sunrise,Engineer,1997-11-4,Featured
+Susan Martinez,Broken Moon,Drums,2012-8-14,Other
+Richard Davis,Sky under the Star,Keyboard,2007-8-1,Featured
+Christopher Jackson,Last of the Heart,Vocal,2017-5-5,Featured
+Margaret Harris,Sky under the Moon,Lyricist,2008-3-6,Main
+Jessica Wilson,Last to the Moon,Producer,2006-1-3,Other
+Sarah Jones,Happy Love,Bass,2012-12-14,Featured
+Jennifer White,Final of the Moon,Arranger,1993-1-11,Main
+Thomas Miller,Last Sunrise,Vocal,2004-4-25,Other
+Ashley Hall,Last Day,Other,2003-9-13,Featured
+Sandra Martinez,Bright Night,Producer,2007-6-13,Featured
+Matthew Anderson,Sunset under the Star,Manager,2007-11-23,Other
+Barbara Jones,First for a Day,Bass,2012-10-4,Other
+Mary Lewis,Eternal Star,Engineer,1999-4-12,Other
+Ashley Thompson,Broken under the Sunset,Producer,2012-1-15,Other
+Karen Hernandez,Heart beyond the Sunrise,Bass,1991-11-4,Other
+Linda Johnson,Sky beyond the Sunrise,Guitar,1996-8-18,Other
+Karen White,Lonely in the Sunrise,Producer,1995-10-16,Main
+Karen Rodriguez,Eternal for a Dream,Manager,1990-9-22,Featured
+Jessica Davis,Dark Moon,Lyricist,2004-5-10,Featured
+Mark Johnson,Dark Love,Keyboard,2012-2-7,Main
+Robert Garcia,Sunrise of the Sunrise,Bass,2007-7-19,Main
+John Walker,Last Sunrise,Guitar,2015-4-5,Main
+Susan White,Last without a Moon,Vocal,1990-11-16,Other
+Michael Allen,Moon for a Star,Arranger,2020-2-26,Featured
+Daniel Walker,Love without a Love,Drums,2020-1-7,Other
+Mary White,Bright Heart,Other,2000-9-28,Main
+William Hall,Final Heart,Keyboard,2016-11-20,Main
+Karen Rodriguez,Happy to the Dream,Manager,2000-6-4,Featured
+Jennifer White,Final without a Star,Manager,1999-4-27,Other
+Sandra Harris,First in the Love,Engineer,2008-3-18,Other
+Christopher Harris,Final Dream,Bass,1997-3-14,Other
+David Martin,Final Love,Manager,1991-10-16,Other
+Joseph Harris,Final of the Moon,Producer,1992-1-18,Other
+Mary Martinez,Final in the Moon,Arranger,2000-4-7,Main
+Mary Garcia,Sky for a Day,Manager,2006-5-8,Main
+Jennifer Garcia,Dark Sunset,Manager,2012-5-15,Featured
+Mark Clark,Lonely Moon,Vocal,1997-3-13,Main
+Mark Robinson,Dream beyond the Heart,Vocal,2015-3-13,Other
+Margaret Miller,Eternal Day,Drums,2017-4-16,Main
+Thomas Martinez,Heart without a Heart,Manager,1990-4-17,Other
+William Davis,Happy Night,Other,2018-10-3,Other
+Thomas Hernandez,Final to the Sky,Composer,2002-6-12,Other
+Elizabeth Miller,Lonely Day,Keyboard,2019-6-14,Other
+Christopher Allen,First without a Sunrise,Engineer,1994-12-8,Featured
+Mary Thompson,Final Dream,Arranger,1993-11-17,Main
+Ashley White,Dream to the Heart,Composer,1995-10-8,Other
+Christopher Jones,Bright in the Love,Engineer,2007-2-1,Featured
+Joseph Martin,Love to the Love,Arranger,2019-5-20,Featured
+Christopher Martin,Dark beyond the Sunrise,Vocal,2005-6-1,Featured
+Susan Miller,Night under the Sunset,Guitar,2014-12-22,Featured
+John Williams,Bright Love,Other,1996-4-23,Main
+William Rodriguez,Dream in the Sky,Lyricist,1997-11-12,Other
+Barbara Young,Bright Moon,Bass,2008-11-11,Featured
+Thomas Thompson,Star in the Night,Guitar,2020-9-6,Other
+William Moore,Last of the Sunrise,Lyricist,2009-4-10,Featured
+Mark Garcia,Eternal Day,Vocal,1995-6-20,Other
+Sarah Walker,Eternal without a Sky,Keyboard,2019-9-13,Main
+David Williams,Sunrise to the Heart,Engineer,2001-4-28,Other
+Robert Walker,Last for a Sky,Drums,2007-10-21,Featured
+Nancy Rodriguez,Dream under the Moon,Guitar,1995-3-18,Other
+Richard Moore,Dark beyond the Day,Composer,1995-9-18,Featured
+James Thomas,Bright Night,Drums,2010-9-7,Main
+William Garcia,Final Day,Engineer,2015-4-8,Main
+Christopher Moore,Broken Dream,Drums,2001-12-22,Main
+John Jackson,Final Star,Other,2003-11-20,Main
+Susan Miller,Bright of the Sky,Lyricist,2006-8-3,Other
+Michael Hall,Beautiful Sky,Vocal,2009-5-17,Main
+Susan Hernandez,First without a Day,Guitar,2006-3-25,Main
+Jennifer Brown,Sunrise for a Star,Guitar,1991-11-7,Other
+Elizabeth Thomas,Beautiful Sunset,Other,2006-11-1,Main
+Anthony Rodriguez,Dark under the Love,Keyboard,1997-8-7,Other
+Michael Lewis,Bright in the Moon,Lyricist,2001-6-3,Other
+Daniel Davis,Day without a Sky,Bass,2011-8-19,Featured
+Mary Thomas,Night beyond the Love,Keyboard,1995-11-9,Other
+Jennifer Wilson,Moon beyond the Night,Composer,2010-8-15,Featured
+Sandra Johnson,Star for a Heart,Other,1995-9-27,Main
+Mark Wilson,Star without a Sky,Engineer,2010-9-28,Other
+Michael Garcia,Day beyond the Sunrise,Bass,2002-4-12,Featured
+Elizabeth Smith,Sky in the Love,Other,2006-6-5,Featured
+Margaret Harris,Lonely beyond the Sunrise,Bass,1994-1-19,Main
+Joseph Miller,Heart beyond the Star,Other,2005-12-25,Featured
+William Rodriguez,Broken under the Sunrise,Manager,1990-12-8,Featured
+David Martin,Love for a Sunrise,Keyboard,2014-1-28,Featured
+Linda Martinez,First Dream,Keyboard,2018-9-10,Featured
+Michael Williams,Last to the Moon,Lyricist,2005-3-8,Main
+Charles Garcia,Lonely Night,Arranger,2016-12-28,Featured
+Mark Anderson,First to the Love,Producer,2017-2-20,Main
+Matthew White,Lonely Night,Lyricist,1997-7-25,Featured
+Sarah Johnson,Sunset of the Dream,Producer,2000-3-5,Other
+Jessica Brown,Broken Love,Bass,1991-2-22,Other
+William Thompson,Beautiful of the Day,Engineer,1990-9-3,Other
+Sandra Harris,First Love,Lyricist,2002-11-18,Main
+Charles Martinez,Dream beyond the Star,Guitar,2004-8-1,Featured
+Robert Lewis,Lonely Day,Guitar,1992-12-8,Featured
+Elizabeth Hall,Beautiful without a Day,Bass,2016-5-8,Main
+Anthony Clark,Sky beyond the Heart,Producer,2017-9-4,Other
+Charles Hernandez,Sunset beyond the Sky,Bass,1995-6-21,Main
+Jennifer Garcia,Eternal beyond the Day,Guitar,1995-11-11,Other
+Mark Taylor,Beautiful Dream,Keyboard,2012-11-18,Main
+Nancy Moore,Dark without a Heart,Vocal,2014-2-25,Other
+Christopher Lewis,Happy Sunset,Guitar,1990-9-8,Featured
+Susan Anderson,Bright to the Day,Other,2001-6-5,Main
+Susan Lee,Happy in the Star,Manager,2001-3-8,Other
+Christopher Jones,Dark without a Moon,Arranger,2012-5-5,Main
+Patricia Wilson,Final Heart,Composer,2006-1-12,Other
+Sarah Johnson,First to the Love,Vocal,1996-10-20,Other
+Matthew Rodriguez,Dark in the Dream,Guitar,2006-5-25,Main
+Joseph Miller,Dark Day,Guitar,2007-10-18,Featured
+John Lewis,Last without a Sunset,Composer,2006-3-12,Other
+David Young,Star without a Dream,Drums,1992-2-16,Main
+Elizabeth Lewis,Dark under the Star,Guitar,1998-6-15,Main
+Christopher Moore,Happy Day,Producer,2003-12-9,Other
+Mary Harris,Broken Sunrise,Vocal,1998-10-17,Main
+Elizabeth Martin,Heart of the Moon,Engineer,2017-7-2,Other
+Christopher Martin,Broken beyond the Sunrise,Engineer,2002-5-24,Featured
+Charles Davis,Beautiful Moon,Keyboard,2007-9-6,Other
+Sarah Young,Final Night,Bass,2013-7-22,Main
+Ashley Lee,Love for a Sunrise,Guitar,2020-10-14,Main
+David Clark,Last Night,Arranger,2003-11-12,Featured
+James Clark,Bright Night,Composer,2007-8-27,Other
+Mary Harris,Moon for a Star,Composer,2011-5-20,Main
+Linda Moore,Last under the Heart,Composer,2020-4-18,Featured
+John Jackson,Beautiful Sunset,Drums,2006-5-3,Other
+Michael Allen,Dark without a Moon,Drums,2018-3-2,Featured
+David Martinez,Final Love,Engineer,1991-7-14,Main
+Mary Anderson,Last to the Sunset,Manager,1996-4-8,Main
+Christopher Lewis,Broken Sunset,Producer,1999-4-17,Main
+Michael Williams,Last Heart,Vocal,2000-10-15,Other
+William Rodriguez,Love in the Moon,Vocal,2001-10-25,Main
+Anthony Moore,Heart to the Love,Arranger,2010-11-9,Featured
+Richard Thompson,First beyond the Heart,Arranger,1990-3-17,Featured
+Mark Thompson,Last for a Sunset,Lyricist,2016-12-13,Other
+John Walker,Eternal Heart,Producer,2000-2-24,Main
+Thomas Lewis,Star of the Night,Guitar,1995-7-1,Featured
+Linda Hernandez,First beyond the Star,Engineer,1993-3-26,Main
+John Brown,Eternal Love,Drums,1992-4-10,Other
+Sarah Young,Final Dream,Bass,2000-8-18,Other
+David Thompson,Broken to the Sunrise,Manager,2009-6-28,Featured
+Richard Martinez,First beyond the Night,Composer,2000-8-22,Featured
+James White,Lonely Sunset,Other,2020-1-4,Featured
+Mary Rodriguez,Sunset for a Dream,Vocal,2002-4-20,Featured
+Patricia Thomas,First to the Sky,Bass,2020-3-24,Main
+Patricia Williams,Eternal in the Moon,Engineer,2017-9-11,Main
+John Hernandez,Eternal Love,Other,1990-9-2,Featured
+Karen Harris,Dark Sunset,Bass,2002-10-24,Main
+Thomas Thompson,Dark Moon,Arranger,2005-3-15,Main
+Lisa Rodriguez,Dark of the Day,Other,1998-6-13,Main
+Anthony Wilson,Sky for a Sunrise,Manager,1995-6-18,Other
+Michael Hall,Eternal Sky,Producer,2001-7-20,Featured
+Elizabeth Smith,Broken Day,Engineer,1998-7-9,Other
+James Walker,Sunrise beyond the Sunrise,Guitar,2017-5-16,Featured
+Patricia Young,Night in the Moon,Keyboard,1996-12-2,Other
+Jennifer Hernandez,Dark in the Love,Composer,1993-12-13,Main
+James Garcia,Day beyond the Love,Guitar,2013-12-13,Featured
+William Thomas,Final under the Moon,Producer,2007-10-12,Featured
+Ashley Jones,Happy Moon,Engineer,1992-3-24,Main
+James Garcia,Lonely Sunset,Composer,2017-1-1,Featured
+Jessica Robinson,Last without a Star,Keyboard,2017-12-2,Featured
+Michael Hall,Final in the Sunrise,Other,2001-3-20,Other
+Elizabeth Taylor,Eternal Sunrise,Vocal,2020-9-23,Main
+Barbara Rodriguez,Broken Star,Other,1999-4-3,Main
+Patricia Lee,Moon in the Moon,Producer,2015-8-1,Featured
+Elizabeth Young,Sky for a Sunrise,Vocal,1993-6-6,Other
+Nancy Martinez,Dark to the Night,Producer,2005-12-2,Featured
+Linda Harris,Sky without a Moon,Bass,2018-6-5,Other
+James Hall,Final for a Sunrise,Lyricist,1997-3-2,Main
+Joseph Smith,First Star,Engineer,1994-9-7,Featured
+Daniel Taylor,Dream under the Dream,Manager,1997-1-7,Main
+William Jones,Lonely under the Sunset,Manager,2020-7-23,Featured
+Ashley Davis,Dark in the Night,Arranger,2005-6-22,Featured
+Anthony Taylor,Sunrise of the Sunrise,Other,2020-11-14,Main
+Anthony Hall,Lonely Sunrise,Producer,1998-5-18,Featured
+Robert Smith,Eternal Day,Guitar,2001-9-18,Featured
+Anthony Robinson,Lonely Day,Engineer,1997-6-5,Main
+Linda Martinez,Final for a Love,Bass,2003-4-15,Other
+Jennifer Robinson,Final Sky,Lyricist,2003-9-26,Featured
+David Williams,Eternal Sky,Vocal,1999-9-5,Main
+Thomas Taylor,Dark of the Day,Guitar,2010-10-18,Featured
+Barbara Jones,Heart without a Star,Engineer,2016-7-12,Main
+Michael Jones,Night for a Star,Composer,1990-11-17,Other
+Mary Lee,Eternal of the Dream,Keyboard,2016-1-16,Featured
+William Jackson,Eternal to the Sunrise,Guitar,1992-1-9,Featured
+Joseph Rodriguez,Broken Star,Keyboard,2016-7-1,Featured
+Jennifer Miller,Happy Day,Arranger,2001-11-21,Featured
+Jessica Allen,Eternal without a Dream,Composer,1991-3-15,Main
+Sandra Harris,First Moon,Keyboard,2010-9-15,Main
+John Moore,Beautiful Sky,Keyboard,1995-2-20,Main
+Linda Thompson,Beautiful beyond the Day,Guitar,2002-11-13,Featured
+Michael Jones,Lonely Star,Arranger,1994-5-3,Main
+Ashley Jones,Lonely Sky,Composer,2009-8-12,Featured
+Barbara Miller,Moon in the Sunrise,Composer,1993-7-16,Other
+Christopher Wilson,Sunset beyond the Sunrise,Manager,1996-8-6,Other
+William Smith,Lonely Sky,Composer,2020-5-4,Main
+Richard Johnson,Eternal Sky,Manager,2017-4-12,Other
+John Hall,Love under the Star,Bass,2007-11-11,Main
+Sarah Lewis,Sunset beyond the Love,Composer,2009-1-15,Other
+Jennifer Davis,Eternal under the Love,Producer,1991-12-12,Main
+Ashley Thompson,Sunrise under the Night,Bass,2014-2-28,Other
+Lisa Hernandez,Bright Heart,Composer,2007-1-15,Main
+James Thomas,Day of the Sunset,Guitar,2019-12-13,Main
+Matthew Lewis,Eternal Sunset,Manager,2005-12-18,Other
+Susan Thompson,Dark to the Sunrise,Composer,1992-9-26,Featured
+Ashley Harris,First Heart,Guitar,1992-1-19,Main
+Mark Lee,Sky without a Moon,Manager,2014-6-22,Other
+Joseph Martin,Sky without a Sunrise,Bass,2019-5-24,Other
+Susan Johnson,Beautiful Moon,Drums,2011-8-21,Main
+Mary Hernandez,Happy Heart,Producer,1996-9-13,Main
+Patricia Thompson,Last Night,Manager,1994-2-2,Other
+Karen Miller,Last for a Sky,Composer,2016-10-20,Other
+Nancy Brown,Beautiful Star,Lyricist,1994-10-25,Main
+Richard Smith,Final Love,Manager,2019-1-13,Main
+Robert Young,Sunset beyond the Love,Arranger,2020-10-22,Featured
+Elizabeth Miller,Bright Sky,Manager,1999-4-2,Main
+William Taylor,Beautiful beyond the Love,Vocal,2013-9-18,Featured
+Patricia Harris,Happy beyond the Dream,Drums,2020-10-3,Other
+Barbara Moore,Star for a Heart,Vocal,1994-5-7,Featured
+David Anderson,Eternal Day,Vocal,1999-9-20,Featured
+Robert Miller,Happy Day,Engineer,1993-11-5,Other
+Mark Wilson,Night for a Sky,Composer,2015-5-21,Main
+Susan Allen,Heart in the Dream,Guitar,1991-5-7,Main
+Daniel Thompson,Night under the Star,Other,2002-4-10,Featured
+Elizabeth Johnson,Heart without a Star,Lyricist,2015-9-22,Other
+Karen Miller,Last Sunset,Drums,2011-3-15,Featured
+Sandra Rodriguez,Day in the Heart,Other,2016-2-11,Featured
+Christopher Wilson,First in the Love,Lyricist,2013-3-19,Other
+Michael Miller,Day to the Love,Lyricist,2001-2-3,Other
+Jennifer Allen,First Heart,Composer,2000-1-4,Featured
+Sarah Thompson,Heart in the Dream,Bass,2015-7-8,Featured
+Michael Lee,Beautiful Day,Engineer,2017-8-6,Other
+Robert Harris,Happy Day,Lyricist,2003-11-14,Featured
+Robert Hall,Beautiful of the Sunset,Lyricist,2010-6-6,Other
+Jennifer Jones,Day of the Dream,Composer,2007-6-6,Main
+Susan Young,Day in the Heart,Vocal,2012-8-3,Featured
+Matthew Jones,Sky in the Night,Vocal,2006-9-12,Main
+William Robinson,Dream to the Moon,Lyricist,1997-7-22,Featured
+Jennifer Hernandez,Beautiful Day,Drums,1998-11-12,Other
+Thomas Johnson,Dream beyond the Sky,Engineer,2019-5-19,Featured
+Sandra Davis,Heart beyond the Sunrise,Other,2019-10-13,Other
+Linda Williams,Broken to the Night,Engineer,1992-2-5,Featured
+Mary Smith,Eternal for a Star,Guitar,2010-9-12,Featured
+Ashley Johnson,Last Night,Other,2019-1-9,Other
+Susan Williams,First Night,Keyboard,2006-7-22,Main
+Lisa Moore,Beautiful in the Sunset,Engineer,2015-5-4,Main
+James Hernandez,Bright Night,Drums,1990-7-14,Main
+Ashley Martinez,Beautiful Dream,Bass,1998-4-22,Main
+Anthony Rodriguez,Last of the Moon,Lyricist,1996-7-12,Main
+William White,Lonely under the Sunset,Composer,1997-2-20,Main
+Joseph Brown,Sky to the Sky,Arranger,2004-11-10,Other
+Mark Brown,Bright beyond the Heart,Composer,2010-9-19,Other
+Mark Miller,Star for a Sky,Other,2011-2-3,Featured
+Anthony Clark,Last Night,Lyricist,2001-4-15,Main
+Margaret Hernandez,Sky in the Night,Bass,2000-9-21,Other
+Michael Rodriguez,Sky for a Heart,Bass,1992-8-16,Main
+Thomas Smith,Lonely Night,Manager,2017-7-20,Main
+Sandra Robinson,Dark Sunrise,Guitar,2013-2-16,Main
+Jessica Lee,Last Day,Producer,2001-10-26,Featured
+Linda Moore,Broken for a Star,Engineer,2008-4-3,Featured
+David Davis,Eternal to the Day,Other,1992-11-10,Main
+Robert Brown,Eternal Day,Guitar,1996-10-24,Main
+Christopher Smith,Bright Night,Manager,1991-4-2,Other
+Christopher Lee,Lonely beyond the Love,Manager,1996-4-17,Main
+Susan Lee,Dream for a Moon,Composer,2005-4-6,Featured
+Barbara Rodriguez,Day of the Love,Arranger,2018-4-12,Other
+Elizabeth Robinson,Beautiful Love,Producer,2003-1-9,Featured
+William Thompson,Sunset in the Love,Drums,2007-8-12,Main
+Richard Thomas,Eternal Sky,Composer,2006-3-23,Other
+Christopher White,Sunset for a Dream,Vocal,1991-5-23,Other
+James Williams,Dark Star,Vocal,1997-6-4,Main
+Jennifer Martinez,Night beyond the Day,Drums,2007-1-21,Main
+Jennifer Davis,Final for a Day,Arranger,1991-10-21,Other
+David Garcia,Final without a Sky,Producer,2019-2-24,Other
+Michael Brown,Final Love,Manager,2020-7-15,Main
+Sarah Robinson,Dream of the Heart,Vocal,1993-1-15,Featured
+John Walker,Eternal Sunrise,Keyboard,2007-11-26,Main
+David Johnson,Broken Sunrise,Vocal,2015-9-3,Main
+Matthew Clark,Beautiful beyond the Sunset,Engineer,2013-10-18,Featured
+Richard Lewis,Dream under the Heart,Composer,2007-4-28,Featured
+Susan Hernandez,Happy Dream,Drums,2011-5-19,Main
+Lisa Lee,Sunrise in the Heart,Drums,2016-6-21,Main
+John Thomas,Beautiful to the Star,Manager,2011-5-8,Main
+Patricia Anderson,First Sky,Producer,1990-10-9,Main
+Charles Davis,Happy Moon,Arranger,2014-2-6,Main
+Charles Thomas,Beautiful Love,Manager,2002-12-17,Featured
+Jessica Moore,Day under the Star,Manager,2010-1-27,Featured
+James Thomas,Day of the Night,Bass,2002-4-20,Main
+John Lewis,Beautiful Star,Engineer,2016-9-7,Other
+Lisa Martin,Day to the Heart,Other,1998-7-20,Main
+Thomas Martin,Last Night,Other,1993-3-15,Main
+Charles Hall,Sunrise in the Moon,Other,2007-2-16,Other
+Robert Robinson,Last Star,Bass,1991-4-1,Featured
+Patricia White,Final Heart,Other,2003-6-28,Featured
+Patricia Robinson,Star for a Sky,Producer,2009-4-27,Featured
+Robert Young,Day under the Sunrise,Manager,2020-4-6,Main
+Patricia Hernandez,Broken for a Sky,Arranger,2020-12-9,Other
+Daniel Smith,Dark to the Sunset,Drums,2011-12-2,Featured
+Barbara Thompson,Eternal under the Night,Arranger,2011-10-7,Featured
+Daniel Martin,Final to the Sunrise,Lyricist,2006-2-21,Featured
+Matthew Robinson,Sky for a Love,Drums,2002-1-17,Featured
+Patricia Hall,Final beyond the Day,Drums,1998-3-19,Other
+Ashley Martinez,Eternal Sunset,Manager,2012-12-2,Main
+Ashley Harris,Heart without a Sunrise,Vocal,2014-1-15,Featured
+Michael Martinez,Last without a Sunset,Bass,2015-1-2,Other
+Nancy Clark,Final of the Night,Bass,2018-7-22,Other
+Sandra Moore,Final Day,Lyricist,1997-6-20,Featured
+Ashley Young,Dark Day,Engineer,2020-7-12,Featured
+Sandra Thompson,Heart without a Dream,Lyricist,2013-9-22,Featured
+Christopher White,First beyond the Star,Other,2002-4-28,Main
+David Davis,Happy Dream,Composer,2019-6-4,Other
+Barbara Davis,Dark for a Sunrise,Lyricist,2015-11-19,Main
+James Davis,Love for a Sunrise,Vocal,1993-3-14,Other
+Michael Taylor,Dark Moon,Guitar,2017-12-25,Other
+Christopher Jones,Happy in the Star,Arranger,2005-8-11,Main
+Linda Thompson,Bright Moon,Guitar,2006-2-5,Other
+Margaret Martinez,Bright Heart,Other,1999-6-19,Other
+Daniel Miller,Lonely Star,Manager,2007-1-22,Other
+Richard Garcia,Beautiful of the Sunrise,Bass,2010-2-24,Other
+Susan White,Eternal without a Heart,Producer,2020-2-6,Main
+Charles Davis,Happy under the Sunset,Arranger,2020-11-17,Other
+Thomas Anderson,Sunset to the Sunset,Bass,2020-11-1,Main
+Robert Anderson,Sunrise under the Day,Other,1992-5-6,Other
+Lisa Harris,Night under the Sunset,Arranger,1994-7-8,Main
+Mary Hernandez,Sunrise in the Heart,Drums,2008-5-3,Other
+Linda Robinson,Eternal Love,Producer,1991-10-19,Other
+Sarah Davis,Happy Star,Keyboard,2006-6-21,Featured
+Jessica Martin,Broken Sky,Bass,2010-3-12,Featured
+Thomas Jackson,Last without a Sunset,Manager,2016-12-15,Other
+Michael Thomas,Dream for a Moon,Lyricist,1996-3-11,Main
+Linda Davis,Eternal in the Heart,Engineer,2010-2-1,Featured
+Christopher Rodriguez,Bright under the Star,Keyboard,2019-6-12,Other
+Daniel Davis,Happy Star,Composer,1998-7-12,Featured
+Michael Walker,Bright Moon,Manager,2013-9-27,Featured
+Lisa Lee,Day in the Night,Lyricist,1995-10-25,Main
+Linda Williams,Night in the Sunset,Guitar,2020-6-27,Featured
+Michael Young,Sky to the Star,Other,1999-6-13,Main
+Lisa Lewis,Love without a Heart,Engineer,2018-12-6,Main
+Ashley Rodriguez,Lonely Day,Vocal,1998-4-25,Featured
+Richard Martinez,First in the Sky,Other,2006-1-5,Featured
+Joseph Jackson,Dark of the Day,Guitar,2018-7-24,Featured
+Jessica Smith,Eternal under the Day,Other,2002-1-11,Other
+Mark Wilson,Dream of the Day,Lyricist,2003-6-27,Main
+Elizabeth Smith,Sky in the Love,Other,1992-10-9,Main
+Daniel Martin,Sunrise to the Moon,Vocal,2017-4-27,Featured
+Thomas Smith,Happy Sunset,Engineer,1999-12-8,Main
+Anthony Miller,Moon for a Love,Lyricist,2003-6-5,Other
+Sarah Thompson,Day of the Dream,Composer,1993-11-21,Featured
+Jessica Thompson,Lonely under the Sunset,Bass,1995-10-7,Featured
+John Johnson,Broken Sunset,Drums,2003-11-3,Featured
+Barbara Williams,Final Heart,Vocal,1999-4-5,Featured
+David Anderson,Last Dream,Bass,2016-5-1,Other
+Charles Lewis,Heart without a Dream,Bass,2015-2-11,Featured
+Sandra Hall,Heart under the Star,Arranger,2003-8-20,Main
+Richard Hall,Final Dream,Other,2017-4-14,Featured
+Nancy Young,Love to the Dream,Drums,1994-11-22,Other
+David White,Moon to the Day,Producer,1997-8-17,Featured
+William Jackson,Bright under the Star,Lyricist,1999-1-28,Other
+Mark Harris,Bright Sunrise,Keyboard,2014-9-2,Featured
+Susan White,Dark Sunset,Drums,2007-4-24,Main
+John Johnson,Star in the Night,Producer,2013-6-1,Main
+Ashley White,Beautiful in the Star,Producer,1991-10-18,Featured
+Ashley Lewis,Broken in the Heart,Guitar,2014-12-24,Main
+Sarah White,Star for a Sunrise,Composer,1998-6-25,Other
+David Allen,Dark of the Day,Arranger,2019-5-3,Main
+Patricia Lee,Broken to the Day,Producer,2012-3-25,Main
+Anthony Walker,First Love,Manager,1996-8-19,Main
+Charles Hall,Star under the Night,Bass,2016-12-8,Main
+John Young,Sunset beyond the Sunrise,Producer,2003-2-13,Featured
+David Rodriguez,Lonely without a Love,Drums,1990-4-1,Featured
+Thomas Martin,Broken to the Sunset,Arranger,1999-2-22,Featured
+Patricia Hall,Sunrise beyond the Sunrise,Keyboard,1996-6-28,Other
+Richard Davis,Dark to the Sky,Arranger,1996-4-4,Other
+Linda Harris,Bright Heart,Arranger,1991-6-4,Other
+Susan Garcia,Beautiful under the Sunset,Other,1999-2-21,Other
+William Taylor,Bright Day,Lyricist,2010-5-25,Featured
+Anthony Harris,Day in the Day,Arranger,1991-11-14,Featured
+Elizabeth Anderson,Eternal Heart,Guitar,2016-7-18,Featured
+Jennifer Thompson,Eternal Night,Producer,2001-6-23,Main
+Karen Miller,Heart without a Star,Composer,2002-1-12,Main
+Nancy Martinez,Dream under the Dream,Manager,2014-1-18,Main
+James Moore,Final Night,Engineer,2008-3-5,Other
+Linda Hall,Bright under the Night,Bass,1992-4-10,Main
+Charles Brown,Broken for a Day,Arranger,2013-12-21,Featured
