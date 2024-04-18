@@ -1,3 +1,1001 @@
 name,priceId,creationYear,description,impact
-Award1,award1,2023,Award description here,10
-Award2,award2,2022,Another award description,8
+International Movie Recognition 1,prc00003,1952,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+Silver Original Score Award 5,prc00004,1959,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+National Director Recognition 1,prc00005,1994,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+National Actress Prize 4,prc00006,1965,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Silver Actor Honor 1,prc00007,2024,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+National Screenplay Honor 2,prc00008,1958,This award goes to the authors of the finest script not based upon previously published material.,9
+Platinum Director Recognition 2,prc00009,1992,Awarded to an actor who has delivered a substantial performance in a supporting role.,7
+Silver Screenplay Award 4,prc00010,1978,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Critics Original Score Prize 3,prc00011,2001,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+Golden Director Recognition 2,prc00012,1988,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+Critics Director Prize 5,prc00013,1986,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+National Actor Prize 4,prc00014,2022,Awarded to an actor who has delivered a substantial performance in a supporting role.,7
+Platinum Director Prize 5,prc00015,1955,This award goes to the authors of the finest script not based upon previously published material.,3
+Golden Cinematography Award 3,prc00016,1976,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+Platinum Screenplay Prize 2,prc00017,1954,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+Critics Actor Recognition 5,prc00018,2011,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+National Actor Prize 1,prc00019,2000,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Silver Director Prize 4,prc00020,1972,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+International Actress Trophy 4,prc00021,1956,This award goes to the authors of the finest script not based upon previously published material.,5
+Silver Cinematography Prize 1,prc00022,1960,This award goes to the authors of the finest script not based upon previously published material.,2
+Peoples Actress Trophy 4,prc00023,1972,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Critics Cinematography Honor 4,prc00024,1995,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",10
+National Actress Trophy 1,prc00025,2008,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+National Original Score Recognition 1,prc00026,1964,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+Golden Actress Recognition 3,prc00027,1963,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+National Director Award 2,prc00028,1978,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",9
+Critics Actor Trophy 3,prc00029,1957,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",3
+Platinum Movie Recognition 5,prc00030,1967,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+Golden Actress Prize 1,prc00031,1952,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,3
+Platinum Movie Award 2,prc00032,2018,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Peoples Actress Prize 2,prc00033,1969,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+Peoples Screenplay Award 2,prc00034,2000,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Silver Cinematography Prize 5,prc00035,1967,Awarded to an actor who has delivered a substantial performance in a supporting role.,8
+National Director Trophy 4,prc00036,1994,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",10
+Silver Director Honor 5,prc00037,1966,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+Silver Original Score Trophy 4,prc00038,1984,Awarded to an actor who has delivered a substantial performance in a supporting role.,8
+International Screenplay Award 3,prc00039,1967,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+International Cinematography Award 4,prc00040,1979,This award goes to the authors of the finest script not based upon previously published material.,3
+Peoples Movie Prize 5,prc00041,1983,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+Golden Director Honor 4,prc00042,2009,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+Critics Movie Trophy 4,prc00043,2006,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+National Original Score Prize 5,prc00044,1982,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+Peoples Movie Recognition 2,prc00045,1997,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+International Movie Trophy 5,prc00046,1952,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+International Actor Award 4,prc00047,1971,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Peoples Original Score Trophy 1,prc00048,1981,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",2
+Critics Actor Award 2,prc00049,1969,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+Platinum Original Score Recognition 3,prc00050,2003,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,5
+National Cinematography Prize 3,prc00051,1998,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+International Original Score Award 3,prc00052,2023,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+International Cinematography Honor 4,prc00053,1977,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",1
+International Cinematography Recognition 1,prc00054,2010,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+International Actor Award 5,prc00055,1965,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",10
+National Original Score Trophy 4,prc00056,2017,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+Silver Actress Prize 3,prc00057,1966,This award goes to the authors of the finest script not based upon previously published material.,1
+Platinum Cinematography Honor 5,prc00058,2014,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Silver Original Score Trophy 2,prc00059,2008,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+National Movie Award 1,prc00060,1952,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+International Actress Honor 2,prc00061,1950,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+Platinum Cinematography Award 2,prc00062,2005,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+Peoples Cinematography Prize 2,prc00063,1959,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Critics Original Score Prize 2,prc00064,1969,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",1
+Silver Screenplay Award 1,prc00065,2015,This award goes to the authors of the finest script not based upon previously published material.,6
+Platinum Director Trophy 3,prc00066,1967,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,8
+Critics Actor Prize 5,prc00067,2008,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+National Cinematography Trophy 1,prc00068,1965,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+Golden Actress Prize 3,prc00069,2006,This award goes to the authors of the finest script not based upon previously published material.,5
+International Cinematography Recognition 5,prc00070,2022,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+Platinum Actor Recognition 2,prc00071,1953,This award goes to the authors of the finest script not based upon previously published material.,9
+National Movie Prize 5,prc00072,2022,This award goes to the authors of the finest script not based upon previously published material.,2
+Platinum Cinematography Trophy 1,prc00073,1969,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",8
+National Actor Prize 2,prc00074,1997,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Platinum Actress Trophy 1,prc00075,1983,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+Silver Director Honor 3,prc00076,1965,Awarded to an actor who has delivered a substantial performance in a supporting role.,4
+Critics Movie Trophy 3,prc00077,1999,This award goes to the authors of the finest script not based upon previously published material.,5
+Critics Cinematography Award 4,prc00078,1970,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",3
+Critics Actress Prize 3,prc00079,2009,This award goes to the authors of the finest script not based upon previously published material.,2
+Platinum Actor Trophy 1,prc00080,1974,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+National Screenplay Honor 5,prc00081,2003,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+National Actress Trophy 5,prc00082,1965,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+Silver Cinematography Trophy 1,prc00083,2012,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+Peoples Actress Prize 3,prc00084,1969,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Silver Original Score Award 2,prc00085,2023,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",2
+Peoples Original Score Honor 3,prc00086,1959,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+National Actress Award 5,prc00087,1955,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+Golden Screenplay Trophy 1,prc00088,1983,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+Critics Movie Honor 5,prc00089,1982,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+International Actress Award 2,prc00090,1963,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Peoples Actor Honor 5,prc00091,2020,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+Silver Actor Prize 2,prc00092,1977,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,8
+Platinum Original Score Trophy 1,prc00093,1953,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+National Original Score Honor 1,prc00094,1954,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Critics Director Honor 5,prc00095,2019,Awarded to the best composer who has produced the most outstanding original score for a film.,4
+Golden Actress Award 4,prc00096,2015,This award goes to the authors of the finest script not based upon previously published material.,9
+International Screenplay Award 4,prc00097,1963,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,6
+Critics Actress Prize 2,prc00098,2000,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+Platinum Screenplay Award 1,prc00099,2023,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+National Director Prize 1,prc00100,2009,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+National Cinematography Trophy 2,prc00101,2000,This award goes to the authors of the finest script not based upon previously published material.,8
+Critics Screenplay Prize 4,prc00102,2003,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",4
+Silver Actor Award 4,prc00103,1982,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+National Screenplay Trophy 2,prc00104,1989,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Critics Actress Honor 3,prc00105,1956,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Peoples Original Score Award 3,prc00106,2013,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Critics Director Prize 3,prc00107,1982,Awarded to an actor who has delivered a substantial performance in a supporting role.,4
+Platinum Cinematography Recognition 1,prc00108,2008,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+Platinum Actress Prize 3,prc00109,1961,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+National Original Score Award 2,prc00110,1960,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Platinum Director Award 1,prc00111,1981,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+Platinum Actor Award 3,prc00112,2024,This award goes to the authors of the finest script not based upon previously published material.,9
+Peoples Cinematography Honor 5,prc00113,2018,Awarded to an actor who has delivered a substantial performance in a supporting role.,8
+Silver Actress Prize 2,prc00114,1992,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Platinum Actor Prize 1,prc00115,1958,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+Peoples Actor Recognition 5,prc00116,1953,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+Silver Screenplay Trophy 4,prc00117,2021,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+National Actress Award 3,prc00118,2013,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",3
+Silver Screenplay Prize 4,prc00119,2024,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+Golden Actress Award 3,prc00120,1952,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",6
+National Screenplay Recognition 5,prc00121,1982,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+Silver Screenplay Recognition 2,prc00122,2015,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+Golden Original Score Honor 5,prc00123,1951,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+Critics Actress Trophy 5,prc00124,2019,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Platinum Original Score Prize 1,prc00125,1999,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,8
+Platinum Screenplay Trophy 2,prc00126,2023,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+International Cinematography Trophy 3,prc00127,2011,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+National Original Score Trophy 3,prc00128,1963,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+International Actress Honor 5,prc00129,2001,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Platinum Cinematography Trophy 5,prc00130,1987,Awarded to an actor who has delivered a substantial performance in a supporting role.,8
+Silver Movie Recognition 4,prc00131,1981,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Silver Movie Honor 4,prc00132,1986,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+Critics Actor Honor 2,prc00133,1981,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+Silver Screenplay Honor 3,prc00134,1979,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Golden Screenplay Award 4,prc00135,1959,This award goes to the authors of the finest script not based upon previously published material.,8
+Silver Movie Prize 3,prc00136,2016,This award goes to the authors of the finest script not based upon previously published material.,2
+Golden Screenplay Prize 4,prc00137,1961,Awarded to an actor who has delivered a substantial performance in a supporting role.,8
+Critics Original Score Honor 2,prc00138,2000,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Silver Screenplay Recognition 5,prc00139,2008,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+Golden Actor Award 5,prc00140,1977,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Silver Original Score Award 3,prc00141,1965,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Critics Cinematography Recognition 2,prc00142,1983,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Silver Original Score Honor 5,prc00143,1977,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+Critics Original Score Honor 5,prc00144,1988,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+International Movie Recognition 2,prc00145,2018,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+National Screenplay Honor 1,prc00146,1958,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+Peoples Screenplay Prize 4,prc00147,2020,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",10
+National Cinematography Award 2,prc00148,1997,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Peoples Cinematography Prize 3,prc00149,1970,This award goes to the authors of the finest script not based upon previously published material.,1
+Platinum Movie Trophy 5,prc00150,1974,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Platinum Screenplay Award 5,prc00151,2005,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Silver Director Recognition 4,prc00152,1997,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,8
+Golden Director Prize 5,prc00153,1974,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Critics Screenplay Award 5,prc00154,1952,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+Critics Actor Recognition 2,prc00155,1992,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+Golden Cinematography Recognition 4,prc00156,1958,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",6
+Golden Movie Prize 1,prc00157,1981,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Peoples Movie Prize 1,prc00158,1988,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+Silver Movie Trophy 3,prc00159,1993,This award goes to the authors of the finest script not based upon previously published material.,1
+Platinum Screenplay Recognition 1,prc00160,2016,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",6
+National Director Prize 3,prc00161,2006,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+Golden Screenplay Prize 2,prc00162,1955,This award goes to the authors of the finest script not based upon previously published material.,10
+International Actor Award 3,prc00163,1999,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Platinum Actor Honor 5,prc00164,1979,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,7
+Critics Actress Trophy 3,prc00165,2019,This award goes to the authors of the finest script not based upon previously published material.,1
+Critics Actress Award 5,prc00166,2022,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+International Director Award 5,prc00167,1995,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Golden Actress Prize 5,prc00168,1953,Awarded to an actor who has delivered a substantial performance in a supporting role.,4
+Golden Screenplay Prize 5,prc00169,1978,This award goes to the authors of the finest script not based upon previously published material.,10
+Silver Movie Honor 2,prc00170,1975,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+National Original Score Honor 2,prc00171,2023,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Silver Screenplay Prize 1,prc00172,2000,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Critics Cinematography Trophy 5,prc00173,1963,This award goes to the authors of the finest script not based upon previously published material.,5
+National Movie Award 2,prc00174,1951,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+International Movie Recognition 3,prc00175,2020,This award goes to the authors of the finest script not based upon previously published material.,7
+Golden Original Score Recognition 2,prc00176,1979,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",1
+Critics Movie Prize 3,prc00177,1960,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",7
+Critics Cinematography Prize 3,prc00178,2000,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+International Movie Award 3,prc00179,1963,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+Platinum Actress Honor 3,prc00180,2007,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Critics Movie Trophy 1,prc00181,2013,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+National Actor Recognition 2,prc00182,1990,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Platinum Cinematography Prize 1,prc00183,1995,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Platinum Actress Recognition 3,prc00184,1978,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Critics Screenplay Trophy 2,prc00185,1988,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+Critics Actor Recognition 3,prc00186,1984,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Critics Cinematography Prize 4,prc00187,1971,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+Critics Original Score Honor 4,prc00188,1960,This award goes to the authors of the finest script not based upon previously published material.,9
+Critics Actress Honor 1,prc00189,1961,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,9
+International Movie Trophy 3,prc00190,1951,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Peoples Screenplay Honor 4,prc00191,1969,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Critics Actress Prize 5,prc00192,1970,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Golden Actor Honor 5,prc00193,1997,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",1
+Golden Original Score Honor 2,prc00194,1967,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+Platinum Cinematography Award 1,prc00195,1987,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,8
+Critics Actor Trophy 5,prc00196,1970,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+Peoples Director Award 2,prc00197,1955,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+Silver Movie Prize 5,prc00198,1955,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Silver Cinematography Honor 2,prc00199,1985,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+Platinum Actor Honor 2,prc00200,1985,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+International Cinematography Recognition 4,prc00201,1981,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+National Original Score Honor 5,prc00202,1989,This award goes to the authors of the finest script not based upon previously published material.,1
+International Original Score Trophy 2,prc00203,2002,This award goes to the authors of the finest script not based upon previously published material.,2
+Silver Cinematography Trophy 3,prc00204,1982,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+Peoples Director Recognition 2,prc00205,2022,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+International Director Prize 1,prc00206,1982,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",6
+National Movie Recognition 3,prc00207,2022,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+Peoples Cinematography Prize 1,prc00208,1978,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+Platinum Actress Award 1,prc00209,1993,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Critics Actress Award 3,prc00210,1958,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+International Cinematography Trophy 5,prc00211,1998,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+National Cinematography Prize 1,prc00212,1978,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Golden Actor Prize 5,prc00213,1983,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+International Screenplay Recognition 1,prc00214,2001,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+International Actor Trophy 3,prc00215,1979,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+International Original Score Honor 5,prc00216,1950,Awarded to an actor who has delivered a substantial performance in a supporting role.,7
+Critics Screenplay Trophy 5,prc00217,1961,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Critics Cinematography Recognition 4,prc00218,2019,This award goes to the authors of the finest script not based upon previously published material.,10
+Platinum Cinematography Prize 4,prc00219,1961,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Silver Actor Honor 2,prc00220,2012,Awarded to an actor who has delivered a substantial performance in a supporting role.,7
+International Cinematography Prize 1,prc00221,1978,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Platinum Director Award 4,prc00222,1980,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+National Original Score Trophy 2,prc00223,1955,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Platinum Screenplay Recognition 5,prc00224,1979,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",2
+Golden Actor Prize 1,prc00225,2016,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Platinum Director Recognition 5,prc00226,1969,This award goes to the authors of the finest script not based upon previously published material.,1
+Critics Original Score Award 1,prc00227,1987,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+International Director Prize 2,prc00228,1989,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+Critics Screenplay Prize 5,prc00229,2002,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",6
+Silver Actor Honor 3,prc00230,1973,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+Silver Cinematography Prize 4,prc00231,1980,Awarded to an actor who has delivered a substantial performance in a supporting role.,4
+Silver Original Score Honor 4,prc00232,2008,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Golden Screenplay Trophy 5,prc00233,1960,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+Silver Actor Prize 3,prc00234,2017,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+International Movie Award 2,prc00235,1988,This award goes to the authors of the finest script not based upon previously published material.,8
+National Director Recognition 5,prc00236,1973,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",4
+International Screenplay Recognition 3,prc00237,2017,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+Silver Movie Honor 3,prc00238,1979,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+Peoples Director Prize 3,prc00239,2008,This award goes to the authors of the finest script not based upon previously published material.,8
+National Movie Prize 1,prc00240,1961,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+National Cinematography Honor 4,prc00241,1969,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+International Director Honor 3,prc00242,2023,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,1
+Critics Director Award 1,prc00243,2009,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,1
+Silver Movie Award 4,prc00244,2024,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Silver Original Score Honor 1,prc00245,1972,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Golden Actor Recognition 3,prc00246,2005,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Peoples Director Recognition 5,prc00247,1990,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Golden Screenplay Award 3,prc00248,2017,Awarded to an actor who has delivered a substantial performance in a supporting role.,3
+Golden Original Score Recognition 5,prc00249,1985,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",9
+Platinum Screenplay Prize 1,prc00250,1951,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Golden Screenplay Prize 1,prc00251,1950,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+National Actress Recognition 2,prc00252,1960,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",6
+Golden Actor Honor 2,prc00253,2000,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Peoples Original Score Prize 5,prc00254,1984,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+International Actor Award 2,prc00255,1970,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",10
+International Movie Prize 4,prc00256,1972,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,8
+Silver Screenplay Prize 3,prc00257,1994,This award goes to the authors of the finest script not based upon previously published material.,8
+Critics Director Recognition 5,prc00258,1957,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Platinum Actor Prize 5,prc00259,1988,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Platinum Actor Recognition 4,prc00260,2019,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+Silver Cinematography Honor 3,prc00261,2004,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",6
+Peoples Cinematography Trophy 5,prc00262,2008,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Silver Cinematography Recognition 1,prc00263,2024,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+International Movie Honor 4,prc00264,1982,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,8
+Peoples Original Score Prize 3,prc00265,1961,This award goes to the authors of the finest script not based upon previously published material.,10
+National Movie Honor 4,prc00266,1994,This award goes to the authors of the finest script not based upon previously published material.,8
+Critics Original Score Recognition 1,prc00267,1985,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Critics Original Score Trophy 4,prc00268,1976,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+Critics Director Trophy 5,prc00269,2006,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+Golden Actor Recognition 2,prc00270,1987,Awarded to the best composer who has produced the most outstanding original score for a film.,9
+Peoples Actress Prize 4,prc00271,1969,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Peoples Actress Honor 5,prc00272,2013,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Peoples Screenplay Award 4,prc00273,1966,This award goes to the authors of the finest script not based upon previously published material.,10
+Silver Actor Trophy 2,prc00274,1958,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+Platinum Cinematography Trophy 2,prc00275,2021,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+International Actress Honor 1,prc00276,1988,Awarded to the best composer who has produced the most outstanding original score for a film.,4
+Peoples Screenplay Honor 1,prc00277,1950,This award goes to the authors of the finest script not based upon previously published material.,1
+Platinum Cinematography Recognition 3,prc00278,1975,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+International Actress Recognition 4,prc00279,2006,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+National Director Honor 2,prc00280,1981,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",4
+Platinum Director Prize 1,prc00281,2001,This award goes to the authors of the finest script not based upon previously published material.,1
+National Movie Trophy 2,prc00282,2012,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+Peoples Movie Award 4,prc00283,1987,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",4
+National Screenplay Award 1,prc00284,2020,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Golden Screenplay Prize 3,prc00285,2012,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Silver Actor Award 1,prc00286,2008,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+International Screenplay Award 5,prc00287,2004,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",6
+Peoples Actor Honor 1,prc00288,1995,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Platinum Movie Recognition 3,prc00289,1959,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Critics Director Honor 4,prc00290,2018,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",7
+Peoples Movie Award 2,prc00291,1964,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+Golden Original Score Award 5,prc00292,1960,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Peoples Actress Honor 3,prc00293,1965,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Critics Screenplay Honor 4,prc00294,1975,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,1
+Peoples Cinematography Prize 5,prc00295,1986,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+Platinum Movie Recognition 2,prc00296,1989,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Silver Actress Award 2,prc00297,2017,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Silver Director Recognition 5,prc00298,1951,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+International Screenplay Trophy 3,prc00299,2022,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Peoples Actor Award 3,prc00300,1978,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+Peoples Cinematography Trophy 4,prc00301,1995,Awarded to an actor who has delivered a substantial performance in a supporting role.,3
+Peoples Director Award 4,prc00302,1991,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Peoples Movie Honor 2,prc00303,1984,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+Silver Actress Award 4,prc00304,1964,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,7
+Peoples Screenplay Trophy 2,prc00305,1998,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,5
+Golden Cinematography Trophy 3,prc00306,1994,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Golden Actress Trophy 5,prc00307,1962,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+National Director Prize 4,prc00308,2004,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+Golden Movie Award 5,prc00309,2024,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+Silver Original Score Prize 4,prc00310,2021,This award goes to the authors of the finest script not based upon previously published material.,7
+National Screenplay Trophy 4,prc00311,1951,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",1
+Peoples Screenplay Prize 3,prc00312,1962,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Peoples Screenplay Recognition 5,prc00313,2016,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",1
+Peoples Movie Prize 2,prc00314,1952,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",3
+Platinum Screenplay Award 3,prc00315,2014,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+National Original Score Award 3,prc00316,1977,This award goes to the authors of the finest script not based upon previously published material.,2
+National Director Honor 4,prc00317,1996,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,8
+International Screenplay Honor 2,prc00318,1951,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+International Screenplay Honor 3,prc00319,2005,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",10
+Platinum Actor Recognition 5,prc00320,1970,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",8
+Golden Screenplay Honor 4,prc00321,1991,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+Peoples Actor Award 5,prc00322,1991,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+International Movie Prize 3,prc00323,1958,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+Silver Cinematography Award 4,prc00324,2003,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+Critics Screenplay Recognition 2,prc00325,2013,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+National Actress Award 1,prc00326,1975,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Silver Movie Trophy 2,prc00327,1972,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Critics Director Prize 1,prc00328,1954,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,3
+Golden Director Award 3,prc00329,2013,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+Critics Actress Honor 5,prc00330,2009,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+Golden Cinematography Recognition 1,prc00331,2009,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Platinum Actor Recognition 1,prc00332,2012,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,9
+International Original Score Recognition 1,prc00333,2011,Awarded to an actor who has delivered a substantial performance in a supporting role.,7
+National Cinematography Honor 3,prc00334,1971,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Platinum Original Score Award 5,prc00335,2011,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+National Cinematography Trophy 3,prc00336,1966,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+Silver Screenplay Award 5,prc00337,1979,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Golden Original Score Recognition 4,prc00338,1964,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Peoples Actor Prize 4,prc00339,1955,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+Platinum Screenplay Honor 3,prc00340,2014,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+Platinum Actor Award 2,prc00341,1988,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Golden Actress Honor 4,prc00342,1971,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Critics Movie Honor 4,prc00343,2022,This award goes to the authors of the finest script not based upon previously published material.,1
+Silver Actress Recognition 1,prc00344,1976,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+International Director Award 1,prc00345,2021,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",1
+National Actor Honor 2,prc00346,1992,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Golden Movie Recognition 2,prc00347,1992,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+Golden Director Award 1,prc00348,1956,Awarded to an actor who has delivered a substantial performance in a supporting role.,1
+Silver Director Trophy 4,prc00349,2017,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",1
+Silver Original Score Trophy 1,prc00350,1968,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Critics Cinematography Award 5,prc00351,1961,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,7
+National Actor Trophy 5,prc00352,2000,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",7
+Peoples Movie Award 1,prc00353,2000,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+National Original Score Recognition 4,prc00354,2014,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+Silver Director Award 3,prc00355,1990,Awarded to an actor who has delivered a substantial performance in a supporting role.,3
+International Cinematography Recognition 3,prc00356,1966,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,5
+International Cinematography Trophy 2,prc00357,1976,Awarded to the best composer who has produced the most outstanding original score for a film.,4
+Critics Cinematography Award 3,prc00358,1991,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+Golden Original Score Prize 2,prc00359,1980,Awarded to an actor who has delivered a substantial performance in a supporting role.,4
+Critics Original Score Honor 1,prc00360,1978,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",7
+National Movie Recognition 2,prc00361,2003,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+Platinum Director Trophy 5,prc00362,2019,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,3
+Golden Original Score Prize 5,prc00363,2004,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+Golden Movie Honor 1,prc00364,1989,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Critics Actress Trophy 2,prc00365,1999,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+Peoples Actress Honor 2,prc00366,1970,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Golden Director Trophy 3,prc00367,2022,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+Platinum Movie Honor 4,prc00368,1973,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,5
+International Screenplay Trophy 4,prc00369,1983,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",1
+Peoples Movie Award 3,prc00370,2011,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+Golden Cinematography Trophy 5,prc00371,2002,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+Golden Movie Recognition 4,prc00372,1975,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+Platinum Cinematography Recognition 5,prc00373,1993,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Golden Screenplay Award 5,prc00374,2018,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+Critics Original Score Trophy 1,prc00375,2020,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+National Director Trophy 2,prc00376,1986,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+Platinum Cinematography Honor 1,prc00377,2009,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+Golden Director Honor 2,prc00378,2003,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Peoples Screenplay Prize 1,prc00379,1957,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,5
+Golden Cinematography Prize 4,prc00380,2011,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+Golden Original Score Prize 1,prc00381,2008,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,8
+National Cinematography Honor 5,prc00382,1998,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,1
+International Director Recognition 5,prc00383,2020,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Platinum Cinematography Trophy 4,prc00384,2000,This award goes to the authors of the finest script not based upon previously published material.,3
+Silver Original Score Recognition 4,prc00385,1989,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+International Actor Trophy 1,prc00386,1975,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Platinum Movie Prize 5,prc00387,2008,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+National Screenplay Recognition 1,prc00388,1960,This award goes to the authors of the finest script not based upon previously published material.,5
+Platinum Cinematography Award 5,prc00389,1969,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",9
+Peoples Original Score Honor 5,prc00390,1986,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+International Director Honor 2,prc00391,1985,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+Platinum Original Score Prize 3,prc00392,2004,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+Golden Cinematography Prize 5,prc00393,1965,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+International Actress Recognition 5,prc00394,2022,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Critics Actor Prize 3,prc00395,1979,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+Silver Cinematography Honor 5,prc00396,2008,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+International Actor Prize 3,prc00397,2021,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Platinum Screenplay Recognition 2,prc00398,2017,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+Silver Actor Award 3,prc00399,2017,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+National Cinematography Recognition 4,prc00400,1996,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+National Actress Honor 4,prc00401,2003,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+Critics Movie Recognition 1,prc00402,1951,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+National Original Score Award 1,prc00403,1958,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Critics Original Score Award 5,prc00404,1963,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Platinum Actor Prize 3,prc00405,1976,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+Silver Actor Trophy 5,prc00406,1983,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+National Cinematography Award 4,prc00407,1985,This award goes to the authors of the finest script not based upon previously published material.,8
+International Movie Prize 1,prc00408,2021,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+Silver Cinematography Recognition 4,prc00409,1974,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+Platinum Original Score Recognition 1,prc00410,1999,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+Critics Movie Award 2,prc00411,1963,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+National Director Prize 5,prc00412,1978,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Critics Cinematography Trophy 3,prc00413,1966,This award goes to the authors of the finest script not based upon previously published material.,8
+Critics Actor Prize 1,prc00414,1977,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+National Actor Honor 1,prc00415,1992,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+Peoples Original Score Award 5,prc00416,1959,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+Golden Actor Prize 3,prc00417,1989,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,3
+Peoples Movie Honor 3,prc00418,1964,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Peoples Screenplay Trophy 3,prc00419,2024,Awarded to the best composer who has produced the most outstanding original score for a film.,4
+International Director Recognition 3,prc00420,2016,This award goes to the authors of the finest script not based upon previously published material.,8
+Platinum Actress Honor 4,prc00421,1997,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+Critics Screenplay Honor 2,prc00422,1956,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",8
+Golden Original Score Recognition 3,prc00423,2004,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+Golden Actress Honor 2,prc00424,2006,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+Critics Movie Prize 2,prc00425,1994,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Silver Actor Award 2,prc00426,1978,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+Golden Screenplay Recognition 4,prc00427,1968,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Peoples Movie Prize 4,prc00428,2019,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",1
+Silver Director Trophy 2,prc00429,2005,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Platinum Actress Prize 1,prc00430,1997,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+Silver Screenplay Honor 2,prc00431,2002,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Platinum Screenplay Prize 5,prc00432,1951,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Critics Director Award 4,prc00433,1983,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",4
+Platinum Actress Recognition 2,prc00434,1955,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+Peoples Actress Award 1,prc00435,1983,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+International Actor Trophy 2,prc00436,1997,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+Silver Movie Prize 2,prc00437,2013,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+National Movie Honor 2,prc00438,1961,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+National Director Prize 2,prc00439,1980,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+Critics Actor Trophy 2,prc00440,1990,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,9
+International Movie Award 4,prc00441,1977,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+Platinum Original Score Trophy 3,prc00442,2022,This award goes to the authors of the finest script not based upon previously published material.,8
+Critics Director Recognition 4,prc00443,2014,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Golden Cinematography Trophy 4,prc00444,1991,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+Silver Actor Recognition 3,prc00445,1967,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",7
+International Cinematography Prize 3,prc00446,1955,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+Silver Movie Prize 4,prc00447,1994,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Critics Actor Honor 4,prc00448,1957,This award goes to the authors of the finest script not based upon previously published material.,8
+Silver Director Prize 3,prc00449,1961,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,6
+Silver Screenplay Honor 1,prc00450,1952,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Peoples Screenplay Trophy 5,prc00451,1951,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Peoples Actress Honor 4,prc00452,1968,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+International Cinematography Prize 4,prc00453,2010,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",5
+Golden Screenplay Honor 5,prc00454,1970,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+Golden Screenplay Trophy 3,prc00455,1971,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+International Actress Trophy 2,prc00456,1972,Awarded to an actor who has delivered a substantial performance in a supporting role.,1
+Golden Director Trophy 5,prc00457,2023,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+Peoples Actress Honor 1,prc00458,1992,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",6
+Silver Actress Trophy 1,prc00459,1953,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+Silver Cinematography Prize 2,prc00460,2021,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+National Cinematography Trophy 4,prc00461,2006,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+Platinum Actor Prize 2,prc00462,1972,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+Silver Actress Recognition 4,prc00463,1982,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+Platinum Actor Honor 4,prc00464,1967,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Golden Movie Recognition 1,prc00465,1999,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Silver Screenplay Trophy 2,prc00466,1959,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Golden Cinematography Recognition 5,prc00467,1967,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+International Screenplay Honor 5,prc00468,2019,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+National Actress Prize 1,prc00469,2009,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",5
+National Original Score Prize 2,prc00470,2019,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+Peoples Movie Recognition 3,prc00471,1988,This award goes to the authors of the finest script not based upon previously published material.,6
+Peoples Actress Trophy 5,prc00472,1980,This award goes to the authors of the finest script not based upon previously published material.,9
+Golden Movie Award 1,prc00473,2002,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Peoples Director Trophy 1,prc00474,1975,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",10
+Peoples Actress Recognition 5,prc00475,1966,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Peoples Cinematography Trophy 2,prc00476,2014,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+National Cinematography Recognition 3,prc00477,1980,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Peoples Actress Prize 1,prc00478,1965,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+Critics Screenplay Honor 3,prc00479,2018,This award goes to the authors of the finest script not based upon previously published material.,4
+Platinum Screenplay Award 2,prc00480,1968,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+National Movie Trophy 1,prc00481,2020,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+Peoples Cinematography Recognition 2,prc00482,1967,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,9
+Peoples Director Recognition 1,prc00483,1983,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Critics Movie Recognition 4,prc00484,1983,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",8
+Golden Original Score Honor 4,prc00485,2000,Awarded to an actor who has delivered a substantial performance in a supporting role.,1
+National Actress Honor 3,prc00486,1954,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+International Director Trophy 5,prc00487,1953,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Critics Actress Trophy 1,prc00488,1950,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+National Director Award 3,prc00489,2023,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+International Director Prize 4,prc00490,1970,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Critics Director Award 2,prc00491,1974,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+International Screenplay Prize 5,prc00492,1954,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Golden Director Prize 1,prc00493,2001,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Peoples Screenplay Trophy 4,prc00494,1958,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+Platinum Screenplay Award 4,prc00495,1993,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+Platinum Director Trophy 1,prc00496,1980,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Silver Director Honor 2,prc00497,1955,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+International Original Score Recognition 2,prc00498,2024,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",1
+International Actor Prize 2,prc00499,1960,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+International Original Score Prize 3,prc00500,2005,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",3
+International Screenplay Prize 1,prc00501,1969,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+Critics Screenplay Award 3,prc00502,2008,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Peoples Actress Recognition 2,prc00503,1975,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+Silver Cinematography Recognition 2,prc00504,1989,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,5
+Peoples Director Trophy 4,prc00505,1967,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Peoples Actor Award 1,prc00506,1992,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+Peoples Director Prize 5,prc00507,1963,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+Platinum Movie Prize 4,prc00508,1998,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+Critics Movie Honor 3,prc00509,2007,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+Golden Actor Trophy 5,prc00510,1957,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Silver Cinematography Prize 3,prc00511,1977,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+National Screenplay Award 3,prc00512,2020,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+International Director Prize 5,prc00513,1950,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Peoples Actor Honor 4,prc00514,1988,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Golden Cinematography Trophy 1,prc00515,1986,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",5
+Platinum Original Score Recognition 4,prc00516,1969,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+Critics Actress Recognition 5,prc00517,1975,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+Silver Screenplay Trophy 1,prc00518,1956,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Silver Movie Award 1,prc00519,2012,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+National Screenplay Recognition 2,prc00520,2024,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+International Screenplay Trophy 2,prc00521,1986,This award goes to the authors of the finest script not based upon previously published material.,4
+National Original Score Award 4,prc00522,1987,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Platinum Screenplay Trophy 4,prc00523,1997,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+Silver Actress Prize 1,prc00524,2014,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+Platinum Actor Award 1,prc00525,1987,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+Golden Cinematography Honor 4,prc00526,2023,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",10
+Golden Actress Trophy 1,prc00527,2008,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+Platinum Screenplay Recognition 3,prc00528,2002,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Golden Original Score Trophy 4,prc00529,1968,Awarded to an actor who has delivered a substantial performance in a supporting role.,7
+Golden Actor Honor 1,prc00530,1997,This award goes to the authors of the finest script not based upon previously published material.,6
+Platinum Original Score Prize 5,prc00531,1979,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",8
+Platinum Director Recognition 4,prc00532,1965,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+International Director Award 4,prc00533,1991,This award goes to the authors of the finest script not based upon previously published material.,1
+Critics Movie Trophy 2,prc00534,2017,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Platinum Actor Trophy 3,prc00535,1976,This award goes to the authors of the finest script not based upon previously published material.,1
+National Actress Recognition 3,prc00536,1990,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",4
+Peoples Actor Trophy 1,prc00537,1978,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",10
+Golden Movie Honor 4,prc00538,2007,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+National Actor Trophy 2,prc00539,1991,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Golden Director Recognition 4,prc00540,1968,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Peoples Cinematography Prize 4,prc00541,1968,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+Peoples Original Score Prize 1,prc00542,1953,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,8
+International Original Score Honor 1,prc00543,2008,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Peoples Movie Award 5,prc00544,2016,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+Platinum Original Score Trophy 5,prc00545,1975,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+Critics Screenplay Recognition 5,prc00546,1985,This award goes to the authors of the finest script not based upon previously published material.,1
+International Original Score Trophy 3,prc00547,1966,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+Critics Director Trophy 1,prc00548,1978,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+Silver Cinematography Trophy 4,prc00549,1987,This award goes to the authors of the finest script not based upon previously published material.,1
+Peoples Director Honor 2,prc00550,2001,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+Platinum Director Honor 5,prc00551,2013,Awarded to an actor who has delivered a substantial performance in a supporting role.,1
+National Actor Honor 5,prc00552,2008,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+National Actor Award 4,prc00553,1990,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+Peoples Original Score Honor 1,prc00554,1960,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+Silver Original Score Recognition 2,prc00555,1989,This award goes to the authors of the finest script not based upon previously published material.,1
+Peoples Screenplay Prize 5,prc00556,2000,This award goes to the authors of the finest script not based upon previously published material.,5
+National Actor Recognition 5,prc00557,1971,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Silver Original Score Trophy 5,prc00558,1986,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+Golden Actor Trophy 4,prc00559,1981,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+Platinum Original Score Recognition 5,prc00560,1989,This award goes to the authors of the finest script not based upon previously published material.,2
+Peoples Original Score Prize 2,prc00561,2005,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+Critics Screenplay Trophy 3,prc00562,1981,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+Silver Actress Honor 4,prc00563,2021,This award goes to the authors of the finest script not based upon previously published material.,5
+International Screenplay Award 1,prc00564,2015,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",2
+National Movie Recognition 5,prc00565,2024,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+National Movie Prize 3,prc00566,1966,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+International Original Score Award 5,prc00567,1962,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+Platinum Director Trophy 4,prc00568,1996,Awarded to an actor who has delivered a substantial performance in a supporting role.,4
+Silver Cinematography Recognition 5,prc00569,1955,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+Platinum Movie Honor 3,prc00570,1978,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+Peoples Cinematography Honor 1,prc00571,2009,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+Golden Original Score Prize 4,prc00572,2005,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Platinum Cinematography Trophy 3,prc00573,2021,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Silver Movie Honor 5,prc00574,1978,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Golden Cinematography Award 5,prc00575,1950,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Platinum Original Score Honor 4,prc00576,2011,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Critics Actor Honor 5,prc00577,1963,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",3
+Golden Cinematography Prize 1,prc00578,1962,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+Golden Director Recognition 1,prc00579,2016,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+National Screenplay Award 2,prc00580,1978,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Critics Screenplay Trophy 1,prc00581,1987,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+National Actor Recognition 4,prc00582,1999,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",5
+Silver Actor Honor 4,prc00583,1997,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",1
+Critics Cinematography Trophy 2,prc00584,2008,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+National Actor Award 1,prc00585,1964,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,8
+Silver Movie Recognition 5,prc00586,1981,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",7
+Platinum Cinematography Prize 3,prc00587,2009,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+Golden Cinematography Award 4,prc00588,1965,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,8
+Silver Original Score Prize 3,prc00589,1996,Awarded to the best composer who has produced the most outstanding original score for a film.,4
+Peoples Director Honor 1,prc00590,1992,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+Platinum Movie Honor 5,prc00591,2019,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+Critics Movie Prize 4,prc00592,2009,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",7
+Peoples Cinematography Honor 3,prc00593,1957,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",9
+Platinum Actor Honor 3,prc00594,1999,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+Golden Actor Recognition 1,prc00595,2022,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Peoples Actress Recognition 3,prc00596,1964,This award goes to the authors of the finest script not based upon previously published material.,3
+Golden Movie Prize 3,prc00597,1990,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+National Original Score Prize 1,prc00598,1982,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+Platinum Movie Trophy 1,prc00599,1985,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Silver Director Award 1,prc00600,1998,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Golden Movie Honor 5,prc00601,1951,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+National Actress Trophy 4,prc00602,1965,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+Critics Original Score Recognition 2,prc00603,2003,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Critics Actor Award 5,prc00604,1957,This award goes to the authors of the finest script not based upon previously published material.,2
+Silver Director Prize 5,prc00605,1970,This award goes to the authors of the finest script not based upon previously published material.,1
+Platinum Movie Award 5,prc00606,2022,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+International Cinematography Trophy 1,prc00607,1958,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",6
+Platinum Director Award 2,prc00608,1993,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+Silver Movie Prize 1,prc00609,1976,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+National Cinematography Award 3,prc00610,1964,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Critics Actress Trophy 4,prc00611,1981,This award goes to the authors of the finest script not based upon previously published material.,1
+Platinum Actor Award 5,prc00612,2016,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+Platinum Actor Honor 1,prc00613,2007,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+International Actor Honor 5,prc00614,1965,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+National Original Score Trophy 5,prc00615,1992,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+National Screenplay Prize 2,prc00616,1951,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+Golden Cinematography Honor 3,prc00617,2016,This award goes to the authors of the finest script not based upon previously published material.,10
+Critics Actress Award 2,prc00618,1975,This award goes to the authors of the finest script not based upon previously published material.,3
+Peoples Director Award 1,prc00619,1998,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",5
+International Original Score Honor 4,prc00620,2004,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",6
+National Director Trophy 1,prc00621,1977,This award goes to the authors of the finest script not based upon previously published material.,1
+International Movie Trophy 4,prc00622,2014,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+Critics Actor Award 4,prc00623,1971,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",10
+International Director Recognition 4,prc00624,1953,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Golden Movie Award 4,prc00625,2005,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",2
+National Actress Recognition 1,prc00626,1986,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",5
+Golden Movie Trophy 5,prc00627,1969,This award goes to the authors of the finest script not based upon previously published material.,1
+International Director Trophy 2,prc00628,1980,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",3
+Platinum Cinematography Honor 2,prc00629,1969,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Critics Director Prize 2,prc00630,2011,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Silver Director Trophy 3,prc00631,1957,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+Peoples Actor Recognition 3,prc00632,1982,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Golden Actor Honor 4,prc00633,1956,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",6
+Peoples Actor Honor 2,prc00634,1968,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+Peoples Director Honor 3,prc00635,1966,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Silver Actress Prize 5,prc00636,1986,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+Peoples Screenplay Honor 5,prc00637,1986,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+Golden Director Honor 5,prc00638,1968,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+Silver Movie Recognition 2,prc00639,1956,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Golden Actress Recognition 1,prc00640,2023,Awarded to the best composer who has produced the most outstanding original score for a film.,9
+Platinum Original Score Award 4,prc00641,1991,This award goes to the authors of the finest script not based upon previously published material.,6
+Golden Actress Trophy 3,prc00642,1974,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Peoples Director Honor 4,prc00643,1987,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+National Director Trophy 5,prc00644,1958,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Golden Movie Prize 5,prc00645,1979,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+Golden Actor Award 1,prc00646,1976,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Platinum Movie Recognition 4,prc00647,1964,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",3
+Critics Actress Honor 4,prc00648,1983,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Silver Screenplay Prize 5,prc00649,2020,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+Peoples Director Prize 4,prc00650,1995,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+Peoples Screenplay Recognition 2,prc00651,1997,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+National Director Honor 1,prc00652,1950,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+Critics Director Honor 3,prc00653,2017,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",4
+Peoples Cinematography Honor 4,prc00654,1991,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+National Cinematography Prize 4,prc00655,1955,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+National Original Score Recognition 3,prc00656,1973,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+Platinum Director Prize 3,prc00657,2018,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Critics Screenplay Prize 3,prc00658,1968,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+Platinum Original Score Recognition 2,prc00659,1996,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Peoples Cinematography Award 5,prc00660,1969,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+Golden Cinematography Prize 2,prc00661,1958,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Peoples Cinematography Honor 2,prc00662,1951,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+Silver Actor Trophy 4,prc00663,1976,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Platinum Original Score Prize 4,prc00664,2020,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+Silver Cinematography Honor 4,prc00665,2023,This award goes to the authors of the finest script not based upon previously published material.,9
+National Actress Honor 5,prc00666,1984,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Platinum Director Trophy 2,prc00667,1981,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+Peoples Cinematography Recognition 1,prc00668,1998,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+International Cinematography Trophy 4,prc00669,1968,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+Golden Director Honor 3,prc00670,1951,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+National Actor Prize 3,prc00671,1970,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,3
+National Movie Trophy 3,prc00672,1972,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Platinum Movie Award 4,prc00673,2017,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",1
+Platinum Director Award 5,prc00674,2008,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+Silver Original Score Honor 3,prc00675,1959,This award goes to the authors of the finest script not based upon previously published material.,3
+Golden Original Score Award 4,prc00676,2024,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",2
+Platinum Cinematography Honor 3,prc00677,2008,Awarded to the best composer who has produced the most outstanding original score for a film.,1
+Platinum Movie Award 1,prc00678,2024,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+Silver Movie Trophy 1,prc00679,2017,Awarded to an actor who has delivered a substantial performance in a supporting role.,1
+Platinum Movie Prize 3,prc00680,1971,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+National Actress Award 4,prc00681,2012,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+Peoples Actress Recognition 1,prc00682,2010,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+Critics Original Score Trophy 2,prc00683,1986,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+National Cinematography Honor 2,prc00684,1984,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,7
+Silver Original Score Award 4,prc00685,1997,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+International Original Score Award 2,prc00686,1982,This award goes to the authors of the finest script not based upon previously published material.,10
+International Movie Honor 3,prc00687,2023,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Silver Director Honor 4,prc00688,2024,This award goes to the authors of the finest script not based upon previously published material.,10
+Critics Cinematography Honor 1,prc00689,1999,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+International Director Award 2,prc00690,1978,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+Golden Actor Recognition 4,prc00691,2010,Awarded to an actor who has delivered a substantial performance in a supporting role.,3
+Peoples Original Score Honor 2,prc00692,1986,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+Platinum Actress Honor 5,prc00693,1987,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,9
+National Actor Trophy 3,prc00694,1979,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+Platinum Actress Trophy 2,prc00695,1961,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Critics Director Recognition 3,prc00696,2016,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Platinum Screenplay Honor 5,prc00697,2004,Awarded to an actor who has delivered a substantial performance in a supporting role.,1
+Peoples Cinematography Trophy 3,prc00698,2014,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+Critics Cinematography Honor 2,prc00699,1991,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+National Director Trophy 3,prc00700,2012,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Platinum Movie Trophy 2,prc00701,2017,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+National Actor Award 5,prc00702,2009,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+National Movie Award 5,prc00703,1972,This award goes to the authors of the finest script not based upon previously published material.,7
+Silver Movie Trophy 4,prc00704,1961,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",9
+Critics Original Score Prize 4,prc00705,2019,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Golden Actress Honor 1,prc00706,1972,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Peoples Screenplay Prize 2,prc00707,1988,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",1
+Silver Actress Recognition 2,prc00708,1952,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Golden Actress Prize 4,prc00709,2023,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",6
+Critics Movie Recognition 5,prc00710,1977,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",1
+International Actress Recognition 3,prc00711,1982,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+Golden Actor Award 4,prc00712,1952,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+Peoples Director Honor 5,prc00713,1970,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+International Screenplay Trophy 1,prc00714,1955,This award goes to the authors of the finest script not based upon previously published material.,6
+Platinum Director Recognition 1,prc00715,1953,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+Peoples Actor Award 4,prc00716,1952,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+Silver Cinematography Recognition 3,prc00717,1960,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+International Actress Prize 1,prc00718,2015,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+National Screenplay Award 4,prc00719,1952,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+Golden Screenplay Award 2,prc00720,1950,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,6
+Platinum Cinematography Prize 5,prc00721,1994,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",4
+International Actor Recognition 3,prc00722,1985,This award goes to the authors of the finest script not based upon previously published material.,4
+Critics Cinematography Trophy 1,prc00723,1981,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",3
+International Movie Recognition 4,prc00724,2017,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Critics Director Prize 4,prc00725,1958,This award goes to the authors of the finest script not based upon previously published material.,1
+Silver Actor Award 5,prc00726,1977,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+Platinum Screenplay Trophy 5,prc00727,2010,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+International Director Honor 1,prc00728,2004,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+National Cinematography Award 1,prc00729,2016,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+Golden Director Honor 1,prc00730,1979,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,6
+Peoples Original Score Prize 4,prc00731,1988,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+International Screenplay Prize 4,prc00732,1983,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+National Original Score Honor 4,prc00733,1993,This award goes to the authors of the finest script not based upon previously published material.,1
+Platinum Movie Trophy 4,prc00734,1995,This award goes to the authors of the finest script not based upon previously published material.,3
+Platinum Actress Award 2,prc00735,1991,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+International Movie Recognition 5,prc00736,1964,Awarded to an actor who has delivered a substantial performance in a supporting role.,3
+Platinum Actress Trophy 5,prc00737,1959,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+National Original Score Recognition 5,prc00738,2005,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",9
+Silver Director Prize 1,prc00739,1960,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+Silver Actress Prize 4,prc00740,2022,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Critics Actress Recognition 2,prc00741,1988,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,6
+National Actor Recognition 3,prc00742,2010,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",4
+Platinum Original Score Award 2,prc00743,1978,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+Golden Actress Recognition 4,prc00744,1975,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Silver Director Award 4,prc00745,1959,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Peoples Original Score Trophy 5,prc00746,1956,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Golden Actor Award 2,prc00747,2015,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,5
+Golden Director Award 4,prc00748,2024,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",2
+Golden Screenplay Award 1,prc00749,2014,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+National Movie Honor 5,prc00750,1976,This award goes to the authors of the finest script not based upon previously published material.,7
+International Original Score Recognition 5,prc00751,2016,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+Critics Director Honor 1,prc00752,2008,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+Platinum Screenplay Prize 3,prc00753,2017,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",1
+National Screenplay Prize 4,prc00754,2002,This award goes to the authors of the finest script not based upon previously published material.,9
+International Actress Honor 4,prc00755,2024,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Silver Original Score Recognition 1,prc00756,1997,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Platinum Actress Prize 4,prc00757,1962,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+Critics Director Recognition 1,prc00758,2006,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,9
+International Director Trophy 3,prc00759,2011,Awarded to the best composer who has produced the most outstanding original score for a film.,9
+Silver Actor Recognition 2,prc00760,1996,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+National Screenplay Recognition 4,prc00761,2012,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Silver Movie Honor 1,prc00762,1970,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+International Director Trophy 1,prc00763,1974,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",4
+Silver Cinematography Award 3,prc00764,1979,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,9
+Peoples Director Prize 1,prc00765,2014,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",3
+Platinum Actress Award 3,prc00766,2020,Awarded to an actor who has delivered a substantial performance in a supporting role.,9
+Platinum Actress Prize 2,prc00767,1997,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,9
+Critics Movie Award 5,prc00768,2017,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+Golden Actor Prize 2,prc00769,1970,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",3
+National Cinematography Trophy 5,prc00770,2015,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+International Original Score Prize 5,prc00771,1988,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+International Original Score Award 4,prc00772,1956,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Silver Actor Recognition 5,prc00773,1979,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,7
+Silver Actress Recognition 5,prc00774,1979,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Silver Actress Award 1,prc00775,2019,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+International Actor Recognition 5,prc00776,1961,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+Platinum Screenplay Honor 1,prc00777,2022,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,6
+National Actress Trophy 2,prc00778,2000,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Peoples Actress Award 5,prc00779,2014,Awarded to the best composer who has produced the most outstanding original score for a film.,9
+Platinum Original Score Honor 3,prc00780,1974,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Silver Movie Trophy 5,prc00781,1992,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Silver Actor Prize 1,prc00782,1967,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",3
+National Cinematography Recognition 1,prc00783,1953,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Silver Director Prize 2,prc00784,2021,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+Golden Actor Prize 4,prc00785,1979,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+International Actor Award 1,prc00786,1993,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+National Actor Trophy 4,prc00787,1961,Awarded to the best composer who has produced the most outstanding original score for a film.,2
+Platinum Director Prize 2,prc00788,1968,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+National Cinematography Award 5,prc00789,1985,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Peoples Actor Recognition 1,prc00790,2014,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Platinum Movie Recognition 1,prc00791,1973,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+Platinum Original Score Honor 5,prc00792,2016,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Peoples Movie Prize 3,prc00793,1966,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,2
+Silver Cinematography Honor 1,prc00794,1966,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+Critics Director Award 3,prc00795,1968,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Silver Director Award 5,prc00796,1962,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+National Movie Award 3,prc00797,2023,This award goes to the authors of the finest script not based upon previously published material.,8
+Silver Screenplay Trophy 5,prc00798,1969,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Platinum Actor Recognition 3,prc00799,1988,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Platinum Original Score Prize 2,prc00800,1998,This award goes to the authors of the finest script not based upon previously published material.,4
+Silver Actress Trophy 3,prc00801,1965,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Critics Actress Prize 1,prc00802,2002,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Golden Screenplay Recognition 5,prc00803,1989,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+National Cinematography Recognition 5,prc00804,1978,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Golden Original Score Prize 3,prc00805,1987,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+International Cinematography Award 1,prc00806,1975,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+National Screenplay Award 5,prc00807,2009,Awarded to the best composer who has produced the most outstanding original score for a film.,7
+Silver Original Score Honor 2,prc00808,1953,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+Silver Actor Honor 5,prc00809,1997,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Peoples Screenplay Recognition 4,prc00810,2011,This award goes to the authors of the finest script not based upon previously published material.,8
+National Movie Trophy 5,prc00811,1969,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,1
+Critics Director Award 5,prc00812,2016,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+Peoples Actor Prize 2,prc00813,1977,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+International Actor Honor 3,prc00814,1977,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",1
+International Cinematography Honor 1,prc00815,1989,This award goes to the authors of the finest script not based upon previously published material.,6
+National Movie Honor 3,prc00816,1966,Awarded to an actor who has delivered a substantial performance in a supporting role.,1
+International Director Honor 5,prc00817,2013,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+Peoples Actor Award 2,prc00818,1971,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",1
+Golden Movie Award 3,prc00819,1965,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Peoples Director Trophy 2,prc00820,1980,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",10
+International Original Score Recognition 4,prc00821,1985,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,8
+Golden Director Trophy 1,prc00822,1997,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+Golden Actor Honor 3,prc00823,2008,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Peoples Cinematography Trophy 1,prc00824,1980,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+National Cinematography Recognition 2,prc00825,1954,This award goes to the authors of the finest script not based upon previously published material.,9
+International Actor Trophy 4,prc00826,1962,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+Critics Original Score Prize 1,prc00827,1982,Awarded to the best composer who has produced the most outstanding original score for a film.,8
+Peoples Actress Trophy 1,prc00828,2009,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",2
+Platinum Original Score Trophy 4,prc00829,2013,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",4
+Critics Actor Trophy 1,prc00830,1992,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+Critics Screenplay Prize 2,prc00831,2018,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",7
+Platinum Director Honor 3,prc00832,1961,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",8
+Platinum Movie Award 3,prc00833,1963,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+Golden Actor Award 3,prc00834,1994,This award goes to the authors of the finest script not based upon previously published material.,9
+Critics Actor Prize 4,prc00835,1962,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Platinum Cinematography Honor 4,prc00836,1964,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Golden Movie Award 2,prc00837,1994,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+Critics Actress Award 4,prc00838,1981,Awarded to an actor who has delivered a substantial performance in a supporting role.,8
+Peoples Director Trophy 3,prc00839,2019,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+Silver Original Score Trophy 3,prc00840,1967,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+Peoples Screenplay Recognition 1,prc00841,1996,This award goes to the authors of the finest script not based upon previously published material.,2
+Platinum Actress Recognition 5,prc00842,1963,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,1
+Peoples Original Score Recognition 1,prc00843,1985,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+Silver Cinematography Trophy 2,prc00844,2010,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+National Actor Honor 3,prc00845,2002,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+Golden Movie Honor 2,prc00846,1958,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+Critics Director Recognition 2,prc00847,1997,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+Peoples Actor Prize 5,prc00848,2009,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Critics Screenplay Trophy 4,prc00849,1992,This award goes to the authors of the finest script not based upon previously published material.,8
+Peoples Cinematography Recognition 5,prc00850,2007,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+National Actor Honor 4,prc00851,1992,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+International Original Score Recognition 3,prc00852,1983,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+Silver Actress Honor 3,prc00853,1967,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+Critics Screenplay Award 1,prc00854,2009,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+Golden Cinematography Award 1,prc00855,2007,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Silver Director Recognition 2,prc00856,1986,This award goes to the authors of the finest script not based upon previously published material.,8
+Critics Movie Honor 1,prc00857,1999,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+Critics Movie Prize 5,prc00858,1987,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",4
+Platinum Screenplay Prize 4,prc00859,1959,This award goes to the authors of the finest script not based upon previously published material.,2
+Critics Cinematography Trophy 4,prc00860,1951,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+Platinum Actress Honor 1,prc00861,2022,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+Golden Cinematography Honor 2,prc00862,1953,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+Golden Director Prize 4,prc00863,1984,This award goes to the authors of the finest script not based upon previously published material.,3
+Golden Cinematography Honor 1,prc00864,2004,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Peoples Screenplay Honor 2,prc00865,1967,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",10
+National Director Award 5,prc00866,1951,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",8
+Golden Movie Trophy 2,prc00867,1968,Awarded to an actor who has delivered a substantial performance in a supporting role.,3
+National Actor Trophy 1,prc00868,1990,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+National Original Score Trophy 1,prc00869,1979,This award goes to the authors of the finest script not based upon previously published material.,5
+Golden Screenplay Honor 3,prc00870,2022,Awarded to an actor who has delivered a substantial performance in a supporting role.,3
+International Movie Award 5,prc00871,1976,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",10
+Golden Movie Recognition 3,prc00872,1952,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,5
+Peoples Movie Honor 1,prc00873,1998,Awarded to the best composer who has produced the most outstanding original score for a film.,4
+Critics Director Trophy 3,prc00874,1971,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+Golden Cinematography Award 2,prc00875,2024,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Critics Cinematography Honor 5,prc00876,1953,This award goes to the authors of the finest script not based upon previously published material.,9
+Golden Original Score Trophy 3,prc00877,1981,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",3
+Platinum Original Score Trophy 2,prc00878,1980,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",5
+National Screenplay Trophy 3,prc00879,1985,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",2
+Peoples Original Score Recognition 5,prc00880,1998,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,9
+Peoples Actor Trophy 2,prc00881,1954,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Golden Screenplay Honor 2,prc00882,2003,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+International Director Trophy 4,prc00883,2022,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,7
+Critics Original Score Prize 5,prc00884,2018,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Critics Actress Recognition 3,prc00885,1964,This award goes to the authors of the finest script not based upon previously published material.,7
+Critics Screenplay Recognition 3,prc00886,1973,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",6
+International Screenplay Prize 3,prc00887,2000,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+International Actress Award 4,prc00888,2013,This award goes to the authors of the finest script not based upon previously published material.,10
+National Actress Award 2,prc00889,1956,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,3
+Silver Actress Award 5,prc00890,2020,This award goes to the authors of the finest script not based upon previously published material.,10
+Peoples Screenplay Award 3,prc00891,2019,This award goes to the authors of the finest script not based upon previously published material.,9
+Peoples Screenplay Recognition 3,prc00892,1999,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",2
+National Screenplay Prize 3,prc00893,2007,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",1
+Silver Actress Recognition 3,prc00894,2017,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,9
+Platinum Movie Prize 2,prc00895,2004,Awarded to an actor who has delivered a substantial performance in a supporting role.,1
+Golden Screenplay Recognition 3,prc00896,1992,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",6
+International Actress Honor 3,prc00897,1970,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,10
+Platinum Actor Trophy 4,prc00898,2014,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",1
+International Cinematography Recognition 2,prc00899,1963,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+Silver Actress Honor 1,prc00900,2005,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+Critics Original Score Trophy 3,prc00901,1974,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,5
+Peoples Movie Trophy 5,prc00902,1958,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+Critics Movie Recognition 3,prc00903,1994,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,4
+International Movie Award 1,prc00904,1953,This award goes to the authors of the finest script not based upon previously published material.,9
+International Director Award 3,prc00905,1978,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Peoples Cinematography Award 1,prc00906,2006,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+International Screenplay Prize 2,prc00907,1976,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Platinum Movie Trophy 3,prc00908,2002,Awarded to the best composer who has produced the most outstanding original score for a film.,5
+National Actress Prize 2,prc00909,1985,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+International Actor Honor 4,prc00910,2010,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Golden Original Score Honor 1,prc00911,1991,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",6
+Golden Original Score Trophy 1,prc00912,1956,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",5
+Platinum Cinematography Recognition 2,prc00913,1982,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+Critics Movie Award 3,prc00914,1987,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,1
+Peoples Movie Recognition 1,prc00915,1960,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Critics Screenplay Recognition 4,prc00916,1979,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Golden Actress Award 5,prc00917,1984,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",6
+Silver Cinematography Award 2,prc00918,1993,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+National Original Score Award 5,prc00919,2018,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",1
+Peoples Cinematography Recognition 3,prc00920,1950,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Silver Original Score Award 1,prc00921,1984,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,8
+International Actor Prize 1,prc00922,2003,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,1
+International Original Score Honor 3,prc00923,1961,This award goes to the authors of the finest script not based upon previously published material.,8
+International Original Score Honor 2,prc00924,1986,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Critics Cinematography Recognition 5,prc00925,1950,This award goes to the authors of the finest script not based upon previously published material.,2
+International Cinematography Honor 3,prc00926,1952,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+Silver Actress Trophy 5,prc00927,1968,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,2
+International Movie Trophy 2,prc00928,1962,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,1
+Platinum Actress Prize 5,prc00929,1991,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Silver Actor Recognition 4,prc00930,2017,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,2
+Platinum Original Score Honor 1,prc00931,1954,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",4
+Silver Screenplay Honor 5,prc00932,1989,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,10
+Golden Movie Prize 2,prc00933,1975,Awarded to an actor who has delivered a substantial performance in a supporting role.,7
+Platinum Original Score Honor 2,prc00934,1990,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+International Actress Recognition 1,prc00935,1979,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,4
+Critics Screenplay Award 4,prc00936,1980,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",10
+Peoples Original Score Recognition 3,prc00937,1982,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",1
+Critics Original Score Recognition 5,prc00938,2024,This award goes to the authors of the finest script not based upon previously published material.,8
+Peoples Screenplay Trophy 1,prc00939,2004,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",9
+Silver Screenplay Trophy 3,prc00940,1986,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+Platinum Director Award 3,prc00941,1995,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",2
+Peoples Actor Trophy 5,prc00942,1956,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",8
+Critics Actress Recognition 1,prc00943,1971,This award goes to the authors of the finest script not based upon previously published material.,1
+Golden Original Score Recognition 1,prc00944,1980,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,3
+Platinum Screenplay Recognition 4,prc00945,2015,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+Platinum Actor Trophy 2,prc00946,2020,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",3
+International Actor Recognition 1,prc00947,1963,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",9
+International Actress Prize 4,prc00948,2022,Awarded to the best composer who has produced the most outstanding original score for a film.,6
+Platinum Actress Trophy 3,prc00949,1992,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,3
+Critics Cinematography Recognition 3,prc00950,1986,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,6
+Critics Original Score Recognition 4,prc00951,1988,This award goes to the authors of the finest script not based upon previously published material.,1
+Golden Original Score Trophy 5,prc00952,1961,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+International Original Score Trophy 5,prc00953,2001,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,8
+National Cinematography Prize 2,prc00954,1998,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+National Cinematography Prize 5,prc00955,1998,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,7
+Peoples Actress Trophy 3,prc00956,1986,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+National Actor Award 3,prc00957,1998,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,7
+Silver Actor Recognition 1,prc00958,2000,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",9
+Critics Movie Award 1,prc00959,2022,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
+Golden Movie Honor 3,prc00960,1969,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",8
+National Actor Recognition 1,prc00961,1995,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+Golden Actress Recognition 2,prc00962,1956,This award goes to the authors of the finest script not based upon previously published material.,7
+Silver Director Recognition 3,prc00963,1988,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",4
+Platinum Director Honor 1,prc00964,2005,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",9
+Peoples Screenplay Award 5,prc00965,2008,Awarded to an actor who has delivered a substantial performance in a supporting role.,10
+Silver Actress Honor 5,prc00966,1988,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",10
+International Actress Trophy 1,prc00967,1974,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",3
+Golden Cinematography Recognition 3,prc00968,1957,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Platinum Cinematography Award 4,prc00969,2008,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",1
+Golden Movie Recognition 5,prc00970,1954,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",7
+International Actor Recognition 4,prc00971,1958,This award goes to the authors of the finest script not based upon previously published material.,2
+Critics Original Score Award 2,prc00972,1992,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Silver Actor Prize 4,prc00973,1985,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,3
+International Actress Award 5,prc00974,1953,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+National Director Recognition 2,prc00975,2008,Awarded to an actor who has delivered a substantial performance in a supporting role.,2
+Peoples Director Recognition 3,prc00976,1985,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Peoples Screenplay Award 1,prc00977,1953,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+International Original Score Prize 4,prc00978,1996,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Platinum Cinematography Recognition 4,prc00979,2003,Awarded to the best composer who has produced the most outstanding original score for a film.,3
+Critics Screenplay Prize 1,prc00980,1965,Awarded to the best composer who has produced the most outstanding original score for a film.,4
+International Screenplay Recognition 4,prc00981,1965,Awarded to an actor who has delivered a substantial performance in a supporting role.,5
+Golden Screenplay Recognition 1,prc00982,2023,Awarded to the best composer who has produced the most outstanding original score for a film.,10
+Peoples Actor Recognition 4,prc00983,1978,Awarded to an actor who has delivered a substantial performance in a supporting role.,7
+Golden Director Trophy 2,prc00984,1976,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",7
+International Actor Honor 1,prc00985,2018,"Given to the writers of the best script adapted from another source, such as novels, plays, or TV series.",5
+Peoples Director Trophy 5,prc00986,1973,Awarded to the best composer who has produced the most outstanding original score for a film.,4
+Golden Director Award 5,prc00987,2012,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,6
+Peoples Director Award 5,prc00988,2013,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",5
+Platinum Director Recognition 3,prc00989,1989,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",4
+Silver Actress Trophy 2,prc00990,2018,"Honors the art of visual photography and lighting in film making, recognizing the cinematographer of a film.",1
+Peoples Actor Trophy 4,prc00991,2001,Awarded to an actor who has delivered a substantial performance in a supporting role.,6
+International Movie Prize 5,prc00992,1999,Awarded to an actor who has delivered a substantial performance in a supporting role.,3
+Golden Movie Prize 4,prc00993,1950,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,8
+National Actress Trophy 3,prc00994,1968,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",4
+Golden Actress Honor 3,prc00995,2013,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",3
+Peoples Actor Prize 3,prc00996,1964,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+Silver Director Recognition 1,prc00997,2010,Presented to a female actor who has delivered an outstanding performance in a leading role in movies.,3
+Critics Movie Recognition 2,prc00998,2020,Given to a male actor who has delivered an outstanding performance in a leading role while working within the film industry.,10
+Critics Original Score Honor 3,prc00999,1963,"Awarded annually by the Academy of Motion Picture Arts and Sciences, this prestigious honor recognizes the producers of the film and is considered the most important award of the ceremony.",8
+Platinum Original Score Award 1,prc01000,2004,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,1
+National Actress Recognition 4,prc01001,2020,"This award honors directors who have exhibited outstanding directing skills in film making, leading to extraordinary storytelling and character development.",10
+Platinum Actress Award 4,prc01002,2006,Presented to an actress for an outstanding performance in a supporting role in the cinematic industry.,4
